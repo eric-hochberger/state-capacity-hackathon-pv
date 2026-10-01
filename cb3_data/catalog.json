@@ -1,0 +1,3003 @@
+{
+  "results" :
+    [
+      {
+        "resource" :
+          {
+            "name" : "Census Demographics",
+            "id" : "xsrb-mxqt",
+            "resource_name" : null,
+            "parent_fxf" : [],
+            "description" : "Summary statistics from the 2000 and 2010 United States Census including population, demographics, education, and housing information for each block group in East Baton Rouge Parish, Louisiana.",
+            "attribution" : "Information Services",
+            "attribution_link" : "https://www.brla.gov/311/Information-Services",
+            "contact_email" : null,
+            "type" : "dataset",
+            "updatedAt" : "2021-12-15T00:50:52.000Z",
+            "createdAt" : "2015-04-29T02:23:12.000Z",
+            "metadata_updated_at" : "2021-12-15T00:50:52.000Z",
+            "data_updated_at" : "2015-08-05T16:33:58.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 25,
+                "page_views_last_month" : 77,
+                "page_views_total" : 4981,
+                "page_views_last_week_log" : 4.700439718141093,
+                "page_views_last_month_log" : 6.285402218862249,
+                "page_views_total_log" : 12.282509306240836
+              },
+            "columns_name" :
+              [
+                "POPULATION ASIAN",
+                "PROFESSIONAL DEGREE FEMALE",
+                "POPULATION MULTI RACE",
+                "HIGH SCHOOL MORE FEMALE",
+                "BACHELORS DEGREE FEMALE",
+                "BLOCK GROUP",
+                "CENSUS YEAR",
+                "PERCENT RENTER OCCUPIED",
+                "COLLEGE 1 YR MORE FEMALE",
+                "PERCENT OWNER OCCUPIED",
+                "MEDIAN HOUSE VALUE OWNER OCCUPIED",
+                "VACANCY RATES",
+                "UNIQUE ID",
+                "POPULATION PACIFIC ISLANDER",
+                "POPULATION ONE RACE",
+                "MEDIAN AGE",
+                "HIGH SCHOOL MALE",
+                "HIGH SCHOOL MORE MALE",
+                "ASSOCIATES DEGREE MALE",
+                "PROFESSIONAL DEGREE MALE",
+                "ASSOCIATES DEGREE FEMALE",
+                "HOUSING UNITS",
+                "OCCUPIED HOUSING UNITS",
+                "TRACT",
+                "FIPS ID",
+                "TOTAL POPULATION",
+                "POPULATION WHITE",
+                "POPULATION BLACK",
+                "POPULATION OTHER",
+                "POPULATION AMERICAN INDIAN",
+                "POPULATION 25 OLDER",
+                "MEDIAN HOUSEHOLD INCOME",
+                "COLLEGE 1 YR LESS MALE",
+                "COLLEGE 1 YR MORE MALE",
+                "BACHELORS DEGREE MALE",
+                "MASTERS DEGREE MALE",
+                "DOCTORAL DEGREE MALE",
+                "HIGH SCHOOL FEMALE",
+                "COLLEGE 1 YR LESS FEMALE",
+                "MASTERS DEGREE FEMALE",
+                "DOCTORAL DEGREE FEMALE",
+                "PERCENT 25 YR OVER HIGH SCHOOL MORE",
+                "OWNER OCCUPIED HOUSING",
+                "RENTER OCCUPIED HOUSING",
+                "MEDIAN YEAR BUILT"
+              ],
+            "columns_field_name" :
+              [
+                "population_asian",
+                "professional_degree_female",
+                "population_multi_race",
+                "high_school_more_female",
+                "bachelors_degree_female",
+                "block_group",
+                "census_year",
+                "percent_renter_occupied",
+                "college_1yr_more_female",
+                "percent_owner_occupied",
+                "median_house_value_owner_occu",
+                "vacancy_rates",
+                "unique_id",
+                "population_pacf_island",
+                "population_one_race",
+                "median_age",
+                "high_school_male",
+                "high_school_more_male",
+                "associates_degree_male",
+                "professional_degree_male",
+                "associates_degree_female",
+                "housing_units",
+                "occupied_housing_units",
+                "tract",
+                "fips_id",
+                "total_population",
+                "population_white",
+                "population_black",
+                "population_other",
+                "population_am_indian",
+                "population_25_older",
+                "median_household_income",
+                "college_1yr_less_male",
+                "college_1yr_more_male",
+                "bachelors_degree_male",
+                "masters_degree_male",
+                "doctoral_degree_male",
+                "high_school_female",
+                "college_1yr_less_female",
+                "masters_degree_female",
+                "doctoral_degree_female",
+                "pct_25yrover_high_school_more",
+                "owner_occupied_housing",
+                "renter_occupied_housing",
+                "median_year_built"
+              ],
+            "columns_datatype" :
+              [
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Text",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number"
+              ],
+            "columns_description" :
+              [
+                "Total Asian population of the block group ",
+                "Number of females with a professional degree",
+                "Total population of people of multiple races",
+                "Number of females with more than a high school education",
+                "Number of females with a bachelors degree",
+                "Census block group number\n",
+                "Year in which census data was reported\n",
+                "Percent of renter occupied housing units",
+                "Number of females with more than one year of college education",
+                "Percent of owner occupied housing units",
+                "Median value of owner occupied housing units",
+                "Rate of housing unit vacancy",
+                "Unique identifier of record comprised of Census Year and FIPS Code",
+                "Total population of Pacific Islanders",
+                "Total population of people of one race",
+                "Median age of the block group",
+                "Number of male high school graduates",
+                "Number of males with more than a high school education",
+                "Number of males with an associates degree",
+                "Number of males with a professional degree",
+                "Number of females with an associates degree",
+                "Number of housing units",
+                "Number of occupied housing units",
+                "Census tract number",
+                "Federal Information Processing Standards which is a combination of the state, county, tract and block group codes",
+                "Total population of the Census block group",
+                "Total white population of the block group",
+                "Total black population of the block group",
+                "Total other population of the block group",
+                "Total American Indian population of the block group",
+                "Total population of the block group that is 25 years or older",
+                "Median household income of the block group",
+                "Number of males with less than one year of college education",
+                "Number of males with more than one year of college education",
+                "Number of males with a bachelors degree",
+                "Number of males with a masters degree",
+                "Number of males with a doctoral degree",
+                "Number of female high school graduates",
+                "Number of females with less than one year of college education",
+                "Number of females with a masters degree",
+                "Number of females with a doctoral degree",
+                "Percent of 25 year or older high school graduates",
+                "Number of owner occupied housing units",
+                "Number of renter occupied housing units",
+                "Median year housing unit was built"
+              ],
+            "columns_format" :
+              [
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "true",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "true",
+                  "align" : "right"
+                },
+                {
+                  "noCommas" : "false",
+                  "align" : "right",
+                  "percentScale" : "100",
+                  "precisionStyle" : "percentage",
+                  "view" : "percent_text"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "noCommas" : "false",
+                  "align" : "right",
+                  "percentScale" : "100",
+                  "precisionStyle" : "percentage",
+                  "view" : "percent_text"
+                },
+                {
+                  "precision" : "2",
+                  "align" : "right",
+                  "currencyStyle" : "USD",
+                  "humane" : "false",
+                  "precisionStyle" : "currency"
+                },
+                {
+                  "noCommas" : "false",
+                  "align" : "right",
+                  "percentScale" : "100",
+                  "precisionStyle" : "percentage",
+                  "view" : "percent_text"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "true",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                { "align" : "left" },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "true",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "noCommas" : "false",
+                  "align" : "right",
+                  "percentScale" : "100",
+                  "precisionStyle" : "percentage",
+                  "view" : "percent_text"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "true",
+                  "align" : "right"
+                }
+              ],
+            "download_count" : 10509,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "table",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2015-08-05T16:49:40.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Housing and Development",
+            "domain_tags" : [ "census", "demographics", "population" ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Dataset-Information_Update-Frequency",
+                  "value" : "Periodically"
+                },
+                {
+                  "key" : "Dataset-Information_Source-Department",
+                  "value" : "Information Services"
+                }
+              ]
+          },
+        "metadata" : {
+                       "domain" : "data.brla.gov",
+                       "license" : "Public Domain"
+                     },
+        "permalink" : "https://data.brla.gov/d/xsrb-mxqt",
+        "link" : "https://data.brla.gov/Housing-and-Development/Census-Demographics/xsrb-mxqt",
+        "owner" :
+          {
+            "id" : "mjn2-v86v",
+            "user_type" : "interactive",
+            "display_name" : "Open Data BR"
+          },
+        "creator" :
+          {
+            "id" : "mjn2-v86v",
+            "user_type" : "interactive",
+            "display_name" : "Open Data BR"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Census Demographics at the Neighborhood Tabulation Area (NTA) level",
+            "id" : "rnsn-acs2",
+            "resource_name" : null,
+            "parent_fxf" : [],
+            "description" : "Table of Census Demographics\r\nrepresented at the NTA level. NTAs\r\nare aggregations of census tracts that\r\nare subsets of New York City's 55\r\nPublic Use Micro data Areas (PUMAs)",
+            "attribution" : "Department of City Planning (DCP)",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "dataset",
+            "updatedAt" : "2020-02-08T00:52:45.000Z",
+            "createdAt" : "2015-02-17T16:42:19.000Z",
+            "metadata_updated_at" : "2020-02-08T00:52:45.000Z",
+            "data_updated_at" : "2015-02-17T16:42:28.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 63,
+                "page_views_last_month" : 259,
+                "page_views_total" : 28663,
+                "page_views_last_week_log" : 6.0,
+                "page_views_last_month_log" : 8.022367813028454,
+                "page_views_total_log" : 14.806952328210738
+              },
+            "columns_name" :
+              [
+                "Total Population Change 2000-2010 Number",
+                "Geographic Area - Borough",
+                "Total Population 2000 Number",
+                "Total Population 2010 Number",
+                "Geographic Area - Neighborhood Tabulation Area (NTA)* Name",
+                "Total Population Change 2000-2010 Percent",
+                "Geographic Area - Neighborhood Tabulation Area (NTA)* Code",
+                "Geographic Area - 2010 Census FIPS County Code"
+              ],
+            "columns_field_name" :
+              [
+                "total_population_change_2000_2010_number",
+                "geographic_area_borough",
+                "total_population_2000_number",
+                "total_population_2010_number",
+                "geographic_area_neighborhood_tabulation_area_nta_name",
+                "total_population_change_2000_2010_percent",
+                "geographic_area_neighborhood_tabulation_area_nta_code",
+                "geographic_area_2010_census_fips_county_code"
+              ],
+            "columns_datatype" :
+              [
+                "Number",
+                "Text",
+                "Number",
+                "Number",
+                "Text",
+                "Number",
+                "Text",
+                "Number"
+              ],
+            "columns_description" : [ "", "", "", "", "", "", "", "" ],
+            "columns_format" : [ {}, {}, {}, {}, {}, {}, {}, {} ],
+            "download_count" : 8479,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "table",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2015-02-17T16:43:45.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "City Government",
+            "domain_tags" :
+              [ "neighborhood", "census", "pumas", "demographics" ],
+            "domain_metadata" :
+              [
+                { "key" : "Update_Automation", "value" : "No" },
+                { "key" : "Update_Date-Made-Public", "value" : "2/17/2015" },
+                { "key" : "Update_Update-Frequency", "value" : "As needed" },
+                {
+                  "key" : "Dataset-Information_Agency",
+                  "value" : "Department of City Planning (DCP)"
+                },
+                {
+                  "key" : "Legislative-Compliance_Geo-coding-Attached?",
+                  "value" : ""
+                }
+              ]
+          },
+        "metadata" : { "domain" : "data.cityofnewyork.us" },
+        "permalink" : "https://data.cityofnewyork.us/d/rnsn-acs2",
+        "link" : "https://data.cityofnewyork.us/City-Government/Census-Demographics-at-the-Neighborhood-Tabulation/rnsn-acs2",
+        "owner" :
+          {
+            "id" : "5fuc-pqz2",
+            "user_type" : "interactive",
+            "display_name" : "NYC OpenData"
+          },
+        "creator" :
+          {
+            "id" : "5fuc-pqz2",
+            "user_type" : "interactive",
+            "display_name" : "NYC OpenData"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Census Demographics at the NYC City Council district (CNCLD) level",
+            "id" : "ye4r-qpmp",
+            "resource_name" : null,
+            "parent_fxf" : [],
+            "description" : "Table of Census Demographics\r\nrepresented at the NYC City Council\r\ndistrict level",
+            "attribution" : "Department of City Planning (DCP)",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "file",
+            "updatedAt" : "2018-09-10T18:58:36.000Z",
+            "createdAt" : "2015-02-17T16:45:57.000Z",
+            "metadata_updated_at" : "2018-09-10T18:58:36.000Z",
+            "data_updated_at" : "2015-02-17T16:45:57.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 49,
+                "page_views_last_month" : 203,
+                "page_views_total" : 28631,
+                "page_views_last_week_log" : 5.643856189774724,
+                "page_views_last_month_log" : 7.672425341971495,
+                "page_views_total_log" : 14.805340828416385
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 13546,
+            "provenance" : "official",
+            "lens_view_type" : "blobby",
+            "lens_display_type" : "blob",
+            "locked" : false,
+            "backend" : "not_a_dataset",
+            "blob_mime_type" : "application/zip; charset=binary",
+            "hide_from_data_json" : false,
+            "publication_date" : "2015-02-17T16:45:57.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "City Government",
+            "domain_tags" : [ "census", "city council district" ],
+            "domain_metadata" :
+              [
+                { "key" : "Update_Automation", "value" : "No" },
+                { "key" : "Update_Date-Made-Public", "value" : "2/17/2015" },
+                { "key" : "Update_Update-Frequency", "value" : "As needed" },
+                {
+                  "key" : "Dataset-Information_Agency",
+                  "value" : "Department of City Planning (DCP)"
+                },
+                {
+                  "key" : "Legislative-Compliance_Geo-coding-Attached?",
+                  "value" : ""
+                }
+              ]
+          },
+        "metadata" : { "domain" : "data.cityofnewyork.us" },
+        "permalink" : "https://data.cityofnewyork.us/d/ye4r-qpmp",
+        "link" : "https://data.cityofnewyork.us/City-Government/Census-Demographics-at-the-NYC-City-Council-distri/ye4r-qpmp",
+        "owner" :
+          {
+            "id" : "5fuc-pqz2",
+            "user_type" : "interactive",
+            "display_name" : "NYC OpenData"
+          },
+        "creator" :
+          {
+            "id" : "5fuc-pqz2",
+            "user_type" : "interactive",
+            "display_name" : "NYC OpenData"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Census Demographics at the NYC Community District (CD) level",
+            "id" : "5unr-w4sc",
+            "resource_name" : null,
+            "parent_fxf" : [],
+            "description" : "Table of Census Demographics\r\nrepresented at the NYC Community\r\nDistrict level",
+            "attribution" : "Department of City Planning (DCP)",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "file",
+            "updatedAt" : "2018-09-10T18:58:32.000Z",
+            "createdAt" : "2015-02-17T16:47:18.000Z",
+            "metadata_updated_at" : "2018-09-10T18:58:32.000Z",
+            "data_updated_at" : "2015-02-17T16:47:18.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 28,
+                "page_views_last_month" : 98,
+                "page_views_total" : 7747,
+                "page_views_last_week_log" : 4.857980995127573,
+                "page_views_last_month_log" : 6.6293566200796095,
+                "page_views_total_log" : 12.919608238603255
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 5383,
+            "provenance" : "official",
+            "lens_view_type" : "blobby",
+            "lens_display_type" : "blob",
+            "locked" : false,
+            "backend" : "not_a_dataset",
+            "blob_mime_type" : "application/zip; charset=binary",
+            "hide_from_data_json" : false,
+            "publication_date" : "2015-02-17T16:47:18.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "City Government",
+            "domain_tags" : [ "census", "community district" ],
+            "domain_metadata" :
+              [
+                { "key" : "Update_Automation", "value" : "No" },
+                { "key" : "Update_Date-Made-Public", "value" : "2/17/2015" },
+                { "key" : "Update_Update-Frequency", "value" : "As needed" },
+                {
+                  "key" : "Dataset-Information_Agency",
+                  "value" : "Department of City Planning (DCP)"
+                },
+                {
+                  "key" : "Legislative-Compliance_Geo-coding-Attached?",
+                  "value" : ""
+                }
+              ]
+          },
+        "metadata" : { "domain" : "data.cityofnewyork.us" },
+        "permalink" : "https://data.cityofnewyork.us/d/5unr-w4sc",
+        "link" : "https://data.cityofnewyork.us/City-Government/Census-Demographics-at-the-NYC-Community-District-/5unr-w4sc",
+        "owner" :
+          {
+            "id" : "5fuc-pqz2",
+            "user_type" : "interactive",
+            "display_name" : "NYC OpenData"
+          },
+        "creator" :
+          {
+            "id" : "5fuc-pqz2",
+            "user_type" : "interactive",
+            "display_name" : "NYC OpenData"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Calgary Equity Index Demographics",
+            "id" : "dxy9-fuxx",
+            "resource_name" : null,
+            "parent_fxf" : [ "7g5f-dkmi" ],
+            "description" : "The Calgary Equity Index Overlay Statistics are derived from Citizen Satisfaction surveys and census demographics. \r\nThe Calgary Equity Index is a decision-making tool designed to measure equity in Calgary, based on a social determinant of health (SDOH) framework. The SDOH are the range of interacting social and economic conditions that influence people’s health and well-being. This index provides an equity lens to examine the ways in which social and economic conditions are experienced and distributed among populations. It will help the City examine where inequities exist in different areas. Information is available for 113 Community Service Areas (CSAs) across Calgary. The CSAs were created by combining two adjacent Census Tracts to reach a population of around 10,000. The CSAs are numbered from 1 to 113, and are displayed on the map.",
+            "attribution" : "The City of Calgary",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "chart",
+            "updatedAt" : "2023-02-01T15:38:53.000Z",
+            "createdAt" : "2022-07-21T16:59:01.000Z",
+            "metadata_updated_at" : "2023-02-01T15:38:53.000Z",
+            "data_updated_at" : "2022-06-23T22:21:06.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 8,
+                "page_views_last_month" : 13,
+                "page_views_total" : 1588,
+                "page_views_last_week_log" : 3.1699250014423126,
+                "page_views_last_month_log" : 3.8073549220576037,
+                "page_views_total_log" : 10.63390340934852
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 6,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "visualization_canvas_chart",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2022-07-21T17:04:59.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Demographics",
+            "domain_tags" : [],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Data-Supplier_Business-Unit",
+                  "value" : "Community Strategies"
+                },
+                {
+                  "key" : "Data-Supplier_Organization",
+                  "value" : "The City of Calgary"
+                },
+                {
+                  "key" : "Geospatial-Information_Dataset-contains-geospatial-information",
+                  "value" : "No"
+                },
+                {
+                  "key" : "Time/Date_Update-Frequency",
+                  "value" : "Irregular"
+                },
+                {
+                  "key" : "License/Attribution_License-URL",
+                  "value" : "https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa"
+                }
+              ]
+          },
+        "metadata" :
+          { "domain" : "data.calgary.ca", "license" : "See Terms of Use" },
+        "permalink" : "https://data.calgary.ca/d/dxy9-fuxx",
+        "link" : "https://data.calgary.ca/Demographics/Calgary-Equity-Index-Demographics/dxy9-fuxx",
+        "owner" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          },
+        "creator" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Calgary Equity Index - Population",
+            "id" : "8gpx-dyin",
+            "resource_name" : null,
+            "parent_fxf" : [ "7g5f-dkmi" ],
+            "description" : "The Calgary Equity Index Overlay Statistics are derived from Citizen Satisfaction surveys and census demographics.\r\nThe Calgary Equity Index is a decision-making tool designed to measure equity in Calgary, based on a social determinant of health (SDOH) framework. The SDOH are the range of interacting social and economic conditions that influence people’s health and well-being. This index provides an equity lens to examine the ways in which social and economic conditions are experienced and distributed among populations. It will help the City examine where inequities exist in different areas. Information is available for 113 Community Service Areas (CSAs) across Calgary. The CSAs were created by combining two adjacent Census Tracts to reach a population of around 10,000. The CSAs are numbered from 1 to 113, and are displayed on the map.",
+            "attribution" : "The City of Calgary",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "map",
+            "updatedAt" : "2023-02-01T15:38:56.000Z",
+            "createdAt" : "2022-06-24T17:10:17.000Z",
+            "metadata_updated_at" : "2023-02-01T15:38:56.000Z",
+            "data_updated_at" : "2022-06-23T22:21:06.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 13,
+                "page_views_last_month" : 28,
+                "page_views_total" : 1629,
+                "page_views_last_week_log" : 3.8073549220576037,
+                "page_views_last_month_log" : 4.857980995127573,
+                "page_views_total_log" : 10.67065624911844
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 4,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "visualization_canvas_map",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2022-07-22T16:21:21.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Demographics",
+            "domain_tags" :
+              [
+                "safe",
+                "youth",
+                "visible minority",
+                "transit to work",
+                "single parent",
+                "seniors",
+                "renters",
+                "population",
+                "newcomers",
+                "median income",
+                "lone parent",
+                "indigenous",
+                "immigrants",
+                "equity",
+                "english knowledge",
+                "drive to work",
+                "citizen satisfaction survey",
+                "children"
+              ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Data-Supplier_Business-Unit",
+                  "value" : "Community Strategies"
+                },
+                {
+                  "key" : "Data-Supplier_Organization",
+                  "value" : "The City of Calgary"
+                },
+                {
+                  "key" : "Geospatial-Information_Dataset-contains-geospatial-information",
+                  "value" : "No"
+                },
+                {
+                  "key" : "Time/Date_Update-Frequency",
+                  "value" : "Irregular"
+                },
+                {
+                  "key" : "License/Attribution_License-URL",
+                  "value" : "https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa"
+                }
+              ]
+          },
+        "metadata" :
+          { "domain" : "data.calgary.ca", "license" : "See Terms of Use" },
+        "permalink" : "https://data.calgary.ca/d/8gpx-dyin",
+        "link" : "https://data.calgary.ca/Demographics/Calgary-Equity-Index-Population/8gpx-dyin",
+        "owner" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          },
+        "creator" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Calgary Equity Index - Median Income",
+            "id" : "ntmc-5ss8",
+            "resource_name" : null,
+            "parent_fxf" : [ "7g5f-dkmi" ],
+            "description" : "The Calgary Equity Index Overlay Statistics are derived from Citizen Satisfaction surveys and census demographics.\r\nThe Calgary Equity Index is a decision-making tool designed to measure equity in Calgary, based on a social determinant of health (SDOH) framework. The SDOH are the range of interacting social and economic conditions that influence people’s health and well-being. This index provides an equity lens to examine the ways in which social and economic conditions are experienced and distributed among populations. It will help the City examine where inequities exist in different areas. Information is available for 113 Community Service Areas (CSAs) across Calgary. The CSAs were created by combining two adjacent Census Tracts to reach a population of around 10,000. The CSAs are numbered from 1 to 113, and are displayed on the map.",
+            "attribution" : "The City of Calgary",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "map",
+            "updatedAt" : "2023-02-01T15:38:58.000Z",
+            "createdAt" : "2022-06-24T17:01:13.000Z",
+            "metadata_updated_at" : "2023-02-01T15:38:58.000Z",
+            "data_updated_at" : "2022-06-23T22:21:06.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 48,
+                "page_views_last_month" : 112,
+                "page_views_total" : 3981,
+                "page_views_last_week_log" : 5.614709844115208,
+                "page_views_last_month_log" : 6.820178962415189,
+                "page_views_total_log" : 11.959277505720502
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 5,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "visualization_canvas_map",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2022-07-22T16:01:26.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Demographics",
+            "domain_tags" :
+              [
+                "transit to work",
+                "lone parent",
+                "visible minority",
+                "children",
+                "citizen satisfaction survey",
+                "drive to work",
+                "english knowledge",
+                "equity",
+                "immigrants",
+                "indigenous",
+                "youth",
+                "median income",
+                "newcomers",
+                "population",
+                "renters",
+                "safe",
+                "seniors",
+                "single parent"
+              ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Data-Supplier_Business-Unit",
+                  "value" : "Community Strategies"
+                },
+                {
+                  "key" : "Data-Supplier_Organization",
+                  "value" : "The City of Calgary"
+                },
+                {
+                  "key" : "Geospatial-Information_Dataset-contains-geospatial-information",
+                  "value" : "No"
+                },
+                {
+                  "key" : "Time/Date_Update-Frequency",
+                  "value" : "Irregular"
+                },
+                {
+                  "key" : "License/Attribution_License-URL",
+                  "value" : "https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa"
+                }
+              ]
+          },
+        "metadata" :
+          { "domain" : "data.calgary.ca", "license" : "See Terms of Use" },
+        "permalink" : "https://data.calgary.ca/d/ntmc-5ss8",
+        "link" : "https://data.calgary.ca/Demographics/Calgary-Equity-Index-Median-Income/ntmc-5ss8",
+        "owner" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          },
+        "creator" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Demographic, Social, Economic, and Housing Profiles by Community District/PUMA",
+            "id" : "kvuc-fg9b",
+            "resource_name" : null,
+            "parent_fxf" : [],
+            "description" : "Selected demographic, social, economic, and housing estimates data by community district/PUMA (Public Use Micro Data Sample Area). Three year estimates of population data from the Census Bureau's American Community Survey",
+            "attribution" : "Department of City Planning (DCP)",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "href",
+            "updatedAt" : "2024-10-30T14:28:11.000Z",
+            "createdAt" : "2011-08-09T20:41:29.000Z",
+            "metadata_updated_at" : "2024-10-30T14:28:11.000Z",
+            "data_updated_at" : "2011-08-09T20:41:29.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 113,
+                "page_views_last_month" : 475,
+                "page_views_total" : 20201,
+                "page_views_last_week_log" : 6.832890014164742,
+                "page_views_last_month_log" : 8.894817763307945,
+                "page_views_total_log" : 14.302210506548803
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 1953,
+            "provenance" : "official",
+            "lens_view_type" : "href",
+            "lens_display_type" : "href",
+            "locked" : false,
+            "backend" : "not_a_dataset",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2011-08-09T20:41:29.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "City Government",
+            "domain_tags" :
+              [
+                "population",
+                "census",
+                "jobs and economic mobility",
+                "demographics",
+                "dcp",
+                "public use micro data sample area"
+              ],
+            "domain_metadata" :
+              [
+                { "key" : "Update_Automation", "value" : "N/A" },
+                { "key" : "Update_Date-Made-Public", "value" : "8/9/2011" },
+                { "key" : "Update_Update-Frequency", "value" : "As needed" },
+                {
+                  "key" : "Dataset-Information_Agency",
+                  "value" : "Department of City Planning (DCP)"
+                },
+                {
+                  "key" : "Legislative-Compliance_Geo-coding-Attached?",
+                  "value" : ""
+                }
+              ]
+          },
+        "metadata" :
+          {
+            "domain" : "data.cityofnewyork.us",
+            "additional_access_points" :
+              [
+                {
+                  "urls" :
+                    {
+                      "page" : "https://www1.nyc.gov/site/planning/data-maps/nyc-population/american-community-survey.page"
+                    }
+                }
+              ],
+            "access_points" :
+              {
+                "page" : "https://www1.nyc.gov/site/planning/data-maps/nyc-population/american-community-survey.page"
+              }
+          },
+        "permalink" : "https://data.cityofnewyork.us/d/kvuc-fg9b",
+        "link" : "https://data.cityofnewyork.us/City-Government/Demographic-Social-Economic-and-Housing-Profiles-b/kvuc-fg9b",
+        "owner" :
+          {
+            "id" : "5fuc-pqz2",
+            "user_type" : "interactive",
+            "display_name" : "NYC OpenData"
+          },
+        "creator" :
+          {
+            "id" : "5fuc-pqz2",
+            "user_type" : "interactive",
+            "display_name" : "NYC OpenData"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Ramsey County Community Profile",
+            "id" : "k25b-b9wf",
+            "resource_name" : null,
+            "parent_fxf" :
+              [
+                "vmj4-xnsj",
+                "i4bt-hxjy",
+                "g82y-vs5g",
+                "ne37-iudj",
+                "7pqb-d4bn",
+                "7apm-jfnr",
+                "9jnd-7nyc",
+                "36ku-b3by",
+                "i5yx-qkvu",
+                "das7-nyuv",
+                "9e94-uq45",
+                "2ayy-r9q5",
+                "cabh-8ujk"
+              ],
+            "description" : "A summary of demographic information from the U.S. Census Bureau QuickFacts.",
+            "attribution" : null,
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "story",
+            "updatedAt" : "2025-10-14T20:11:31.874Z",
+            "createdAt" : "2020-12-29T22:33:32.000Z",
+            "metadata_updated_at" : "2025-10-14T20:11:31.000Z",
+            "data_updated_at" : "2025-10-14T20:11:31.874Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 4,
+                "page_views_last_month" : 11,
+                "page_views_total" : 525,
+                "page_views_last_week_log" : 2.321928094887362,
+                "page_views_last_month_log" : 3.5849625007211565,
+                "page_views_total_log" : 9.038918989292304
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 0,
+            "provenance" : "official",
+            "lens_view_type" : "story",
+            "lens_display_type" : "story",
+            "locked" : false,
+            "backend" : "not_a_dataset",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2020-12-29T23:54:15.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Demographics\t",
+            "domain_tags" :
+              [
+                "census",
+                "community",
+                "demographics",
+                "population",
+                "statistics"
+              ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Publication-Information_Frequency",
+                  "value" : "Not Updated (Historic)"
+                },
+                {
+                  "key" : "Publication-Information_Department",
+                  "value" : "Policy & Planning"
+                }
+              ]
+          },
+        "metadata" : { "domain" : "data.ramseycountymn.gov" },
+        "permalink" : "https://data.ramseycountymn.gov/stories/s/k25b-b9wf",
+        "link" : "https://data.ramseycountymn.gov/stories/s/k25b-b9wf",
+        "owner" :
+          {
+            "id" : "vhqa-cie5",
+            "user_type" : "team",
+            "display_name" : "Policy & Administrative Strategy"
+          },
+        "creator" :
+          {
+            "id" : "vhqa-cie5",
+            "user_type" : "team",
+            "display_name" : "Policy & Administrative Strategy"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Calgary Equity Index Overlay Statistics",
+            "id" : "7g5f-dkmi",
+            "resource_name" : null,
+            "parent_fxf" : [],
+            "description" : "The Calgary Equity Index Overlay Statistics are derived from Citizen Satisfaction surveys and census demographics. \nThe Calgary Equity Index is a decision-making tool designed to measure equity in Calgary, based on a social determinant of health (SDOH) framework. The SDOH are the range of interacting social and economic conditions that influence people’s health and well-being. This index provides an equity lens to examine the ways in which social and economic conditions are experienced and distributed among populations. It will help the City examine where inequities exist in different areas. Information is available for 113 Community Service Areas (CSAs) across Calgary. The CSAs were created by combining two adjacent Census Tracts to reach a population of around 10,000. The CSAs are numbered from 1 to 113, and are displayed on the map.",
+            "attribution" : "The City of Calgary",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "dataset",
+            "updatedAt" : "2026-05-28T16:55:13.000Z",
+            "createdAt" : "2022-06-23T22:13:41.000Z",
+            "metadata_updated_at" : "2026-05-28T16:55:13.000Z",
+            "data_updated_at" : "2022-06-23T22:21:06.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 9,
+                "page_views_last_month" : 37,
+                "page_views_total" : 2634,
+                "page_views_last_week_log" : 3.3219280948873626,
+                "page_views_last_month_log" : 5.247927513443585,
+                "page_views_total_log" : 11.363587246524578
+              },
+            "columns_name" :
+              [
+                "VALUE",
+                "CATEGORY",
+                "ATTRIBUTE",
+                "AREA_ID",
+                "VALUE_LABEL",
+                "DATA_CURRENCY",
+                "AREA_TYPE",
+                "MULTIPOLYGON",
+                "RANKING"
+              ],
+            "columns_field_name" :
+              [
+                "value",
+                "category",
+                "attribute",
+                "area_id",
+                "value_label",
+                "data_currency",
+                "area_type",
+                "multipolygon",
+                "ranking"
+              ],
+            "columns_datatype" :
+              [
+                "Number",
+                "Text",
+                "Text",
+                "Text",
+                "Text",
+                "Number",
+                "Text",
+                "MultiPolygon",
+                "Number"
+              ],
+            "columns_description" : [ "", "", "", "", "", "", "", "", "" ],
+            "columns_format" :
+              [ {}, {}, {}, {}, {}, { "noCommas" : "true" }, {}, {}, {} ],
+            "download_count" : 1441,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "table",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2022-06-23T22:21:12.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Demographics",
+            "domain_tags" :
+              [
+                "transit to work",
+                "children",
+                "citizen satisfaction survey",
+                "drive to work",
+                "english knowledge",
+                "equity",
+                "immigrants",
+                "indigenous",
+                "lone parent",
+                "median income",
+                "newcomers",
+                "population",
+                "renters",
+                "safe",
+                "seniors",
+                "single parent",
+                "youth",
+                "visible minority"
+              ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Data-Supplier_Organization",
+                  "value" : "The City of Calgary"
+                },
+                {
+                  "key" : "Data-Supplier_Business-Unit",
+                  "value" : "Community Strategies"
+                },
+                {
+                  "key" : "Geospatial-Information_Dataset-contains-geospatial-information",
+                  "value" : "No"
+                },
+                {
+                  "key" : "Time/Date_Update-Frequency",
+                  "value" : "Irregular"
+                },
+                {
+                  "key" : "License/Attribution_License-URL",
+                  "value" : "https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa"
+                }
+              ]
+          },
+        "metadata" :
+          { "domain" : "data.calgary.ca", "license" : "See Terms of Use" },
+        "permalink" : "https://data.calgary.ca/d/7g5f-dkmi",
+        "link" : "https://data.calgary.ca/Demographics/Calgary-Equity-Index-Overlay-Statistics/7g5f-dkmi",
+        "owner" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          },
+        "creator" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Total King County Population, 2000 - 2010",
+            "id" : "xa7q-is96",
+            "resource_name" : null,
+            "parent_fxf" : [],
+            "description" : "King County Population, 2010 U.S. Census; Source:  US Census 2010, PL94-171 redistricting file, February 2011",
+            "attribution" : "King County",
+            "attribution_link" : "http://www.kingcounty.gov/",
+            "contact_email" : null,
+            "type" : "dataset",
+            "updatedAt" : "2021-04-22T17:30:02.000Z",
+            "createdAt" : "2011-03-24T18:25:46.000Z",
+            "metadata_updated_at" : "2021-04-22T17:30:02.000Z",
+            "data_updated_at" : "2014-02-15T01:01:17.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 8,
+                "page_views_last_month" : 54,
+                "page_views_total" : 5821,
+                "page_views_last_week_log" : 3.1699250014423126,
+                "page_views_last_month_log" : 5.78135971352466,
+                "page_views_total_log" : 12.507299124122767
+              },
+            "columns_name" :
+              [
+                "Population 2010",
+                "2010 Percent",
+                "Change",
+                "Demographic",
+                "Population 2000",
+                "Percent Change"
+              ],
+            "columns_field_name" :
+              [
+                "population_2010",
+                "_2010_percent",
+                "change",
+                "demographic",
+                "population_2000",
+                "percent_change"
+              ],
+            "columns_datatype" :
+              [ "Number", "Number", "Number", "Text", "Number", "Number" ],
+            "columns_description" : [ "", "", "", "", "", "" ],
+            "columns_format" :
+              [
+                {},
+                {
+                  "noCommas" : "false",
+                  "align" : "right",
+                  "percentScale" : "100",
+                  "precisionStyle" : "percentage",
+                  "view" : "percent_bar_and_text"
+                },
+                {},
+                {},
+                { "aggregate" : "sum" },
+                {
+                  "precisionStyle" : "percentage",
+                  "percentScale" : "100",
+                  "noCommas" : "false",
+                  "align" : "right"
+                }
+              ],
+            "download_count" : 8293,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "table",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2014-02-15T01:02:19.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Demographics",
+            "domain_tags" : [ "change", "population", "growth", "census" ],
+            "domain_metadata" : []
+          },
+        "metadata" :
+          { "domain" : "data.kingcounty.gov", "license" : "Public Domain" },
+        "permalink" : "https://data.kingcounty.gov/d/xa7q-is96",
+        "link" : "https://data.kingcounty.gov/Demographics/Total-King-County-Population-2000-2010/xa7q-is96",
+        "owner" :
+          {
+            "id" : "2gzv-6b6z",
+            "user_type" : "interactive",
+            "display_name" : "King County Webteam"
+          },
+        "creator" :
+          {
+            "id" : "2gzv-6b6z",
+            "user_type" : "interactive",
+            "display_name" : "King County Webteam"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Calgary Equity Index - Indigenous",
+            "id" : "acjs-ugj2",
+            "resource_name" : null,
+            "parent_fxf" : [ "7g5f-dkmi" ],
+            "description" : "The Calgary Equity Index Overlay Statistics are derived from Citizen Satisfaction surveys and census demographics.\r\nThe Calgary Equity Index is a decision-making tool designed to measure equity in Calgary, based on a social determinant of health (SDOH) framework. The SDOH are the range of interacting social and economic conditions that influence people’s health and well-being. This index provides an equity lens to examine the ways in which social and economic conditions are experienced and distributed among populations. It will help the City examine where inequities exist in different areas. Information is available for 113 Community Service Areas (CSAs) across Calgary. The CSAs were created by combining two adjacent Census Tracts to reach a population of around 10,000. The CSAs are numbered from 1 to 113, and are displayed on the map.",
+            "attribution" : "The City of Calgary",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "map",
+            "updatedAt" : "2023-02-01T15:38:55.000Z",
+            "createdAt" : "2022-06-24T17:04:45.000Z",
+            "metadata_updated_at" : "2023-02-01T15:38:55.000Z",
+            "data_updated_at" : "2022-06-23T22:21:06.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 4,
+                "page_views_last_month" : 11,
+                "page_views_total" : 647,
+                "page_views_last_week_log" : 2.321928094887362,
+                "page_views_last_month_log" : 3.5849625007211565,
+                "page_views_total_log" : 9.339850002884624
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 4,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "visualization_canvas_map",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2022-07-22T16:10:27.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Demographics",
+            "domain_tags" :
+              [
+                "visible minority",
+                "transit to work",
+                "english knowledge",
+                "youth",
+                "children",
+                "citizen satisfaction survey",
+                "drive to work",
+                "single parent",
+                "seniors",
+                "safe",
+                "renters",
+                "population",
+                "newcomers",
+                "median income",
+                "lone parent",
+                "indigenous",
+                "immigrants",
+                "equity"
+              ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Data-Supplier_Business-Unit",
+                  "value" : "Community Strategies"
+                },
+                {
+                  "key" : "Data-Supplier_Organization",
+                  "value" : "The City of Calgary"
+                },
+                {
+                  "key" : "Geospatial-Information_Dataset-contains-geospatial-information",
+                  "value" : "No"
+                },
+                {
+                  "key" : "Time/Date_Update-Frequency",
+                  "value" : "Irregular"
+                },
+                {
+                  "key" : "License/Attribution_License-URL",
+                  "value" : "https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa"
+                }
+              ]
+          },
+        "metadata" :
+          { "domain" : "data.calgary.ca", "license" : "See Terms of Use" },
+        "permalink" : "https://data.calgary.ca/d/acjs-ugj2",
+        "link" : "https://data.calgary.ca/Demographics/Calgary-Equity-Index-Indigenous/acjs-ugj2",
+        "owner" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          },
+        "creator" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Census Data by Neighborhood Council",
+            "id" : "nwj3-ufba",
+            "resource_name" : null,
+            "parent_fxf" : [],
+            "description" : "Census 2010 population/demographic data approximated from block groups to LA Neighborhood Councils using Esri software.",
+            "attribution" : "US Census",
+            "attribution_link" : "http://census.gov",
+            "contact_email" : null,
+            "type" : "dataset",
+            "updatedAt" : "2020-11-30T17:08:14.000Z",
+            "createdAt" : "2017-11-06T19:38:17.000Z",
+            "metadata_updated_at" : "2020-11-30T17:08:14.000Z",
+            "data_updated_at" : "2017-12-07T01:43:14.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 39,
+                "page_views_last_month" : 263,
+                "page_views_total" : 11343,
+                "page_views_last_week_log" : 5.321928094887363,
+                "page_views_last_month_log" : 8.044394119358454,
+                "page_views_total_log" : 13.469641817239516
+              },
+            "columns_name" :
+              [
+                "Other_pop",
+                "Black_pop",
+                "Ameri_es_pop",
+                "Asian_pop",
+                "Hawn_pi_pop",
+                "Hispanic_pop",
+                "White_pop",
+                "Multi_pop",
+                "In_Poverty",
+                "Owner_occ",
+                "Renter_occ",
+                "NC_Name",
+                "Total Population"
+              ],
+            "columns_field_name" :
+              [
+                "other_pop",
+                "black_pop",
+                "ameri_es_pop",
+                "asian_pop",
+                "hawn_pi_pop",
+                "hispanic_pop",
+                "white_pop",
+                "multi_pop",
+                "vacant",
+                "owner_occ",
+                "renter_occ",
+                "nc_name",
+                "population_2012"
+              ],
+            "columns_datatype" :
+              [
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Number",
+                "Text",
+                "Number"
+              ],
+            "columns_description" :
+              [ "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+            "columns_format" :
+              [
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {},
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                },
+                {},
+                {},
+                {},
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "false",
+                  "align" : "right"
+                }
+              ],
+            "download_count" : 5196,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "table",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2017-12-07T01:43:28.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Community & Economic Development",
+            "domain_tags" :
+              [
+                "neighborhood councils",
+                "neighborhood",
+                "nc",
+                "demographics",
+                "population"
+              ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Data-Owner_Department",
+                  "value" : "Mayor's Office"
+                },
+                {
+                  "key" : "Location-Specified_What-geographic-unit-is-the-data-collected?",
+                  "value" : "Neighborhood"
+                },
+                {
+                  "key" : "Location-Specified_Does-this-data-have-a-Location-column?-(Yes-or-No)",
+                  "value" : "Yes"
+                },
+                {
+                  "key" : "Committed-Update-Frequency_Refresh-rate",
+                  "value" : "Other - See Description"
+                }
+              ]
+          },
+        "metadata" :
+          {
+            "domain" : "data.lacity.org",
+            "license" : "Creative Commons 1.0 Universal (Public Domain Dedication)"
+          },
+        "permalink" : "https://data.lacity.org/d/nwj3-ufba",
+        "link" : "https://data.lacity.org/Community-Economic-Development/Census-Data-by-Neighborhood-Council/nwj3-ufba",
+        "owner" :
+          {
+            "id" : "95pg-i79k",
+            "user_type" : "interactive",
+            "display_name" : "ChelseaU"
+          },
+        "creator" :
+          {
+            "id" : "95pg-i79k",
+            "user_type" : "interactive",
+            "display_name" : "ChelseaU"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Census Tracts 2010 Map",
+            "id" : "hkd6-ee5j",
+            "resource_name" : null,
+            "parent_fxf" : [ "qdgi-sm3p" ],
+            "description" : "Demographic data for San Mateo County's residents by Census Tract. Includes population, race, Hispanic ethnicity, gender, age groups, household, family, and housing information. This data is from the 2010 United States Census Summary File 1 (SF1).",
+            "attribution" : "United States Census Bureau",
+            "attribution_link" : "http://factfinder2.census.gov/faces/nav/jsf/pages/guided_search.xhtml",
+            "contact_email" : null,
+            "type" : "map",
+            "updatedAt" : "2024-04-24T20:30:10.000Z",
+            "createdAt" : "2014-07-22T14:59:43.000Z",
+            "metadata_updated_at" : "2024-04-24T20:30:10.000Z",
+            "data_updated_at" : "2014-07-22T14:59:51.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 17,
+                "page_views_last_month" : 126,
+                "page_views_total" : 9121,
+                "page_views_last_week_log" : 4.169925001442312,
+                "page_views_last_month_log" : 6.988684686772166,
+                "page_views_total_log" : 13.155134454857755
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 285,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "visualization_canvas_map",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2014-07-22T14:59:52.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Government",
+            "domain_tags" : [ "population", "demographics", "census" ],
+            "domain_metadata" :
+              [
+                { "key" : "Dimensions_Temporal", "value" : "2010" },
+                {
+                  "key" : "Departments_Department",
+                  "value" : "Information Services"
+                }
+              ]
+          },
+        "metadata" :
+          { "domain" : "data.smcgov.org", "license" : "Public Domain" },
+        "permalink" : "https://data.smcgov.org/d/hkd6-ee5j",
+        "link" : "https://data.smcgov.org/Government/Census-Tracts-2010-Map/hkd6-ee5j",
+        "preview_image_url" : "https://data.smcgov.org/views/hkd6-ee5j/files/67b0eb16-485f-410d-8dc1-85dcb6438b26",
+        "owner" :
+          {
+            "id" : "4uzi-bw65",
+            "user_type" : "interactive",
+            "display_name" : "John Ridener"
+          },
+        "creator" :
+          {
+            "id" : "4uzi-bw65",
+            "user_type" : "interactive",
+            "display_name" : "John Ridener"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Howard County Census Reporter",
+            "id" : "8c8m-qbma",
+            "resource_name" : null,
+            "parent_fxf" : [],
+            "description" : "Charts and statistics of Howard County demographics, economics, families, housing, and etc.",
+            "attribution" : "Census",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "href",
+            "updatedAt" : "2024-11-27T17:06:22.000Z",
+            "createdAt" : "2016-01-06T16:10:03.000Z",
+            "metadata_updated_at" : "2024-11-27T17:06:22.000Z",
+            "data_updated_at" : "2016-01-06T16:10:03.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 9,
+                "page_views_last_month" : 28,
+                "page_views_total" : 8825,
+                "page_views_last_week_log" : 3.3219280948873626,
+                "page_views_last_month_log" : 4.857980995127573,
+                "page_views_total_log" : 13.107544031975987
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 11,
+            "provenance" : "official",
+            "lens_view_type" : "href",
+            "lens_display_type" : "href",
+            "locked" : false,
+            "backend" : "not_a_dataset",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2016-01-06T16:24:38.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Economic Development",
+            "domain_tags" :
+              [
+                "economic development",
+                "census",
+                "family",
+                "housing",
+                "statistics",
+                "demographics"
+              ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Additional-Metadata_Coverage",
+                  "value" : "Present"
+                },
+                {
+                  "key" : "Additional-Metadata_Frequency",
+                  "value" : "Continuous"
+                },
+                {
+                  "key" : "Additional-Metadata_Publisher",
+                  "value" : "Howard County, Maryland"
+                },
+                {
+                  "key" : "Additional-Metadata_Contributor",
+                  "value" : "Census"
+                }
+              ]
+          },
+        "metadata" :
+          {
+            "domain" : "opendata.howardcountymd.gov",
+            "access_points" :
+              {
+                "html" : "http://censusreporter.org/profiles/05000US24027-howard-county-md/"
+              }
+          },
+        "permalink" : "https://opendata.howardcountymd.gov/d/8c8m-qbma",
+        "link" : "https://opendata.howardcountymd.gov/Economic-Development/Howard-County-Census-Reporter/8c8m-qbma",
+        "owner" :
+          {
+            "id" : "6pm8-zy7s",
+            "user_type" : "interactive",
+            "display_name" : "Technology & Communication Services"
+          },
+        "creator" :
+          {
+            "id" : "6pm8-zy7s",
+            "user_type" : "interactive",
+            "display_name" : "Technology & Communication Services"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Missouri County Boundaries Map",
+            "id" : "n34b-fwqr",
+            "resource_name" : null,
+            "parent_fxf" : [ "76ba-6hev" ],
+            "description" : "This data set contains the boundaries of Missouri's 114 counties plus the boundary of the city of St. Louis. This data set was created to provide the most accurate county boundary data available for the whole state with attributes that are correct and useable.",
+            "attribution" : "MISDIS",
+            "attribution_link" : "http://msdis.missouri.edu/data/datalist.html#cnty",
+            "contact_email" : null,
+            "type" : "map",
+            "updatedAt" : "2024-04-24T19:03:52.000Z",
+            "createdAt" : "2013-12-03T14:51:35.000Z",
+            "metadata_updated_at" : "2024-04-24T19:03:52.000Z",
+            "data_updated_at" : "2013-12-03T14:51:39.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 167,
+                "page_views_last_month" : 1123,
+                "page_views_total" : 106962,
+                "page_views_last_week_log" : 7.392317422778761,
+                "page_views_last_month_log" : 10.134426320220927,
+                "page_views_total_log" : 16.706752308933847
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 3585,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "visualization_canvas_map",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2013-12-03T14:51:39.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Demographics",
+            "domain_tags" : [ "census", "counties", "map" ],
+            "domain_metadata" : []
+          },
+        "metadata" : { "domain" : "data.mo.gov", "license" : "Public Domain" },
+        "permalink" : "https://data.mo.gov/d/n34b-fwqr",
+        "link" : "https://data.mo.gov/Demographics/Missouri-County-Boundaries-Map/n34b-fwqr",
+        "preview_image_url" : "https://data.mo.gov/views/n34b-fwqr/files/6dd4e421-62cd-453d-a8db-449859b5672b",
+        "owner" :
+          {
+            "id" : "348k-4yz7",
+            "user_type" : "interactive",
+            "display_name" : "State of Missouri"
+          },
+        "creator" :
+          {
+            "id" : "348k-4yz7",
+            "user_type" : "interactive",
+            "display_name" : "State of Missouri"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Calgary Equity Index Citizen Satisfaction Survey",
+            "id" : "wy3j-bbgm",
+            "resource_name" : null,
+            "parent_fxf" : [ "7g5f-dkmi" ],
+            "description" : "The Calgary Equity Index Overlay Statistics are derived from Citizen Satisfaction surveys and census demographics.\r\nThe Calgary Equity Index is a decision-making tool designed to measure equity in Calgary, based on a social determinant of health (SDOH) framework. The SDOH are the range of interacting social and economic conditions that influence people’s health and well-being. This index provides an equity lens to examine the ways in which social and economic conditions are experienced and distributed among populations. It will help the City examine where inequities exist in different areas. Information is available for 113 Community Service Areas (CSAs) across Calgary. The CSAs were created by combining two adjacent Census Tracts to reach a population of around 10,000. The CSAs are numbered from 1 to 113, and are displayed on the map.",
+            "attribution" : "The City of Calgary",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "chart",
+            "updatedAt" : "2023-02-01T15:38:53.000Z",
+            "createdAt" : "2022-07-07T17:08:21.000Z",
+            "metadata_updated_at" : "2023-02-01T15:38:53.000Z",
+            "data_updated_at" : "2022-06-23T22:21:06.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 9,
+                "page_views_last_month" : 16,
+                "page_views_total" : 889,
+                "page_views_last_week_log" : 3.3219280948873626,
+                "page_views_last_month_log" : 4.08746284125034,
+                "page_views_total_log" : 9.79766152585376
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 3,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "visualization_canvas_chart",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2022-07-21T17:09:34.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Demographics",
+            "domain_tags" :
+              [
+                "english knowledge",
+                "drive to work",
+                "citizen satisfaction survey",
+                "children",
+                "indigenous",
+                "median income",
+                "single parent",
+                "transit to work",
+                "visible minority",
+                "youth",
+                "equity",
+                "immigrants",
+                "lone parent",
+                "newcomers",
+                "population",
+                "renters",
+                "safe",
+                "seniors"
+              ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Data-Supplier_Business-Unit",
+                  "value" : "Community Strategies"
+                },
+                {
+                  "key" : "Data-Supplier_Organization",
+                  "value" : "The City of Calgary"
+                },
+                {
+                  "key" : "Geospatial-Information_Dataset-contains-geospatial-information",
+                  "value" : "No"
+                },
+                {
+                  "key" : "Time/Date_Update-Frequency",
+                  "value" : "Irregular"
+                },
+                {
+                  "key" : "License/Attribution_License-URL",
+                  "value" : "https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa"
+                }
+              ]
+          },
+        "metadata" :
+          { "domain" : "data.calgary.ca", "license" : "See Terms of Use" },
+        "permalink" : "https://data.calgary.ca/d/wy3j-bbgm",
+        "link" : "https://data.calgary.ca/Demographics/Calgary-Equity-Index-Citizen-Satisfaction-Survey/wy3j-bbgm",
+        "owner" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          },
+        "creator" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Calgary Equity Index - Newcomers",
+            "id" : "whw3-j2hi",
+            "resource_name" : null,
+            "parent_fxf" : [ "7g5f-dkmi" ],
+            "description" : "The Calgary Equity Index Overlay Statistics are derived from Citizen Satisfaction surveys and census demographics.\r\nThe Calgary Equity Index is a decision-making tool designed to measure equity in Calgary, based on a social determinant of health (SDOH) framework. The SDOH are the range of interacting social and economic conditions that influence people’s health and well-being. This index provides an equity lens to examine the ways in which social and economic conditions are experienced and distributed among populations. It will help the City examine where inequities exist in different areas. Information is available for 113 Community Service Areas (CSAs) across Calgary. The CSAs were created by combining two adjacent Census Tracts to reach a population of around 10,000. The CSAs are numbered from 1 to 113, and are displayed on the map.",
+            "attribution" : "The City of Calgary",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "map",
+            "updatedAt" : "2023-02-01T15:38:58.000Z",
+            "createdAt" : "2022-06-24T17:46:03.000Z",
+            "metadata_updated_at" : "2023-02-01T15:38:58.000Z",
+            "data_updated_at" : "2022-06-23T22:21:06.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 8,
+                "page_views_last_month" : 13,
+                "page_views_total" : 1023,
+                "page_views_last_week_log" : 3.1699250014423126,
+                "page_views_last_month_log" : 3.8073549220576037,
+                "page_views_total_log" : 10.0
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 3,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "visualization_canvas_map",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2022-07-22T15:59:54.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Demographics",
+            "domain_tags" :
+              [
+                "lone parent",
+                "youth",
+                "visible minority",
+                "transit to work",
+                "single parent",
+                "seniors",
+                "safe",
+                "renters",
+                "population",
+                "newcomers",
+                "median income",
+                "children",
+                "citizen satisfaction survey",
+                "drive to work",
+                "english knowledge",
+                "equity",
+                "immigrants",
+                "indigenous"
+              ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Data-Supplier_Business-Unit",
+                  "value" : "Community Strategies"
+                },
+                {
+                  "key" : "Data-Supplier_Organization",
+                  "value" : "The City of Calgary"
+                },
+                {
+                  "key" : "Geospatial-Information_Dataset-contains-geospatial-information",
+                  "value" : "No"
+                },
+                {
+                  "key" : "Time/Date_Update-Frequency",
+                  "value" : "Irregular"
+                },
+                {
+                  "key" : "License/Attribution_License-URL",
+                  "value" : "https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa"
+                }
+              ]
+          },
+        "metadata" :
+          { "domain" : "data.calgary.ca", "license" : "See Terms of Use" },
+        "permalink" : "https://data.calgary.ca/d/whw3-j2hi",
+        "link" : "https://data.calgary.ca/Demographics/Calgary-Equity-Index-Newcomers/whw3-j2hi",
+        "owner" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          },
+        "creator" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Calgary Equity Index - Visible Minority",
+            "id" : "33tb-fhsv",
+            "resource_name" : null,
+            "parent_fxf" : [ "7g5f-dkmi" ],
+            "description" : "The Calgary Equity Index Overlay Statistics are derived from Citizen Satisfaction surveys and census demographics.\r\nThe Calgary Equity Index is a decision-making tool designed to measure equity in Calgary, based on a social determinant of health (SDOH) framework. The SDOH are the range of interacting social and economic conditions that influence people’s health and well-being. This index provides an equity lens to examine the ways in which social and economic conditions are experienced and distributed among populations. It will help the City examine where inequities exist in different areas. Information is available for 113 Community Service Areas (CSAs) across Calgary. The CSAs were created by combining two adjacent Census Tracts to reach a population of around 10,000. The CSAs are numbered from 1 to 113, and are displayed on the map.",
+            "attribution" : "The City of Calgary",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "map",
+            "updatedAt" : "2023-02-01T15:38:56.000Z",
+            "createdAt" : "2022-06-24T17:08:58.000Z",
+            "metadata_updated_at" : "2023-02-01T15:38:56.000Z",
+            "data_updated_at" : "2022-06-23T22:21:06.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 5,
+                "page_views_last_month" : 19,
+                "page_views_total" : 854,
+                "page_views_last_week_log" : 2.584962500721156,
+                "page_views_last_month_log" : 4.321928094887363,
+                "page_views_total_log" : 9.73978060977326
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 65,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "visualization_canvas_map",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2022-07-22T16:07:25.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Demographics",
+            "domain_tags" :
+              [
+                "drive to work",
+                "english knowledge",
+                "equity",
+                "immigrants",
+                "indigenous",
+                "lone parent",
+                "median income",
+                "newcomers",
+                "safe",
+                "visible minority",
+                "children",
+                "citizen satisfaction survey",
+                "seniors",
+                "transit to work",
+                "single parent",
+                "population",
+                "renters",
+                "youth"
+              ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Data-Supplier_Business-Unit",
+                  "value" : "Community Strategies"
+                },
+                {
+                  "key" : "Data-Supplier_Organization",
+                  "value" : "The City of Calgary"
+                },
+                {
+                  "key" : "Geospatial-Information_Dataset-contains-geospatial-information",
+                  "value" : "No"
+                },
+                {
+                  "key" : "Time/Date_Update-Frequency",
+                  "value" : "Irregular"
+                },
+                {
+                  "key" : "License/Attribution_License-URL",
+                  "value" : "https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa"
+                }
+              ]
+          },
+        "metadata" :
+          { "domain" : "data.calgary.ca", "license" : "See Terms of Use" },
+        "permalink" : "https://data.calgary.ca/d/33tb-fhsv",
+        "link" : "https://data.calgary.ca/Demographics/Calgary-Equity-Index-Visible-Minority/33tb-fhsv",
+        "owner" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          },
+        "creator" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Calgary Equity Index - Transit to Work",
+            "id" : "y6yw-56qu",
+            "resource_name" : null,
+            "parent_fxf" : [ "7g5f-dkmi" ],
+            "description" : "The Calgary Equity Index Overlay Statistics are derived from Citizen Satisfaction surveys and census demographics.\r\nThe Calgary Equity Index is a decision-making tool designed to measure equity in Calgary, based on a social determinant of health (SDOH) framework. The SDOH are the range of interacting social and economic conditions that influence people’s health and well-being. This index provides an equity lens to examine the ways in which social and economic conditions are experienced and distributed among populations. It will help the City examine where inequities exist in different areas. Information is available for 113 Community Service Areas (CSAs) across Calgary. The CSAs were created by combining two adjacent Census Tracts to reach a population of around 10,000. The CSAs are numbered from 1 to 113, and are displayed on the map.",
+            "attribution" : "The City of Calgary",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "map",
+            "updatedAt" : "2023-02-01T15:38:58.000Z",
+            "createdAt" : "2022-06-24T17:03:29.000Z",
+            "metadata_updated_at" : "2023-02-01T15:38:58.000Z",
+            "data_updated_at" : "2022-06-23T22:21:06.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 5,
+                "page_views_last_month" : 13,
+                "page_views_total" : 783,
+                "page_views_last_week_log" : 2.584962500721156,
+                "page_views_last_month_log" : 3.8073549220576037,
+                "page_views_total_log" : 9.614709844115207
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 2,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "visualization_canvas_map",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2022-07-22T16:17:57.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Demographics",
+            "domain_tags" :
+              [
+                "indigenous",
+                "visible minority",
+                "youth",
+                "seniors",
+                "safe",
+                "renters",
+                "population",
+                "children",
+                "citizen satisfaction survey",
+                "drive to work",
+                "english knowledge",
+                "equity",
+                "newcomers",
+                "median income",
+                "lone parent",
+                "immigrants",
+                "single parent",
+                "transit to work"
+              ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Data-Supplier_Business-Unit",
+                  "value" : "Community Strategies"
+                },
+                {
+                  "key" : "Data-Supplier_Organization",
+                  "value" : "The City of Calgary"
+                },
+                {
+                  "key" : "Geospatial-Information_Dataset-contains-geospatial-information",
+                  "value" : "No"
+                },
+                {
+                  "key" : "Time/Date_Update-Frequency",
+                  "value" : "Irregular"
+                },
+                {
+                  "key" : "License/Attribution_License-URL",
+                  "value" : "https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa"
+                }
+              ]
+          },
+        "metadata" :
+          { "domain" : "data.calgary.ca", "license" : "See Terms of Use" },
+        "permalink" : "https://data.calgary.ca/d/y6yw-56qu",
+        "link" : "https://data.calgary.ca/Demographics/Calgary-Equity-Index-Transit-to-Work/y6yw-56qu",
+        "owner" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          },
+        "creator" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Calgary Equity Index - Youth",
+            "id" : "xxw2-g4r8",
+            "resource_name" : null,
+            "parent_fxf" : [ "7g5f-dkmi" ],
+            "description" : "The Calgary Equity Index Overlay Statistics are derived from Citizen Satisfaction surveys and census demographics.\r\nThe Calgary Equity Index is a decision-making tool designed to measure equity in Calgary, based on a social determinant of health (SDOH) framework. The SDOH are the range of interacting social and economic conditions that influence people’s health and well-being. This index provides an equity lens to examine the ways in which social and economic conditions are experienced and distributed among populations. It will help the City examine where inequities exist in different areas. Information is available for 113 Community Service Areas (CSAs) across Calgary. The CSAs were created by combining two adjacent Census Tracts to reach a population of around 10,000. The CSAs are numbered from 1 to 113, and are displayed on the map.",
+            "attribution" : "The City of Calgary",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "map",
+            "updatedAt" : "2023-02-01T15:38:56.000Z",
+            "createdAt" : "2022-06-24T17:02:21.000Z",
+            "metadata_updated_at" : "2023-02-01T15:38:56.000Z",
+            "data_updated_at" : "2022-06-23T22:21:06.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 3,
+                "page_views_last_month" : 6,
+                "page_views_total" : 370,
+                "page_views_last_week_log" : 2.0,
+                "page_views_last_month_log" : 2.807354922057604,
+                "page_views_total_log" : 8.535275376620802
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 2,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "visualization_canvas_map",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2022-07-22T16:11:35.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Demographics",
+            "domain_tags" :
+              [
+                "newcomers",
+                "youth",
+                "visible minority",
+                "transit to work",
+                "children",
+                "seniors",
+                "safe",
+                "renters",
+                "drive to work",
+                "english knowledge",
+                "equity",
+                "immigrants",
+                "indigenous",
+                "lone parent",
+                "median income",
+                "population",
+                "citizen satisfaction survey",
+                "single parent"
+              ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Data-Supplier_Business-Unit",
+                  "value" : "Community Strategies"
+                },
+                {
+                  "key" : "Data-Supplier_Organization",
+                  "value" : "The City of Calgary"
+                },
+                {
+                  "key" : "Geospatial-Information_Dataset-contains-geospatial-information",
+                  "value" : "No"
+                },
+                {
+                  "key" : "Time/Date_Update-Frequency",
+                  "value" : "Irregular"
+                },
+                {
+                  "key" : "License/Attribution_License-URL",
+                  "value" : "https://data.calgary.ca/d/Open-Data-Terms/u45n-7awa"
+                }
+              ]
+          },
+        "metadata" :
+          { "domain" : "data.calgary.ca", "license" : "See Terms of Use" },
+        "permalink" : "https://data.calgary.ca/d/xxw2-g4r8",
+        "link" : "https://data.calgary.ca/Demographics/Calgary-Equity-Index-Youth/xxw2-g4r8",
+        "owner" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          },
+        "creator" :
+          {
+            "id" : "55bi-hyk4",
+            "user_type" : "interactive",
+            "display_name" : "Calgary Open Data"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Demographics and profiles at the Neighborhood Tabulation Area (NTA) level",
+            "id" : "hyuz-tij8",
+            "resource_name" : null,
+            "parent_fxf" : [],
+            "description" : "Table of ACS Demographics and\r\nprofile represented at the NTA level.\r\nNTAs are aggregations of census tracts\r\nthat are subsets of New York City's 55\r\nPublic Use Microdata Areas (PUMAs)",
+            "attribution" : "Department of City Planning (DCP)",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "file",
+            "updatedAt" : "2018-09-19T16:35:16.000Z",
+            "createdAt" : "2015-02-17T16:49:14.000Z",
+            "metadata_updated_at" : "2018-09-19T16:35:16.000Z",
+            "data_updated_at" : "2015-02-17T16:49:14.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 36,
+                "page_views_last_month" : 158,
+                "page_views_total" : 13956,
+                "page_views_last_week_log" : 5.20945336562895,
+                "page_views_last_month_log" : 7.312882955284356,
+                "page_views_total_log" : 13.768701253028146
+              },
+            "columns_name" : [],
+            "columns_field_name" : [],
+            "columns_datatype" : [],
+            "columns_description" : [],
+            "columns_format" : [],
+            "download_count" : 5753,
+            "provenance" : "official",
+            "lens_view_type" : "blobby",
+            "lens_display_type" : "blob",
+            "locked" : false,
+            "backend" : "not_a_dataset",
+            "blob_mime_type" : "application/zip; charset=binary",
+            "hide_from_data_json" : false,
+            "publication_date" : "2015-02-17T16:49:14.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "City Government",
+            "domain_tags" : [ "nta", "pumas", "acs", "census" ],
+            "domain_metadata" :
+              [
+                { "key" : "Update_Automation", "value" : "No" },
+                { "key" : "Update_Date-Made-Public", "value" : "2/17/2015" },
+                { "key" : "Update_Update-Frequency", "value" : "As needed" },
+                {
+                  "key" : "Dataset-Information_Agency",
+                  "value" : "Department of City Planning (DCP)"
+                }
+              ]
+          },
+        "metadata" : { "domain" : "data.cityofnewyork.us" },
+        "permalink" : "https://data.cityofnewyork.us/d/hyuz-tij8",
+        "link" : "https://data.cityofnewyork.us/City-Government/Demographics-and-profiles-at-the-Neighborhood-Tabu/hyuz-tij8",
+        "owner" :
+          {
+            "id" : "5fuc-pqz2",
+            "user_type" : "interactive",
+            "display_name" : "NYC OpenData"
+          },
+        "creator" :
+          {
+            "id" : "5fuc-pqz2",
+            "user_type" : "interactive",
+            "display_name" : "NYC OpenData"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Population: City (Place ACS-5)",
+            "id" : "vv5a-gdqq",
+            "resource_name" : null,
+            "parent_fxf" : [],
+            "description" : "US Census ACS 5 year population estimates for cities (and other named census places) from table B01003_001E",
+            "attribution" : "Pierce County Finance Department",
+            "attribution_link" : null,
+            "contact_email" : null,
+            "type" : "dataset",
+            "updatedAt" : "2026-06-30T01:18:04.000Z",
+            "createdAt" : "2025-08-04T16:47:04.000Z",
+            "metadata_updated_at" : "2026-06-30T01:18:04.000Z",
+            "data_updated_at" : "2025-08-04T16:55:24.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 10,
+                "page_views_last_month" : 46,
+                "page_views_total" : 16249,
+                "page_views_last_week_log" : 3.4594316186372978,
+                "page_views_last_month_log" : 5.554588851677638,
+                "page_views_total_log" : 13.988152097690543
+              },
+            "columns_name" :
+              [ "population", "place", "place_code", "state_code", "year" ],
+            "columns_field_name" :
+              [
+                "b01003_001e",
+                "place_name",
+                "place_code",
+                "state_code",
+                "year"
+              ],
+            "columns_datatype" :
+              [ "Number", "Text", "Text", "Text", "Calendar date" ],
+            "columns_description" :
+              [
+                "B01003_001E",
+                "place name",
+                "census place code",
+                "census state code",
+                "acs year"
+              ],
+            "columns_format" : [ {}, {}, {}, {}, {} ],
+            "download_count" : 1250,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "table",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2025-08-06T18:18:26.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "Demographics",
+            "domain_tags" :
+              [
+                "population",
+                "acs5",
+                "census",
+                "acs",
+                "city",
+                "county population"
+              ],
+            "domain_metadata" :
+              [
+                { "key" : "Publishing_Department", "value" : "Finance" },
+                { "key" : "Publishing_Dataset-Start-Year", "value" : "2023" },
+                {
+                  "key" : "Publishing_Strategic-Objective",
+                  "value" : "Effective, inclusive and equitable government services"
+                },
+                {
+                  "key" : "Publishing_Priority-Areas",
+                  "value" : "Effective Government"
+                },
+                {
+                  "key" : "Publishing_Terms-of-Use",
+                  "value" : "https://internal.open.piercecountywa.gov/stories/s/t3r8-e9ff"
+                },
+                {
+                  "key" : "Publishing_Update-Frequency",
+                  "value" : "Annually"
+                }
+              ]
+          },
+        "metadata" : { "domain" : "internal.open.piercecountywa.gov" },
+        "permalink" : "https://internal.open.piercecountywa.gov/d/vv5a-gdqq",
+        "link" : "https://internal.open.piercecountywa.gov/Demographics/Population-City-Place-ACS-5-/vv5a-gdqq",
+        "owner" :
+          {
+            "id" : "b92y-m8ap",
+            "user_type" : "interactive",
+            "display_name" : "morgan.sampson@piercecountywa.gov"
+          },
+        "creator" :
+          {
+            "id" : "b92y-m8ap",
+            "user_type" : "interactive",
+            "display_name" : "morgan.sampson@piercecountywa.gov"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "2012 Census - Dwelling Units By Structure Type And Ownership (Neighbourhood)",
+            "id" : "kdh3-uyqv",
+            "resource_name" : null,
+            "parent_fxf" : [],
+            "description" : "All Census information is as of April 1, 2012.  Ages of residents are effective April 1, 2012.  No data on any individual residence will be released.  To protect the privacy of individuals, data is compiled and presented at the city, ward and neighbourhood level only.  Neighbourhood results with a population under 49 are not posted to protect the information collected.  The designation of “No Response” includes households from which no census data could be collected or only partial data was available.  Bulk-count data from multiple-resident facilities (such as group homes, transient drop-in centres, residential hotels or criminal detention centres) may be limited when personal information cannot be obtained (i.e. information is not available or cannot be released by the facility administration).",
+            "attribution" : "City of Edmonton",
+            "attribution_link" : "http://www.edmonton.ca/census",
+            "contact_email" : null,
+            "type" : "dataset",
+            "updatedAt" : "2019-07-17T16:46:21.000Z",
+            "createdAt" : "2012-07-30T22:13:29.000Z",
+            "metadata_updated_at" : "2019-07-17T16:46:21.000Z",
+            "data_updated_at" : "2012-08-15T17:54:53.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 5,
+                "page_views_last_month" : 15,
+                "page_views_total" : 11239,
+                "page_views_last_week_log" : 2.584962500721156,
+                "page_views_last_month_log" : 4.0,
+                "page_views_total_log" : 13.456354415108288
+              },
+            "columns_name" :
+              [
+                "WARD",
+                "NEIGHBOURHOOD_NUMBER",
+                "STRUCTURE_TYPE",
+                "NEIGHBOURHOOD NAME",
+                "RENTED",
+                "OWNED",
+                "NO_RESPONSE"
+              ],
+            "columns_field_name" :
+              [
+                "ward",
+                "neighbourhood_number",
+                "structure_type",
+                "neighbourhood_name",
+                "rented",
+                "owned",
+                "no_response"
+              ],
+            "columns_datatype" :
+              [
+                "Text",
+                "Number",
+                "Text",
+                "Text",
+                "Number",
+                "Number",
+                "Number"
+              ],
+            "columns_description" : [ "", "", "", "", "", "", "" ],
+            "columns_format" :
+              [
+                {},
+                {
+                  "precisionStyle" : "standard",
+                  "noCommas" : "true",
+                  "align" : "center"
+                },
+                {},
+                {},
+                {},
+                {},
+                {}
+              ],
+            "download_count" : 589,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "table",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2012-08-15T17:55:24.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [ "demographics", "environment" ],
+            "tags" : [],
+            "domain_category" : "Census",
+            "domain_tags" :
+              [
+                "neighbourhood",
+                "structure types",
+                "2012 municipal census",
+                "ownership"
+              ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Time-Frame_Update-Frequency",
+                  "value" : "Not Updated (Historical Only)"
+                },
+                {
+                  "key" : "Time-Frame_Automated-or-Manual",
+                  "value" : "Manual"
+                },
+                {
+                  "key" : "Quality-Indicators_Duplicates-Removed",
+                  "value" : "Yes"
+                },
+                {
+                  "key" : "Quality-Indicators_Verified-for-Accuracy",
+                  "value" : "Yes"
+                },
+                { "key" : "Key-Performance-Indicators_Field-2", "value" : "" },
+                {
+                  "key" : "General-Information_Primary-Dataset-or-View",
+                  "value" : "Primary"
+                },
+                {
+                  "key" : "General-Information_Purpose",
+                  "value" : "Current, reliable census data is an essential tool available to the City of Edmonton, and all census data consumers, that will enable them to meet current and future challenges.  The data allows consumers to anticipate and adapt to change.  Basing decisions on constantly updated demographics results in more appropriate use of revenue and resources, allowing consumers to be proactive in their response to multiple demands, shifts in priorities and rapid changes that the future will bring.  With changes being made to collection of federal census data, consistent collection of municipal census data will be the most reliable source of comparative data available to the City of Edmonton.  Current census data will also allow the City to maximize per capita grants provided by the provincial and federal governments."
+                }
+              ]
+          },
+        "metadata" :
+          { "domain" : "data.edmonton.ca", "license" : "See Terms of Use" },
+        "permalink" : "https://data.edmonton.ca/d/kdh3-uyqv",
+        "link" : "https://data.edmonton.ca/Census/2012-Census-Dwelling-Units-By-Structure-Type-And-O/kdh3-uyqv",
+        "owner" :
+          {
+            "id" : "muvs-mqhy",
+            "user_type" : "interactive",
+            "display_name" : "Elections Office"
+          },
+        "creator" :
+          {
+            "id" : "muvs-mqhy",
+            "user_type" : "interactive",
+            "display_name" : "Elections Office"
+          }
+      },
+      {
+        "resource" :
+          {
+            "name" : "Boundaries: State of Texas Census Tracts (Based off 2020 Census)",
+            "id" : "bh9b-sg93",
+            "resource_name" : null,
+            "parent_fxf" : [],
+            "description" : "A census tract is a geographic area defined by the U.S. Census Bureau for the purpose of collecting and analyzing demographic data. Typically, a census tract contains a population of about 1,200 to 8,000 people and is designed to reflect homogenous social and economic characteristics. Tracts are used in various statistical analyses and are updated every ten years with the decennial census, allowing for a detailed understanding of population trends, housing, and economic conditions within specific communities.\n\nThese files do not include demographic data, but they contain geographic entity codes that can be linked to the Census Bureau’s demographic data, available on the <a href=\"https://data.census.gov\" target=\"_blank\">United States Census Bureau's Website</a>.\n\nTerms of Use\nThis product is for informational purposes and may not have been prepared for or be suitable for legal, engineering, or surveying purposes. It does not represent an on-the-ground survey and represents only the approximate relative location of property boundaries. This product has been produced by the US Census for the sole purpose of geographic reference. No warranty is made by the City of Austin regarding specific accuracy or completeness.\n\n<a href=\"https://datahub.austintexas.gov/stories/s/ranj-cccq\" target=\"_blank\">View the City of Austin Open Data Terms of Use</a>",
+            "attribution" : "City of Austin, TX - data.austintexas.gov",
+            "attribution_link" : "https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-geodatabase-file.2020.html#list-tab-1258746043",
+            "contact_email" : null,
+            "type" : "dataset",
+            "updatedAt" : "2026-03-27T19:43:05.000Z",
+            "createdAt" : "2024-11-04T22:24:49.000Z",
+            "metadata_updated_at" : "2026-03-27T19:43:05.000Z",
+            "data_updated_at" : "2024-11-04T22:26:43.000Z",
+            "page_views" :
+              {
+                "page_views_last_week" : 25,
+                "page_views_last_month" : 86,
+                "page_views_total" : 457,
+                "page_views_last_week_log" : 4.700439718141093,
+                "page_views_last_month_log" : 6.442943495848729,
+                "page_views_total_log" : 8.839203788096945
+              },
+            "columns_name" :
+              [
+                "STATEFP",
+                "the_geom",
+                "MTFCC",
+                "INTPTLAT",
+                "FUNCSTAT",
+                "INTPTLON",
+                "AWATER",
+                "ALAND",
+                "NAMELSAD",
+                "GEOID",
+                "TRACTCE",
+                "COUNTYFP",
+                "NAME"
+              ],
+            "columns_field_name" :
+              [
+                "statefp",
+                "the_geom",
+                "mtfcc",
+                "intptlat",
+                "funcstat",
+                "intptlon",
+                "awater",
+                "aland",
+                "namelsad",
+                "geoid",
+                "tractce",
+                "countyfp",
+                "name"
+              ],
+            "columns_datatype" :
+              [
+                "Text",
+                "MultiPolygon",
+                "Text",
+                "Text",
+                "Text",
+                "Text",
+                "Number",
+                "Number",
+                "Text",
+                "Text",
+                "Text",
+                "Text",
+                "Text"
+              ],
+            "columns_description" :
+              [ "", "", "", "", "", "", "", "", "", "", "", "", "" ],
+            "columns_format" :
+              [ {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {} ],
+            "download_count" : 44,
+            "provenance" : "official",
+            "lens_view_type" : "tabular",
+            "lens_display_type" : "table",
+            "locked" : false,
+            "backend" : "nbe",
+            "blob_mime_type" : null,
+            "hide_from_data_json" : false,
+            "publication_date" : "2024-11-04T22:26:55.000Z"
+          },
+        "classification" :
+          {
+            "categories" : [],
+            "tags" : [],
+            "domain_category" : "City Government",
+            "domain_tags" : [ "census tract", "census2020", "census" ],
+            "domain_metadata" :
+              [
+                {
+                  "key" : "Ownership_Program-Name",
+                  "value" : "Enterprise Open Data Program"
+                },
+                {
+                  "key" : "Ownership_Department-name",
+                  "value" : "Austin Technology Services"
+                },
+                {
+                  "key" : "Publishing-Information_Update-Frequency",
+                  "value" : "As Needed"
+                },
+                {
+                  "key" : "Publishing-Information_Time-range-of-data",
+                  "value" : "2020 Census"
+                },
+                {
+                  "key" : "Citywide-Strategic-Plan_Strategic-Priority",
+                  "value" : "High-performing Government"
+                }
+              ]
+          },
+        "metadata" :
+          {
+            "domain" : "datahub.austintexas.gov",
+            "license" : "See Terms of Use"
+          },
+        "permalink" : "https://datahub.austintexas.gov/d/bh9b-sg93",
+        "link" : "https://datahub.austintexas.gov/City-Government/Boundaries-State-of-Texas-Census-Tracts-Based-off-/bh9b-sg93",
+        "owner" :
+          {
+            "id" : "w6jb-cki3",
+            "user_type" : "team",
+            "display_name" : "Austin Open Data Platform Administrators (GIS and Mapping Resources)"
+          },
+        "creator" :
+          {
+            "id" : "w6jb-cki3",
+            "user_type" : "team",
+            "display_name" : "Austin Open Data Platform Administrators (GIS and Mapping Resources)"
+          }
+      }
+    ],
+  "resultSetSize" : 1341,
+  "timings" : { "serviceMillis" : 38, "searchMillis" : [ 5, 12 ] },
+  "warnings" : []
+}

@@ -1,0 +1,44 @@
+{
+  "source": "https://www.nyc.gov/site/manhattancb3/minutes/committee-meeting-videos.page",
+  "meetings": 391,
+  "videos": 391,
+  "videos_with_captions": 386,
+  "videos_missing_record": [],
+  "duration_hours": 844.6,
+  "transcript_words": 7231528,
+  "meetings_by_year": {
+    "2020": 71,
+    "2021": 95,
+    "2022": 68,
+    "2023": 48,
+    "2024": 27,
+    "2025": 51,
+    "2026": 31
+  },
+  "hours_by_year": {
+    "2020": 153.9,
+    "2021": 193.2,
+    "2022": 133.0,
+    "2023": 117.8,
+    "2024": 71.3,
+    "2025": 109.0,
+    "2026": 66.3
+  },
+  "meetings_by_committee": {
+    "sla_licensing": 90,
+    "land_use_housing": 61,
+    "transportation_sanitation": 53,
+    "health_human_services": 48,
+    "parks_waterfront": 44,
+    "executive": 38,
+    "economic_development": 22,
+    "arts_culture": 15,
+    "landmarks": 13,
+    "cannabis": 6,
+    "budget": 3,
+    "outreach": 3,
+    "charter": 2,
+    "personnel": 2,
+    "bylaws": 2
+  }
+}
