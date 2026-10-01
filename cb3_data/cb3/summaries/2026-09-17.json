@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-17",
+  "title": "Parks, Recreation, Waterfront, and Resiliency",
+  "youtube_id": "ae7mwymf0vc",
+  "duration_sec": 5703,
+  "one_line": "Trever Holland's committee heard parks-manager updates, an October 17 dog parade, and ESCR and BMCR construction briefings, and took no votes.",
+  "votes": 0,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "parks-report",
+      "label": "Parks manager report",
+      "clock": "0:00",
+      "minutes": 34,
+      "outcome": "Briefing only.",
+      "summary": "Trever Holland opened the meeting, and the minutes were deemed approved. A public speaker, Linda Jones, was recognized; what she said is not in the digest sample. The parks manager said East River athletic fields are permitted on the Parks website, and that a swing assembly may need blacksmiths but has no timeline after a fiscal-year coding problem. He also said he could ask the 7th Precinct about a presence in the park.",
+      "facts": [
+        [
+          "Minutes",
+          "Minutes sent in advance were deemed approved with no objections."
+        ],
+        [
+          "Field permits",
+          "East River athletic fields are permitted through the Parks website. Softball and mini fields had permits last year."
+        ],
+        [
+          "Swings",
+          "Staff have no timeline yet for refabricating a swing assembly, which may require blacksmiths. A fiscal-year coding error was blamed for delay."
+        ],
+        [
+          "Precinct",
+          "The manager said he could ask the 7th Precinct about a presence in the park at certain times."
+        ]
+      ],
+      "followups": [
+        [
+          "Parks manager",
+          "Check the timeline for refabricating the swing assembly."
+        ],
+        [
+          "Parks manager",
+          "Ask the 7th Precinct about a presence in the park."
+        ]
+      ],
+      "clips": [
+        {
+          "label": "East River permits",
+          "at": "0:21",
+          "seconds": 1267
+        },
+        {
+          "label": "Swing assembly",
+          "at": "0:31",
+          "seconds": 1866
+        }
+      ]
+    },
+    {
+      "id": "dog-parade",
+      "label": "Dog parade",
+      "clock": "0:34",
+      "minutes": 6,
+      "outcome": "Briefing only.",
+      "summary": "Fern, founder of a dog-parade nonprofit, invited people to take part on October 17. Park manager Eddie said he would contact her the next week to go over logistics. The committee had no further questions and the chair said they would see her that day.",
+      "facts": [
+        [
+          "Date",
+          "The event date given was October 17."
+        ],
+        [
+          "Logistics",
+          "Eddie, the park manager, said he would contact Fern the following week."
+        ]
+      ],
+      "followups": [
+        [
+          "Eddie",
+          "Contact Fern next week on parade logistics."
+        ]
+      ],
+      "clips": [
+        {
+          "label": "October 17 parade",
+          "at": "0:34",
+          "seconds": 2060
+        }
+      ]
+    },
+    {
+      "id": "escr-briefing",
+      "label": "ESCR construction",
+      "clock": "0:42",
+      "minutes": 27,
+      "outcome": "Briefing only.",
+      "summary": "ESCR and DDC staff, including Pauline Chan and Kristen Cawthorne, briefed the committee. A union laborer was severely injured Tuesday in the closed section of East River Park; an investigation with NYPD is underway, and staff said there is no risk to the public. They are meeting nearby residents on a regular schedule, discussing more frequent air-quality reports, and clarifying pile-installation hours. Salvaged trees are in, and night-work signup is at nyc.gov/escr/nightwork.",
+      "facts": [
+        [
+          "Injury",
+          "A union laborer was severely injured Tuesday in the closed section of East River Park. The investigation with NYPD was described as still early."
+        ],
+        [
+          "Public risk",
+          "Staff said the incident does not create a public-safety concern."
+        ],
+        [
+          "Air and piles",
+          "Residents asked about more frequent air-quality reporting to the community advisory group and about pile-installation hours."
+        ],
+        [
+          "Night work",
+          "Night-work registration is at nyc.gov/escr/nightwork. Presentations are posted on the project site."
+        ]
+      ],
+      "followups": [
+        [
+          "DDC",
+          "The injury investigation is ongoing; staff said they could not share much yet."
+        ],
+        [
+          "ESCR",
+          "Clarify pile-installation hours and consider more frequent air-quality reports."
+        ]
+      ],
+      "clips": [
+        {
+          "label": "Park injury report",
+          "at": "0:42",
+          "seconds": 2521
+        }
+      ]
+    },
+    {
+      "id": "bmcr-questions",
+      "label": "BMCR questions",
+      "clock": "1:09",
+      "minutes": 25,
+      "outcome": "Briefing only. The chair said there were no votes.",
+      "summary": "Members asked about restored rails, night traffic if Montgomery Street is tight near Pier 36, and a slip that is closed almost every day. Staff said a traffic concern had gone to a nearby garden but not yet to Pier 36, and that an entrance was moved off South Street because that street was also closed. BMCR photos showed an interceptor-gate building at Robert F. Wagner Senior Place meant to resemble the one at East 20th Street. The chair then said there were no votes.",
+      "facts": [
+        [
+          "Montgomery Street",
+          "A member warned that night traffic will worsen if drivers cannot get through Montgomery Street near Pier 36."
+        ],
+        [
+          "Pier 36",
+          "Staff said the concern had been shared with a nearby garden but not with Pier 36."
+        ],
+        [
+          "Interceptor gate",
+          "The building at Robert F. Wagner Senior Place is meant to look like the northern interceptor-gate building at East 20th Street."
+        ],
+        [
+          "Slip closure",
+          "A slip was described as closed almost every day. The entrance was moved off South Street because South Street was closed, and staff called the new arrangement a problem."
+        ],
+        [
+          "No votes",
+          "The chair ended the agenda by saying there were no votes."
+        ]
+      ],
+      "followups": [
+        [
+          "ESCR",
+          "Pass the Montgomery Street traffic concern to Pier 36."
+        ],
+        [
+          "DDC",
+          "Check vibration and air quality at the slip, and follow up on manhole talks with Sky Equity."
+        ],
+        [
+          "Ethan",
+          "Put the community construction liaison contact in the chat."
+        ]
+      ],
+      "clips": [
+        {
+          "label": "Committee questions",
+          "at": "1:09",
+          "seconds": 4165
+        },
+        {
+          "label": "Slip closure",
+          "at": "1:31",
+          "seconds": 5517
+        }
+      ]
+    }
+  ]
+}

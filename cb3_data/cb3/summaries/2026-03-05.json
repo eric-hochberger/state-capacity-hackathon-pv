@@ -1,0 +1,143 @@
+{
+  "date": "2026-03-05",
+  "title": "Health, Seniors, & Human Services / Youth, Education, & Human Rights Committee",
+  "youtube_id": "s9n4cXXwBY0",
+  "duration_sec": 5476,
+  "one_line": "The health committee reviewed food-policy asks and a preliminary-budget comment letter, then planned future agendas and heard a hospital-board invitation and a street complaint.",
+  "votes": null,
+  "letters": 1,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "food-policy-advocacy",
+      "label": "Food policy advocacy",
+      "clock": "0:08",
+      "minutes": 10,
+      "outcome": "Briefing only; no vote was taken.",
+      "summary": "A presenter described coalition work on legislation and a 2026 city agenda drawn from the New York City Food Policy Alliance, including health-benefits initiatives. Three ways for Community Board 3 to help were listed: personal support, because a formal letter of support would miss the timeline, testimony at city preliminary-budget hearings, and a citywide pie day of action. The presenter said they would have to double-check which elected officials already back the asks. A committee member added that boards must send written preliminary-budget comments to the mayor by the 25th.",
+      "facts": [
+        ["City agenda", "2026 priorities were described as inspired by the New York City Food Policy Alliance, with health-benefits initiatives among the tangible asks."],
+        ["Letter of support", "A state letter of support discussed earlier with Ashley was called unrealistic on the timeline; personal support was suggested instead."],
+        ["City testimony", "The second ask was testimony at upcoming city preliminary-budget hearings."],
+        ["Pie day", "The third ask was a pie day of action, corrected in the room as citywide, to bring coalition partners and the community."],
+        ["Elected support", "The presenter said they would double-check elected support and had been pushing public pressure on the specific asks."],
+        ["Written comments", "A member said the charter requires a letter of comment to the mayor by the 25th, after priorities voted last October, and that testimony is optional."]
+      ],
+      "followups": [
+        ["Presenter", "Double-check which elected officials already support the asks."]
+      ],
+      "clips": [
+        {"label": "Coalition asks", "at": "0:08", "seconds": 527},
+        {"label": "How to help", "at": "0:10", "seconds": 618}
+      ]
+    },
+    {
+      "id": "budget-comment-letter",
+      "label": "Budget comment letter",
+      "clock": "0:19",
+      "minutes": 19,
+      "outcome": "Heard with no vote; the committee worked through a draft letter of comment.",
+      "summary": "Mae Lee reviewed the administration's responses to budget priorities voted in October and a draft letter of comment. Where agencies said a request was already completed, the draft says the need continues, including foster care and child welfare, homeless outreach, residential beds for homeless youth, and after-school programs. Legal services for immigrant youth were described as supported but not funded. Members treated the letter as charter-mandated, and the chair said City Planning will tell agencies to use 'already completed' only when a capital project is actually finished.",
+      "facts": [
+        ["Foster care", "Expanded foster-care and child-welfare funding was marked already completed; the draft says it is not and is still needed."],
+        ["Homeless outreach", "Outreach for homeless services was marked completed; the letter answers that it has not been."],
+        ["Youth beds", "Residential beds for homeless youth were marked completed; the letter asks for more money."],
+        ["After school", "After-school programs were marked completed; the letter says more money is needed."],
+        ["Immigrant youth", "Legal services for immigrant youth were supported but could not be accommodated for lack of funding."],
+        ["Other replies", "The chair said the remaining expense replies were also marked completed while the letter still asks for more money."],
+        ["Agency replies", "City Planning's road show will tell agencies to use 'already completed' only when a capital project is actually done."],
+        ["Home care", "Enhancing home-care services was described as a state issue, not a city issue."]
+      ],
+      "followups": [
+        ["City Planning", "Tell agencies on the road show not to mark a request completed unless the capital project is finished."],
+        ["Committee", "Finish the charter-required letter of comment to the mayor."]
+      ],
+      "clips": [
+        {"label": "Agency responses", "at": "0:19", "seconds": 1156},
+        {"label": "Expense items", "at": "0:30", "seconds": 1830}
+      ]
+    },
+    {
+      "id": "panel-planning",
+      "label": "Panel planning",
+      "clock": "0:37",
+      "minutes": 32,
+      "outcome": "Heard with no vote; the committee decided not to add a panel.",
+      "summary": "The committee took a temperature check, explicitly not a formal vote, on a regular agenda item versus a panel, and concluded they were not adding a panel. They said a session could still produce a resolution, a briefing on gaps, or budget information. The Independent Budget Office is scheduled in April with a report on B-HEARD after missing this month. Members also said too many outside requests overwhelm a meeting, and they looked at the annual calendar and a five-question sample budget survey from last year.",
+      "facts": [
+        ["Panel", "Members weighed a standing agenda item against a panel and then said they were not adding a panel."],
+        ["Possible output", "A session could produce a city resolution, identify service gaps, or inform budget priorities."],
+        ["April IBO", "The Independent Budget Office is invited in April with a report on B-HEARD after missing this month."],
+        ["Agenda load", "Members said more than two outside items is overwhelming and that most items come from outside requests."],
+        ["Survey", "Last year's sample budget survey had five questions and changes somewhat each year."]
+      ],
+      "followups": [
+        ["Committee", "Hear the Independent Budget Office on B-HEARD in April."]
+      ],
+      "clips": [
+        {"label": "Panel or agenda", "at": "0:43", "seconds": 2585},
+        {"label": "April B-HEARD", "at": "0:59", "seconds": 3575}
+      ]
+    },
+    {
+      "id": "hospital-cab-seat",
+      "label": "Hospital board seat",
+      "clock": "1:09",
+      "minutes": 6,
+      "outcome": "Heard with no vote.",
+      "summary": "A member relayed an email from Carol inviting a Community Board 3 member onto a hospital community advisory board. Applicants need to be consumers of that hospital, submit an application reviewed internally and then by the board, and attend two meetings before approval. The invitation did not mention the borough president. No appointment was made.",
+      "facts": [
+        ["CAB seat", "Carol sent an application and asked for a board member who uses that hospital."],
+        ["Review", "The application is reviewed internally and then by the community advisory board."],
+        ["Two meetings", "An applicant must attend two meetings before being approved to join."],
+        ["Borough president", "The invitation did not mention the borough president, and the member said they did not ask."]
+      ],
+      "followups": [
+        ["Interested member", "Submit the application and attend two meetings before CAB approval."]
+      ],
+      "clips": [
+        {"label": "CAB application", "at": "1:09", "seconds": 4187}
+      ]
+    },
+    {
+      "id": "ulurp-site-update",
+      "label": "ULURP site update",
+      "clock": "1:16",
+      "minutes": 11,
+      "outcome": "Heard with no vote.",
+      "summary": "A member reported that a project would have to go through ULURP and would take many years. Speakers agreed the place is in bad condition. A second site was compared to it, but the location was not clear in the caption. The member said these were things the committee still needed to find out.",
+      "facts": [
+        ["ULURP", "The project was said to require ULURP and to take many years."],
+        ["Condition", "Speakers said the place is in bad condition and really needs work."],
+        ["Open questions", "The member said these were all things the committee still needed to find out."]
+      ],
+      "followups": [
+        ["Committee", "Find out the status of the project expected to enter ULURP."]
+      ],
+      "clips": [
+        {"label": "ULURP timeline", "at": "1:16", "seconds": 4564}
+      ]
+    },
+    {
+      "id": "unlicensed-shop",
+      "label": "Unlicensed shop",
+      "clock": "1:27",
+      "minutes": 4,
+      "outcome": "Heard with no vote; the chair said the committee would take care of it.",
+      "summary": "A speaker described a basement operation selling cannabis for delivery, said it has no liquor license, and offered to email video that night because students cross nearby. Mae Lee said the office would take the complaint and that the state does not have liquor-license jurisdiction in that city-controlled area. No street address was clear in the caption. The speaker also mentioned resident associations fixing a PTA or resident room.",
+      "facts": [
+        ["Shop", "A speaker said a basement operation sells cannabis for delivery and does not have a liquor license."],
+        ["Video", "The speaker said they would email video that night."],
+        ["Students", "The speaker tied the complaint to children crossing the street for school."],
+        ["Jurisdiction", "The chair said the state does not have liquor-license jurisdiction in that city-controlled area."]
+      ],
+      "followups": [
+        ["Speaker", "Email the video the same night."],
+        ["Chair", "Follow up on the unlicensed-shop complaint."]
+      ],
+      "clips": [
+        {"label": "Shop complaint", "at": "1:27", "seconds": 5253}
+      ]
+    }
+  ]
+}

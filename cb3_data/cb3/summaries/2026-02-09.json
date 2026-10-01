@@ -1,0 +1,72 @@
+{
+  "date": "2026-02-09",
+  "title": "SLA Licensing & Outdoor Dining Committee",
+  "youtube_id": "25mW0ZUTNxg",
+  "duration_sec": 7300,
+  "one_line": "The SLA committee heard license and alteration applications, passed three on stipulations, and debated an exception to its caution on new licenses on St. Marks.",
+  "votes": 3,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "license-applications",
+      "label": "License applications",
+      "clock": "0:00",
+      "minutes": 100,
+      "outcome": "Three applications moved to a vote and passed. Three others were heard with stipulations or hour changes, and the digest does not show those votes.",
+      "summary": "Clint Smeltzer's committee heard a new tavern tied to the Mogador operators on a busy St. Marks block, an alteration at 177 Christy Street, a corporate change filed as a new license at 134 Elbridge Street, a removal to 261 Bowery for Spunto, an Italian restaurant at 106 Third Avenue, and a last application at 355 Bowery. Motions passed for the Christy Street alteration, Spunto, and the Third Avenue restaurant. The St. Marks item drew many supporters and a request that any approval be written as an exception. The 355 Bowery applicant was told Thursday through Saturday could close at 4 a.m. The digest does not show votes for the St. Marks, Elbridge, or 355 Bowery items.",
+      "facts": [
+        ["Mucha LLC, St. Marks", "Daniel, for Mucha LLC, sought a new full liquor license for a tavern with a kitchen, tied to the longtime Mogador operators across the street, at a location treated as unlicensed after EV Social closed. Many residents spoke in support. Laura Su of the East Village Community Coalition said the coalition could not formally support it and asked that any resolution call it an exception based on the owner's history. Stipulations that were read include outdoor dining closed by 10 p.m. and happy hour ending by 7 p.m. No vote is shown."],
+        ["177 Christy Street", "Swiss Flight International LLC, also captioned as a white international LLC, sought an alteration. Seats stay 44, bars drop from 10 to 6, and tables drop from 16 to 10. Full-service American restaurant, licensed on premises since at least 2015. Hours Monday to Friday 5 p.m. to 2 a.m. and Saturday and Sunday 1 p.m. to 2 a.m. Stephen, Megan, Clint, and Michael voted yes. The motion passed."],
+        ["134 Elbridge Street", "Samuel Ross for Boy Cocktails LLC. Treated as a new application though described as a corporate change. A bar and tavern with less than a full kitchen. Hours Sunday to Wednesday 5 p.m. to 2 a.m. and Thursday to Saturday 5 p.m. to 4 a.m. No outdoor commercial use. No vote is shown."],
+        ["Spunto, 261 Bowery", "Antonio Gomez sought a removal from 65 Carmine Street to 261 Bowery for a pizza restaurant of up to 74 people. Windows do not open. The applicant also lost a lease at 98 Avenue B and is keeping another location for eight more years. Happy hour until 6 p.m. No opposition emails and no speakers against. The committee voted yes."],
+        ["106 Third Avenue", "Olio East LLC, also read as Ole East Village LLC, sought a full license for an Italian restaurant at the former 30 Love, about 156 people and two bars, with live jazz on occasion. The committee kept 10 p.m. as the close for a second-floor courtyard. Hours 8 a.m. to 1 a.m. daily, happy hour by 7 p.m. Stephen, Megan, Clint, and Michael voted yes. The motion passed."],
+        ["355 Bowery", "The last applicant asked to close at 4 a.m. Thursday, Friday, and Saturday, citing a commercial stretch, few nearby residents, and 50 signatures. The committee agreed to that 4 a.m. close. A mixology course was mentioned and set aside as outside the stipulations. The digest ends before a vote."]
+      ],
+      "followups": [
+        ["CB3 office", "Send stipulation instructions to the applicants whose motions passed."],
+        ["St. Marks applicant", "The East Village Community Coalition asked that any written approval state it is an exception."],
+        ["Olio East", "The committee kept the second-floor courtyard closing time at 10 p.m."]
+      ],
+      "clips": [
+        {"label": "First application", "at": "0:00", "seconds": 0}
+      ]
+    },
+    {
+      "id": "st-marks-guidance",
+      "label": "St. Marks guidance",
+      "clock": "34:15",
+      "minutes": 14,
+      "outcome": "Heard with no separate vote. Committee guidance was discussed during the new St. Marks application.",
+      "summary": "During the Mucha application the chair stated the committee's guidance against new licenses at unlicensed locations, especially in saturated areas, and said the test is impact rather than a raw count of licenses. St. Marks was described as an SLA hotspot. A midnight walkthrough found outdoor-dining noncompliance, and the SLA later sent letters. Megan Joy said the guidance is not a hard rule and that many longtime residents were asking for an exception for these operators. Susan described years of work to get outdoor dining on the block to close at 10 p.m.",
+      "facts": [
+        ["Guidance", "The chair said the committee generally does not approve new licensed businesses in unlicensed locations in saturated areas, and that it weighs impact."],
+        ["Hotspot", "St. Marks was described as an SLA hotspot. A walkthrough that started at midnight found restaurants that were supposed to have closed outdoor dining."],
+        ["Follow-up letters", "The 10 p.m. outdoor close was tied to later SLA letters to places visited on that walk. Susan said she had spoken with a partner about the 10 p.m. rule."],
+        ["Exception", "Megan Joy said many longtime residents of the block were supporting an exception for this operator. Another member said the block's problems would remain no matter how responsible the operator is."]
+      ],
+      "followups": [
+        ["Committee", "Any approval of the unlicensed St. Marks location was discussed as an exception to standing guidance. No separate policy vote was taken."]
+      ],
+      "clips": [
+        {"label": "Unlicensed-location guidance", "at": "34:15", "seconds": 2055}
+      ]
+    },
+    {
+      "id": "stipulation-wording",
+      "label": "Stipulation wording",
+      "clock": "52:42",
+      "minutes": 8,
+      "outcome": "Heard with no separate vote.",
+      "summary": "While reading stipulations on the St. Marks application, members argued about door security. Some did not want a line that required security only if necessary, because that is not a clear rule. They also questioned a checked temporary retail permit. The explanation on the record was that the temporary permit is part of the new full-license application. The exchange is cut off before the next application.",
+      "facts": [
+        ["Security", "Members debated a door person and security staff. They objected to writing if necessary into the stipulation, and differed on whether these operators needed the requirement at all."],
+        ["Temporary permit", "A member asked why a temporary retail permit was checked. The reply was that it is part of the new full liquor application."]
+      ],
+      "followups": [],
+      "clips": [
+        {"label": "Security stipulation", "at": "52:42", "seconds": 3162}
+      ]
+    }
+  ]
+}

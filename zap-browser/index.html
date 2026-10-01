@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>ZAP Browser</title>
+<title>Community Topics</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 <style>
   :root {
@@ -41,6 +41,7 @@
   .district h2 { font-size: 15px; margin: 0; }
   .district .count { color: var(--muted); font-size: 12px; white-space: nowrap; }
   .linkbtn { background: none; border: 0; color: var(--accent); cursor: pointer; font: inherit; font-size: 12px; padding: 0; }
+  a.home { display: inline-block; margin-bottom: 6px; text-decoration: none; }
   .list { overflow-y: auto; flex: 1; padding: 8px 16px 24px; }
   .empty { color: var(--muted); padding: 24px 0; text-align: center; }
   .card { border: 1px solid var(--line); border-radius: 8px; padding: 12px; margin-top: 10px; }
@@ -55,8 +56,28 @@
   .b-done { color: var(--s-done); background: var(--s-done-bg); }
   .b-hold { color: var(--s-hold); background: var(--s-hold-bg); }
   .milestone { margin: 8px 0 0; font-size: 12.5px; }
-  .brief { margin: 6px 0 0; font-size: 12.5px; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; cursor: pointer; }
-  .brief.open { -webkit-line-clamp: unset; }
+  .brief { margin: 6px 0 0; font-size: 12.5px; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .card[data-project] { cursor: pointer; text-align: left; width: 100%; }
+  .card[data-project]:hover, .card[data-project]:focus-visible { border-color: var(--accent); outline: none; }
+  .tally { margin: 8px 0 0; font-size: 12px; color: var(--muted); }
+  .dialog { position: fixed; inset: 0; z-index: 2000; display: grid; place-items: center; padding: 16px; }
+  .dialog[hidden] { display: none; }
+  .dialog-backdrop { position: absolute; inset: 0; background: rgba(0,0,0,.45); }
+  .dialog-panel { position: relative; width: min(560px, 100%); max-height: min(88vh, 760px); overflow: auto; background: var(--panel); color: var(--ink); border-radius: 12px; padding: 20px 20px 16px; box-shadow: 0 12px 40px rgba(0,0,0,.28); }
+  .dialog-close { position: absolute; top: 10px; right: 12px; border: 0; background: none; color: var(--muted); font-size: 22px; line-height: 1; cursor: pointer; }
+  .dialog-panel h2 { font-size: 18px; margin: 0 28px 8px 0; }
+  .summary { margin: 12px 0 0; font-size: 14px; line-height: 1.5; white-space: pre-wrap; }
+  .zaplink { display: inline-block; margin-top: 10px; color: var(--accent); font-size: 13px; }
+  .stance-row { display: flex; gap: 8px; margin-top: 16px; }
+  .stance-row button { flex: 1; border: 1px solid var(--line); background: transparent; color: var(--ink); border-radius: 8px; padding: 8px 10px; font: inherit; cursor: pointer; }
+  .stance-row button[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+  .comment-box { width: 100%; margin-top: 10px; min-height: 72px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--ink); font: inherit; resize: vertical; }
+  .submit-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 8px; }
+  .submit-row button { border: 0; background: var(--accent); color: #fff; border-radius: 8px; padding: 8px 14px; font: inherit; cursor: pointer; }
+  .form-error { color: var(--s-hold); font-size: 12px; min-height: 1em; }
+  .comments { list-style: none; margin: 14px 0 0; padding: 0; }
+  .comments li { border-top: 1px solid var(--line); padding: 10px 0; }
+  .comments .who { font-size: 12px; font-weight: 600; }
   .legend { background: var(--panel); color: var(--ink); padding: 8px 10px; border-radius: 6px; font-size: 11px; box-shadow: 0 1px 4px rgba(0,0,0,.2); }
   .legend i { display: inline-block; width: 14px; height: 10px; margin-right: 4px; vertical-align: middle; }
   .leaflet-tooltip { font: 12px system-ui, sans-serif; }
@@ -71,7 +92,8 @@
   <div id="map"></div>
   <aside>
     <header>
-      <h1>ZAP Browser</h1>
+      <a class="linkbtn home" href="/">← NYCivy</a>
+      <h1>Community Topics</h1>
       <div class="sub" id="source"></div>
       <div class="filters" id="filters"></div>
       <input class="search" id="search" type="search" placeholder="Search name, applicant, ULURP #…">
@@ -79,6 +101,42 @@
     <div class="district" id="district"></div>
     <div class="list" id="list"></div>
   </aside>
+</div>
+<div id="dialog" class="dialog" hidden>
+  <div class="dialog-backdrop" data-close></div>
+  <div class="dialog-panel" role="dialog" aria-modal="true" aria-labelledby="dialog-title">
+    <button class="dialog-close" type="button" data-close aria-label="Close">×</button>
+    <h2 id="dialog-title"></h2>
+    <div id="dialog-meta" class="meta"></div>
+    <p id="dialog-milestone" class="milestone"></p>
+    <p id="dialog-summary" class="summary"></p>
+    <a id="dialog-zap" class="zaplink" target="_blank" rel="noopener">View on Zoning Application Portal</a>
+    <p id="dialog-tally" class="tally"></p>
+    <div class="stance-row">
+      <button type="button" data-stance="support">Support</button>
+      <button type="button" data-stance="oppose">Don't support</button>
+    </div>
+    <form id="dialog-form">
+      <label class="sr-only" for="dialog-comment" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)">Comment</label>
+      <textarea id="dialog-comment" class="comment-box" name="text" maxlength="1000" placeholder="Add a public comment (optional)"></textarea>
+      <div class="submit-row">
+        <p id="dialog-error" class="form-error"></p>
+        <button type="submit">Share stance</button>
+      </div>
+    </form>
+    <ul id="dialog-comments" class="comments"></ul>
+  </div>
+</div>
+<div id="meeting" class="dialog" hidden>
+  <div class="dialog-backdrop" data-meeting-close></div>
+  <div class="dialog-panel" role="dialog" aria-modal="true" aria-labelledby="meeting-title">
+    <button class="dialog-close" type="button" data-meeting-close aria-label="Close">×</button>
+    <p class="sub">Manhattan Community Board 3</p>
+    <h2 id="meeting-title"></h2>
+    <p id="meeting-meta" class="sub"></p>
+    <a id="meeting-watch" class="zaplink" target="_blank" rel="noopener">Watch the meeting</a>
+    <div id="meeting-transcript"></div>
+  </div>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
@@ -189,9 +247,19 @@ function select(code) {
   render();
 }
 
+const byId = Object.fromEntries(PROJECTS.map(p => [p.project_id, p]));
+let feedback = {};
+let activeId = null;
+let chosenStance = null;
+
+function tallyText(entry) {
+  const support = entry?.support || 0;
+  const oppose = entry?.oppose || 0;
+  return `${support} support · ${oppose} don't support`;
+}
+
 function card(p) {
   const st = STATUSES.find(s => s.key === statusOf(p));
-  const url = `https://zap.planning.nyc.gov/projects/${encodeURIComponent(p.project_id)}`;
   const meta = [
     `<span class="badge ${st.cls}">${esc(st.label || st.key)}</span>`,
     esc(p.project_id),
@@ -200,13 +268,16 @@ function card(p) {
     p.cds.length > 1 && `Districts: ${esc(p.cds.join(", "))}`,
     p.mih_flag === "true" && "MIH",
   ].filter(Boolean).map(x => `<span>${x}</span>`).join("");
-  return `<div class="card">
-    <h3><a href="${url}" target="_blank" rel="noopener">${esc(p.project_name || "(untitled)")}</a></h3>
+  const entry = feedback[p.project_id];
+  const votes = entry && (entry.support || entry.oppose) ? `<p class="tally">${esc(tallyText(entry))}</p>` : "";
+  return `<div class="card" role="button" tabindex="0" data-project="${esc(p.project_id)}">
+    <h3>${esc(p.project_name || "(untitled)")}</h3>
     <div class="meta">${meta}</div>
     ${p.current_milestone ? `<p class="milestone">${esc(p.current_milestone)}${p.current_milestone_date ? ` · <span class="sub">${fmtDate(p.current_milestone_date)}</span>` : ""}</p>` : ""}
     ${p.primary_applicant ? `<div class="sub">Applicant: ${esc(p.primary_applicant)}${p.applicant_type ? ` (${esc(p.applicant_type)})` : ""}</div>` : ""}
     ${p.ulurp_numbers ? `<div class="sub">ULURP: ${esc(p.ulurp_numbers)}</div>` : ""}
-    ${p.project_brief ? `<p class="brief" title="Click to expand">${esc(p.project_brief)}</p>` : ""}
+    ${p.project_brief ? `<p class="brief">${esc(p.project_brief)}</p>` : ""}
+    ${votes}
   </div>`;
 }
 
@@ -218,6 +289,7 @@ function render() {
   layer.setStyle(styleFor);
 
   const distEl = document.getElementById("district"), listEl = document.getElementById("list");
+  const meeting = selected === "M03" ? meetingCard() : "";
   if (!selected) {
     distEl.innerHTML = `<h2>Click a community district</h2>
       <button class="linkbtn" onclick="select('CITYWIDE')">Citywide (${citywide})</button>`;
@@ -230,15 +302,264 @@ function render() {
     .sort((a, b) => parseDate(b.current_milestone_date || b.app_filed_date) - parseDate(a.current_milestone_date || a.app_filed_date));
   distEl.innerHTML = `<div><h2>${esc(label(selected))}</h2><span class="count">${list.length} open application${list.length === 1 ? "" : "s"}</span></div>
     <button class="linkbtn" onclick="select(null)">Clear</button>`;
-  listEl.innerHTML = list.length ? list.map(card).join("") : `<div class="empty">No open applications match these filters.</div>`;
+  listEl.innerHTML = meeting + (list.length ? list.map(card).join("") : `<div class="empty">No open applications match these filters.</div>`);
 }
 
-document.getElementById("list").addEventListener("click", e => {
-  if (e.target.classList.contains("brief")) e.target.classList.toggle("open");
+let latestMeeting = null;
+let issueComments = {};
+
+function formatDuration(seconds) {
+  if (!seconds) return "";
+  const hours = Math.floor(seconds / 3600);
+  const minutes = Math.round((seconds % 3600) / 60);
+  return hours ? `${hours}h ${minutes}m` : `${minutes}m`;
+}
+
+function meetingCard() {
+  const m = latestMeeting;
+  if (!m) return "";
+  const when = [m.date_text || m.date, formatDuration(m.duration_seconds)].filter(Boolean).join(" · ");
+  const line = m.summary && m.summary.one_line ? `<p class="brief">${esc(m.summary.one_line)}</p>` : "";
+  return `<div class="card" role="button" tabindex="0" data-meeting="1">
+    <div class="sub">Latest meeting</div>
+    <h3>${esc(m.title)}</h3>
+    <div class="sub">${esc(when)}</div>
+    ${line}
+  </div>`;
+}
+
+function openMeeting() {
+  const m = latestMeeting;
+  if (!m) return;
+  document.getElementById("meeting-title").textContent = m.title;
+  document.getElementById("meeting-meta").textContent = [m.date_text || m.date, formatDuration(m.duration_seconds), m.channel].filter(Boolean).join(" · ");
+  const watch = document.getElementById("meeting-watch");
+  watch.href = m.url;
+  const body = document.getElementById("meeting-transcript");
+  const segments = m.summary && m.summary.segments;
+  if (segments && segments.length) {
+    body.innerHTML = `<p class="summary">${esc(m.summary.one_line || "")}</p>` + segments.map(seg => {
+      const key = `${m.youtube_id}:${seg.id}`;
+      const comments = (issueComments[key] && issueComments[key].comments) || [];
+      const posted = comments.map(c => {
+        const when = new Date(c.createdAt);
+        const label = Number.isNaN(when.getTime()) ? "" : when.toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" });
+        return `<li><div class="who">${esc(label)}</div><div>${esc(c.text)}</div></li>`;
+      }).join("");
+      return `<div class="card" style="cursor:default">
+        <h3>${esc(seg.label)} <span class="sub">${esc(seg.clock || "")}</span></h3>
+        <div class="sub">${esc(seg.outcome || "")}</div>
+        <p class="summary">${esc(seg.summary || "")}</p>
+        <form data-issue="${esc(key)}">
+          <textarea class="comment-box" name="text" maxlength="1000" placeholder="Comment on ${esc(seg.label)}"></textarea>
+          <div class="submit-row">
+            <p class="form-error" data-issue-error></p>
+            <button type="submit">Comment</button>
+          </div>
+        </form>
+        <ul class="comments">${posted}</ul>
+      </div>`;
+    }).join("");
+  } else {
+    body.textContent = m.transcript || "Open the video to watch this meeting. A caption transcript was not available.";
+  }
+  const dialog = document.getElementById("meeting");
+  dialog.hidden = false;
+  dialog.querySelector(".dialog-close").focus();
+}
+
+function projectMeta(p) {
+  const st = STATUSES.find(s => s.key === statusOf(p));
+  return [
+    `<span class="badge ${st.cls}">${esc(st.label || st.key)}</span>`,
+    esc(p.project_id),
+    p.ulurp_non && esc(p.ulurp_non),
+    p.actions && `Actions: ${esc(p.actions)}`,
+    p.primary_applicant && `Applicant: ${esc(p.primary_applicant)}`,
+    p.ulurp_numbers && `ULURP: ${esc(p.ulurp_numbers)}`,
+    p.cds?.length && `Districts: ${esc(p.cds.join(", "))}`,
+  ].filter(Boolean).map(x => `<span>${x}</span>`).join("");
+}
+
+function fillDialog() {
+  const p = byId[activeId];
+  if (!p) return;
+  const entry = feedback[activeId] || { support: 0, oppose: 0, comments: [] };
+  document.getElementById("dialog-title").textContent = p.project_name || "(untitled)";
+  document.getElementById("dialog-meta").innerHTML = projectMeta(p);
+  document.getElementById("dialog-milestone").textContent = p.current_milestone
+    ? `${p.current_milestone}${p.current_milestone_date ? ` · ${fmtDate(p.current_milestone_date)}` : ""}`
+    : "";
+  document.getElementById("dialog-summary").textContent = p.project_brief || "No summary is included for this application.";
+  const zap = document.getElementById("dialog-zap");
+  zap.href = `https://zap.planning.nyc.gov/projects/${encodeURIComponent(p.project_id)}`;
+  document.getElementById("dialog-tally").textContent = tallyText(entry);
+  document.querySelectorAll("[data-stance]").forEach(btn => {
+    btn.setAttribute("aria-pressed", btn.dataset.stance === chosenStance ? "true" : "false");
+  });
+  const comments = document.getElementById("dialog-comments");
+  comments.innerHTML = (entry.comments || []).map(c => {
+    const when = new Date(c.createdAt);
+    const label = Number.isNaN(when.getTime()) ? "" : when.toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" });
+    return `<li>
+      <div class="who">${c.stance === "support" ? "Support" : "Don't support"}${label ? ` · ${esc(label)}` : ""}</div>
+      <div>${esc(c.text)}</div>
+    </li>`;
+  }).join("");
+}
+
+function openProject(id) {
+  if (!byId[id]) return;
+  activeId = id;
+  chosenStance = null;
+  document.getElementById("dialog-form").reset();
+  document.getElementById("dialog-error").textContent = "";
+  fillDialog();
+  const dialog = document.getElementById("dialog");
+  dialog.hidden = false;
+  dialog.querySelector(".dialog-close").focus();
+}
+
+function closeDialog() {
+  document.getElementById("dialog").hidden = true;
+  activeId = null;
+  chosenStance = null;
+}
+
+document.getElementById("dialog").addEventListener("click", e => {
+  if (e.target.closest("[data-close]")) closeDialog();
+  const stanceBtn = e.target.closest("[data-stance]");
+  if (stanceBtn) {
+    chosenStance = stanceBtn.dataset.stance;
+    fillDialog();
+  }
+});
+document.getElementById("meeting").addEventListener("click", e => {
+  if (e.target.closest("[data-meeting-close]")) document.getElementById("meeting").hidden = true;
+});
+document.getElementById("meeting").addEventListener("submit", async e => {
+  const form = e.target.closest("form[data-issue]");
+  if (!form) return;
+  e.preventDefault();
+  const error = form.querySelector("[data-issue-error]");
+  const text = new FormData(form).get("text").toString().trim();
+  if (!text) {
+    error.textContent = "Write a comment first.";
+    return;
+  }
+  error.textContent = "";
+  const submit = form.querySelector("button[type=submit]");
+  submit.disabled = true;
+  try {
+    const res = await fetch("/api/feedback", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ issueId: form.dataset.issue, text }),
+    });
+    const data = await res.json();
+    if (!res.ok) {
+      error.textContent = data.error || "Could not save that.";
+      return;
+    }
+    issueComments[form.dataset.issue] = data.issue;
+    openMeeting();
+  } catch {
+    error.textContent = "Could not save that. Please try again.";
+  } finally {
+    submit.disabled = false;
+  }
+});
+document.addEventListener("keydown", e => {
+  if (e.key !== "Escape") return;
+  if (!document.getElementById("dialog").hidden) closeDialog();
+  if (!document.getElementById("meeting").hidden) document.getElementById("meeting").hidden = true;
+});
+document.getElementById("dialog-form").addEventListener("submit", async e => {
+  e.preventDefault();
+  const error = document.getElementById("dialog-error");
+  if (!chosenStance) {
+    error.textContent = "Choose support or don't support.";
+    return;
+  }
+  error.textContent = "";
+  const text = new FormData(e.target).get("text").toString().trim();
+  const submit = e.target.querySelector("button[type=submit]");
+  submit.disabled = true;
+  try {
+    const res = await fetch("/api/feedback", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ projectId: activeId, stance: chosenStance, text }),
+    });
+    const data = await res.json();
+    if (!res.ok) {
+      error.textContent = data.error || "Could not save that.";
+      return;
+    }
+    feedback[activeId] = data.project;
+    chosenStance = null;
+    e.target.reset();
+    error.textContent = "Recorded.";
+    fillDialog();
+    render();
+  } catch {
+    error.textContent = "Could not save that. Please try again.";
+  } finally {
+    submit.disabled = false;
+  }
 });
 
-const initial = location.hash.slice(1);
-if (initial && (featureByCode[initial] || initial === "CITYWIDE")) select(initial); else render();
+document.getElementById("list").addEventListener("click", e => {
+  if (e.target.closest("[data-meeting]")) { openMeeting(); return; }
+  const card = e.target.closest("[data-project]");
+  if (card) openProject(card.dataset.project);
+});
+document.getElementById("list").addEventListener("keydown", e => {
+  if (e.key !== "Enter" && e.key !== " ") return;
+  const card = e.target.closest("[data-project]");
+  if (!card) return;
+  e.preventDefault();
+  openProject(card.dataset.project);
+});
+
+fetch("/api/cb3/latest").then(r => r.ok ? r.json() : null).then(data => {
+  latestMeeting = data && data.meeting;
+  if (selected === "M03") render();
+}).catch(() => {});
+
+fetch("/api/feedback").then(r => r.ok ? r.json() : null).then(data => {
+  if (!data) return;
+  feedback = data.projects || {};
+  issueComments = data.issues || {};
+  render();
+  if (activeId) fillDialog();
+  if (latestMeeting && !document.getElementById("meeting").hidden) openMeeting();
+}).catch(() => {});
+
+const BOROUGH_HASH = {
+  manhattan: "Manhattan",
+  brooklyn: "Brooklyn",
+  queens: "Queens",
+  "the-bronx": "Bronx",
+  bronx: "Bronx",
+  "staten-island": "Staten Island",
+};
+
+function showBorough(name) {
+  const layers = [];
+  layer.eachLayer(l => {
+    if (l.feature.properties.boro === name && !l.feature.properties.jia) layers.push(l);
+  });
+  if (layers.length) map.fitBounds(L.featureGroup(layers).getBounds(), { padding: [20, 20] });
+  render();
+}
+
+const raw = decodeURIComponent(location.hash.slice(1));
+const code = raw.toUpperCase();
+const boroughName = BOROUGH_HASH[raw.toLowerCase()];
+if (code && (featureByCode[code] || code === "CITYWIDE")) select(code);
+else if (boroughName) showBorough(boroughName);
+else render();
 </script>
 </body>
 </html>

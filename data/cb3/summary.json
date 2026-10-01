@@ -1,0 +1,18 @@
+{
+  "source": "https://www.nyc.gov/site/manhattancb3/minutes/committee-meeting-videos.page",
+  "meetings": 1,
+  "videos": 1,
+  "videos_with_captions": 0,
+  "videos_missing_record": [
+    "tA14qBzEGiM"
+  ],
+  "duration_hours": 0.0,
+  "transcript_words": 0,
+  "meetings_by_year": {
+    "2026": 1
+  },
+  "hours_by_year": {},
+  "meetings_by_committee": {
+    "transportation_sanitation": 1
+  }
+}
