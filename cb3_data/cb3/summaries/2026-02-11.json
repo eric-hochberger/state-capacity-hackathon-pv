@@ -1,0 +1,77 @@
+{
+  "date": "2026-02-11",
+  "title": "Land Use, Zoning, Public & Private Housing Committee",
+  "youtube_id": "RuEIsXKaRrw",
+  "duration_sec": 5137,
+  "one_line": "The land use committee heard an as-of-right project at 88 East 2nd Street and passed an Essex Market resolution to send on to the full board and NYC EDC.",
+  "votes": 1,
+  "letters": 1,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "88-east-2nd",
+      "label": "88 East 2nd",
+      "clock": "4:38",
+      "minutes": 28,
+      "outcome": "Briefing only. No resolution or variance was requested.",
+      "summary": "The committee heard an as-of-right project at 88 East 2nd Street. The developer came at the board's request and needs no resolution or variance. Ben said a six-story building without affordable housing had started, and after City of Yes the plan changed to as many as eight floors with five affordable units, paused for housing approvals. There would be 25 apartments, 15 studios and 10 one-bedrooms, with the affordable share following HPD's mix. Members asked him to take a laundromat seriously if one wants the retail. A speaker then started a short City of Yes update; the rest is not in the digest. No vote was taken.",
+      "facts": [
+        ["As of right", "88 East 2nd Street needs no variance and no resolution. The developer presented because the committee asked."],
+        ["Redesign", "Work started last April as a six-story building without affordable housing. After City of Yes, plans shifted to up to eight floors with five affordable units, paused for housing approvals. Construction had reached the second floor."],
+        ["Unit mix", "25 apartments: 15 studios and 10 one-bedrooms. The five affordable units follow HPD guidelines at the same percentage as the market-rate mix. The affordable breakdown given on the record was studios and one-bedrooms."],
+        ["Retail", "Members said they understand the space limits, and asked the developer to seriously consider a laundromat if one makes an offer."],
+        ["Materials", "The presentation was described as already posted on the CB3 website."]
+      ],
+      "followups": [
+        ["Developer", "Waiting on housing approvals before continuing the affordable eight-story plan. No board action was required."]
+      ],
+      "clips": [
+        {"label": "88 East 2nd Street", "at": "4:38", "seconds": 278}
+      ]
+    },
+    {
+      "id": "essex-market-resolution",
+      "label": "Essex Market",
+      "clock": "41:47",
+      "minutes": 36,
+      "outcome": "Voted. The motion passed. Damaris Reyes was present and not voting. The resolution goes to the full board and then to NYC EDC.",
+      "summary": "Tim walked through a draft resolution on Essex Market and the former Market Line. It says CB3 has long asked for responsive, community-focused management through Essex Crossing and the urban renewal area, and that NYC EDC is letting Delance Street Associates lease the former Market Line to a big-box use against that framework and against the board's objection. The resolution supports alternative management. Members edited language, heard no public opposition, and voted. Damaris Reyes was present and not voting. The motion passed. It will go to the full board and, if the board passes it, to EDC.",
+      "facts": [
+        ["History", "The resolution says CB3 has consistently asked for community-focused management of Essex Market through Essex Crossing and the urban renewal area."],
+        ["Big-box lease", "NYC EDC has determined that Delance Street Associates may lease the former Market Line space to a big-box use, against the land-use approval framework and against CB3's objection."],
+        ["Ask", "The draft supports alternative management in line with earlier board positions. Tim offered to walk through those options."],
+        ["EDC status", "A member asked if EDC was already on board. The reply was that this meeting is where the committee said it would spell out the concerns."],
+        ["Vote", "A motion to adopt was made and seconded, including a second from John. Damaris Reyes was present and not voting. The chair said everybody else voted and the motion passed."]
+      ],
+      "followups": [
+        ["Full board", "The resolution will be shared at the full board for a vote."],
+        ["NYC EDC", "If the full board passes it, the resolution will be sent to EDC."],
+        ["Tim", "The committee credited his research and asked him to keep following the issue."]
+      ],
+      "clips": [
+        {"label": "Essex Market resolution", "at": "41:47", "seconds": 2507}
+      ]
+    },
+    {
+      "id": "resolution-archive",
+      "label": "Resolution archive",
+      "clock": "1:18:41",
+      "minutes": 8,
+      "outcome": "Heard with no vote.",
+      "summary": "The last item was how the committee keeps past positions findable. Susan said the city's website makes resolutions hard to search, that an Airtable could do it, and that the board has money to start now. She needs help describing the project. A member offered to look at the process with Rod and help find someone to set up the Airtable. Ideas are due Wednesday, February 25. No vote was taken.",
+      "facts": [
+        ["Problem", "Past positions need to be searchable. The city website was called a poor tool for finding resolutions."],
+        ["Airtable", "Susan said other boards have done this, the board has money to hire the build, and she needs help writing what the project should produce."],
+        ["Help", "A member said Rod and that member could review the process and look for a provider. An email would start that."],
+        ["Deadline", "Recommendations and ideas are due Wednesday, February 25, copied to the chair, Susan, and Molly."]
+      ],
+      "followups": [
+        ["Members", "Send archive and process ideas by Wednesday, February 25."],
+        ["Rod", "Help describe the project and look for someone to set up the resolution archive."]
+      ],
+      "clips": [
+        {"label": "Searchable resolutions", "at": "1:18:41", "seconds": 4721}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-08",
+  "title": "SLA Licensing & Outdoor Dining Committee",
+  "youtube_id": "_FluxYyZ8rg",
+  "duration_sec": 4602,
+  "one_line": "The SLA committee pulled two applications, heard four liquor requests, voted yes on Bella's stipulations, and started review of a district needs draft.",
+  "votes": null,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "applications-not-heard",
+      "label": "Applications not heard",
+      "clock": "0:00",
+      "minutes": 7,
+      "outcome": "Not heard; both items were pulled from the agenda and may be listed again later.",
+      "summary": "Clint Smeltzer opened by saying two items were drawn from the agenda and would not be heard. Item two was Kabiva Music Uno at 6 St. Mark's Place, and item five was Friends with Benefits at 177 Street. He told anyone present for those items to watch the agenda because they may return. He then said four items remained and described the order for each hearing: a summary, time for the applicant to add or change the submission, then public comment.",
+      "facts": [
+        ["Kabiva Music Uno", "Item two, at 6 St. Mark's Place, was withdrawn and was not heard."],
+        ["Friends with Benefits", "Item five, at 177 Street, was withdrawn and was not heard."]
+      ],
+      "followups": [
+        ["Applicants", "Watch a later agenda; the chair said the two withdrawn items may be scheduled again."]
+      ],
+      "clips": [
+        {"label": "Items pulled", "at": "0:00", "seconds": 0}
+      ]
+    },
+    {
+      "id": "liquor-applications",
+      "label": "Liquor applications",
+      "clock": "6:48",
+      "minutes": 67,
+      "outcome": "The committee voted yes on Bella's stipulations; the other three applications were heard and no further vote is recorded in the digest.",
+      "summary": "Horizon LLC was presented as a new full-liquor Japanese restaurant on 8 Street. A second-floor neighbor said a thin shared wall and night construction made the apartment unusable; the applicant agreed to look at sound control and said work should run from 7 a.m. to 6 p.m. DML Hospitality was summarized as a 74-person place with a full license since 2018, a 2018 commercial-noise complaint record, and a petition in favor. Bella, at 187 Street between Houston and Stanton, accepted a 10 p.m. outdoor close, no outside speakers, and background music only, and the committee voted yes. An East Broadway applicant seeking full liquor after beer and wine was discussed for a 1 a.m. weekday and 2 a.m. weekend close; that vote is not in the digest.",
+      "facts": [
+        ["Horizon LLC", "New full-liquor application for a Japanese restaurant on 8 Street. Stated hours were 12 p.m. to 2:30 p.m. and 5 p.m. to 11 p.m. Monday through Friday, and 5 p.m. to 11 p.m. Saturday and Sunday. The stipulations also said the space would not be used for commercial use."],
+        ["Second-floor neighbor", "Paul said he shares a very thin wall, lost sleep to permitted night work, and can hear the operation inside the apartment. The applicant agreed to look at ways to cut sound and said construction is 7 a.m. to 6 p.m.; night work should be reported so it can be stopped."],
+        ["DML Hospitality", "Described as 74 people, 20 tables, 53 seats including a stand-up bar, a full kitchen, five televisions, live music, and low-level recorded music, with 28 full licenses within 500 feet. Full license at the site since 2018. The summary cited 231 commercial noise complaints in 2018 that required police, one social-distancing complaint in 2020, and a petition from 70 residents within two blocks. Opening no later than 12, no outdoor commercial use, and doors closed at 10 p.m. were stated."],
+        ["Bella", "Full-liquor application at 187 Street between Houston and Stanton: 299 people, 31 tables, 116 seats, one bar with 18 seats, a full kitchen, and no television. Outdoor space would close at 10 p.m. with no outside speakers. No DJs, live music, events, cover fees, or dancing; recorded background music only. Samantha Wood was listed on the questionnaire and the representative name was changed. Yes votes were recorded from Steven Ballinger, Megan Joy, Daniel Tenno, and Michael, plus one further yes, and the motion passed."],
+        ["East Broadway applicant", "A beer-and-wine operation seeking full liquor was discussed for a local stretch of East Broadway. Occupancy of 74 was contrasted with about 35 seats, including the bar, and with a 2 a.m. close. Members called the area less saturated than others and discussed 1 a.m. on weekdays and 2 a.m. on weekends. They also said future outdoor dining should close at 10 p.m. with no outside speakers or TVs, rather than a stipulation that bars outdoor dining entirely. No door security was planned, and the front windows open."]
+      ],
+      "followups": [
+        ["Horizon applicant", "Look at ways to limit sound through the shared wall, and stop any work outside 7 a.m. to 6 p.m. if neighbors report it."],
+        ["District office", "Send Bella the stipulations with instructions and a date to return them."],
+        ["East Broadway applicant", "The discussion pointed to a 1 a.m. weekday close, 2 a.m. on weekends, and a 10 p.m. outdoor close with no outside speakers or TVs if outdoor dining is added."]
+      ],
+      "clips": [
+        {"label": "Horizon stipulations", "at": "15:44", "seconds": 944},
+        {"label": "DML summary", "at": "19:40", "seconds": 1180},
+        {"label": "Bella vote", "at": "36:36", "seconds": 2196},
+        {"label": "East Broadway hours", "at": "54:08", "seconds": 3248}
+      ]
+    },
+    {
+      "id": "district-needs",
+      "label": "District needs draft",
+      "clock": "1:13:37",
+      "minutes": 3,
+      "outcome": "Briefing only; the committee reviewed a draft and did not vote.",
+      "summary": "After the applications, the committee turned to the district needs statement. Clint Smeltzer said he would email the current draft that night and asked members to send comments within a week so another draft can go out. The office is to update the statistics. Members also wanted the draft to press for more enforcement rather than a late handout telling businesses to comply. Council members and the assembly were mentioned as part of that outreach, along with DOT.",
+      "facts": [
+        ["Draft circulation", "The chair had a draft he had not yet sent and said he would email it the night of the meeting."],
+        ["Comment window", "Members were asked to submit comments within a week so a further draft can be circulated."],
+        ["Statistics", "The office will update the statistics in the statement."],
+        ["Enforcement", "Comments urged stronger enforcement, not only printing a notice and handing it out late."]
+      ],
+      "followups": [
+        ["Clint Smeltzer", "Email the district needs draft to the committee the night of the meeting."],
+        ["Committee members", "Send content comments within a week."],
+        ["District office", "Update the statistics in the draft."]
+      ],
+      "clips": [
+        {"label": "Needs draft", "at": "1:13:37", "seconds": 4417}
+      ]
+    }
+  ]
+}

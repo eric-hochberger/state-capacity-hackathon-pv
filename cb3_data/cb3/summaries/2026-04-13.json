@@ -1,0 +1,73 @@
+{
+  "date": "2026-04-13",
+  "title": "SLA Licensing & Outdoor Dining Committee",
+  "youtube_id": "1tIliXC4l0Q",
+  "duration_sec": 12784,
+  "one_line": "The SLA committee heard liquor-license applications, voted yes on three of them, and was still reading stipulations when the digest ends.",
+  "votes": 3,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "call-to-order",
+      "label": "Call to order",
+      "clock": "0:00",
+      "minutes": 4,
+      "outcome": "Heard with no vote.",
+      "summary": "Clint Smeltzer opened the April 13 SLA committee with attendance and the agenda. No items had been withdrawn, so everything on the agenda was to be heard. A few shorter items were taken first, out of order.",
+      "facts": [
+        ["Withdrawals", "The chair said no items had withdrawn and every agenda item would be heard."],
+        ["Order", "A few shorter items were taken out of order before the rest of the agenda."],
+        ["Attendance", "Megan Joy and Stephen Ballinger were present. Michael Lavario was marked absent at the start and later voted."]
+      ],
+      "followups": [],
+      "clips": [
+        {"label": "Opening", "at": "0:00", "seconds": 0}
+      ]
+    },
+    {
+      "id": "outdoor-dining-notice",
+      "label": "Outdoor dining notice",
+      "clock": "0:04",
+      "minutes": 4,
+      "outcome": "Briefing only.",
+      "summary": "During the first application, Susan asked restaurants to attend a Zoom on outdoor dining regulations. She said the meeting was Wednesday afternoon from 2 to 4 and that she could send the registration link. She said the comment was not about that applicant's file.",
+      "facts": [
+        ["Zoom", "Susan announced a Wednesday Zoom from 2 to 4 p.m. for restaurants on outdoor dining regulations."],
+        ["Invite", "She asked people to attend and said she could send the registration link."]
+      ],
+      "followups": [
+        ["Susan", "Send the registration link for the Wednesday outdoor dining Zoom."]
+      ],
+      "clips": [
+        {"label": "Dining Zoom", "at": "0:04", "seconds": 256}
+      ]
+    },
+    {
+      "id": "license-applications",
+      "label": "License applications",
+      "clock": "0:08",
+      "minutes": 205,
+      "outcome": "Voted on three applications; the digest has no tally for the others.",
+      "summary": "The committee heard a partner change, a full-license matter first approved in June 2025, hour changes, and new or upgraded licenses. It voted yes on a bar and tavern at 50 Avenue B, on beer-and-wine stipulations at 40 Avenue B, and on basement seats at 94 Avenue. The night included additional applications, including a quick stipulation change with a 10 p.m. close whose tally is not shown. Cynthia NYC was called, and the digest ends while stipulations are being read for 349 East 13th Street.",
+      "facts": [
+        ["Partner change", "The remaining partner, Pierre, keeps the same stipulations. Only the partnership changes. The digest does not show a vote."],
+        ["June 2025 license", "The chair said a full liquor license was approved about a year earlier, with a caveat after the SLA found a nearby church was a full-service church. This night's vote is not in the digest."],
+        ["412 and 414 East 9th Street", "Method-of-operation change for a seafood restaurant. Hours were read as Monday through Saturday 5 p.m. to midnight and Sunday noon to midnight, with other stipulations unchanged. No vote is shown."],
+        ["50 Avenue B", "Full liquor license for a bar and tavern. A block association that had opposed it resolved its issues, and resident stipulations including soundproofing were added. Hours discussed were noon to 2 a.m. The committee voted yes."],
+        ["40 Avenue B", "The applicant sought a full license where the location had beer and wine. The East Village Community Coalition opposed the upgrade. The committee voted yes on beer-and-wine stipulations, 2 p.m. to midnight, no licensed security, and no class change to a full license without returning to the community board."],
+        ["94 Avenue", "Elizabeth McGrath's operating restaurant asked to add a basement with nine tables and 19 seats. Other stipulations stayed the same, including a full license, hours of 11 a.m. to 4 a.m., and no outdoor space. The committee voted yes."],
+        ["32 East First Street", "Cynthia NYC was called with the applicant and Bruno present. The digest does not include a recommendation or vote."],
+        ["349 East 13th Street", "Jimmy Leather Pants LLC was read as a full-license Idaho-themed restaurant with acoustic live music and no DJs. Hours read were Sunday noon to midnight, Monday through Thursday noon to 2 a.m., and Friday and Saturday noon to 4 a.m. The digest ends before a vote."]
+      ],
+      "followups": [
+        ["District office", "Send the written stipulation for the 94 Avenue basement alteration."],
+        ["40 Avenue B applicant", "Return to the community board before seeking a full on-premises license."],
+        ["50 Avenue B applicant", "Install soundproofing so sound is not audible in nearby apartments."]
+      ],
+      "clips": [
+        {"label": "Applications", "at": "0:08", "seconds": 484}
+      ]
+    }
+  ]
+}

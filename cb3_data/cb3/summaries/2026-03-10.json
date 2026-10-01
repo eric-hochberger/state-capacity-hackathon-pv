@@ -1,0 +1,144 @@
+{
+  "date": "2026-03-10",
+  "title": "Transportation, Public Safety, Sanitation & Environment Committee",
+  "youtube_id": "VkznrQDSJ7M",
+  "duration_sec": 6599,
+  "one_line": "The transportation committee heard an Independent Budget Office streets-plan briefing, edited a Sammy's Law speed-limit resolution, and reviewed budget comments and upcoming street work.",
+  "votes": null,
+  "letters": 1,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "streets-plan-briefing",
+      "label": "Streets plan briefing",
+      "clock": "0:03",
+      "minutes": 39,
+      "outcome": "Briefing only; no vote was taken.",
+      "summary": "Vincent Cirrito opened the hybrid transportation and environment meeting, and the Independent Budget Office briefed the committee on the streets plan. The office described recent work on Citi Bike compared with other bike-share systems, the MTA capital-budget shortfall and the city budget, and why city buses are slow. A colleague named John showed a map of bike lanes built in the district since 2022. The presenters said they would testify the next day at the Council finance hearing, that a preliminary-plan report is due March 25, and that the slideshow is linked on the board website.",
+      "facts": [
+        ["Citi Bike", "IBO recently compared Citi Bike with other major bike-share programs."],
+        ["MTA capital", "IBO reported on the MTA capital-budget shortfall and how it affects the city budget."],
+        ["Buses", "A presenter had written on why New York City buses are slow and what the city is doing about it."],
+        ["Bike lanes", "The map showed bike lanes built since 2022, in green, light blue, and purple."],
+        ["March 25", "IBO said a preliminary-plan report would be out March 25 and encouraged people to read it."],
+        ["Council testimony", "IBO was testifying the next day at the Council finance hearing on the new city budget."],
+        ["Slideshow", "The chair said a link to the presentation is on the board website."]
+      ],
+      "followups": [
+        ["Committee", "Read the Independent Budget Office preliminary-plan report due March 25."]
+      ],
+      "clips": [
+        {"label": "IBO intro", "at": "0:03", "seconds": 201},
+        {"label": "Bike-lane map", "at": "0:27", "seconds": 1642}
+      ]
+    },
+    {
+      "id": "sammys-law-speeds",
+      "label": "Sammy's Law speeds",
+      "clock": "0:41",
+      "minutes": 41,
+      "outcome": "Heard with no vote; a draft resolution was read and edited, and the digest does not record a final vote.",
+      "summary": "Kevin, a Greenpoint volunteer, asked Community Board 3 to request a districtwide Sammy's Law slow zone and said the mayor has the authority. The draft cites 21 traffic fatalities and 3,448 injuries over five years and calls on DOT to set 20 mph on applicable streets and 15 mph beside schools, then return with implementation plans. Members added whereas clauses on an existing 20 mph stretch between Avenue A and the river and on inconsistent signage, and a speaker said the sign standard still had to be checked. Susan said Manhattan boards can take the request to the borough board, and the digest does not record a final vote.",
+      "facts": [
+        ["Ask", "The request was a Community Board 3 resolution for a districtwide 20 mph limit under Sammy's Law, and 15 mph beside schools."],
+        ["Crash figures", "The draft says the district had 21 traffic fatalities and 3,448 injuries over the last five years."],
+        ["Other boards", "Brooklyn CB1, Queens CB2, and Manhattan CB4 were cited as having passed related resolutions, and several other transportation committees passed them unanimously in February."],
+        ["Coverage", "Sammy's Law was described as applying on streets except roads with three or more travel lanes outside Manhattan, and as not applying to state roads."],
+        ["Existing 20 mph", "The draft says part of the district between Avenue A and the river is already 20 mph, and that signage is inconsistent."],
+        ["DOT return", "The therefore clause also asks DOT to come back and present implementation plans."],
+        ["Signage", "Members debated putting consistent signage in the resolution or leaving it as a budget item. A speaker said the sign standard would have to be checked."],
+        ["Borough board", "Susan said Manhattan boards can ask the borough board to pass it, which would cover the borough with the borough president behind it."]
+      ],
+      "followups": [
+        ["DOT", "Check the agency standard for Sammy's Law speed-limit signs."],
+        ["Committee", "Decide whether signage stays in the resolution or moves to a budget request."]
+      ],
+      "clips": [
+        {"label": "Districtwide ask", "at": "0:48", "seconds": 2939},
+        {"label": "Draft therefore", "at": "1:10", "seconds": 4227}
+      ]
+    },
+    {
+      "id": "budget-comment-process",
+      "label": "Budget comment process",
+      "clock": "1:22",
+      "minutes": 6,
+      "outcome": "Briefing only; no vote was taken.",
+      "summary": "The committee turned to the annual letter of comment on the preliminary budget. Materials go on the board website under member resources and on the OMB site by March 25. The chair said this committee's items were unlikely to be among the few highlights in the letter, and that sending the letter still matters because skipping it signals that the board does not care. Agency replies were described as better this year after City Planning coached agencies, while other committees still received 'already completed' answers on homelessness funding and programs.",
+      "facts": [
+        ["Deadline", "The letter of comment is tied to preliminary-budget material posted by March 25."],
+        ["Highlights", "The chair did not expect transportation items to be among the letter's highlighted points."],
+        ["Why write it", "Members said the letter may not change the budget, and that not writing it says the board does not care."],
+        ["Agency replies", "Replies were described as better this year, with some other committees still told homelessness requests were already completed."]
+      ],
+      "followups": [
+        ["Committee", "Submit preliminary-budget comments using the materials posted by March 25."]
+      ],
+      "clips": [
+        {"label": "Comment letter", "at": "1:22", "seconds": 4963}
+      ]
+    },
+    {
+      "id": "annual-agenda-plan",
+      "label": "Annual agenda plan",
+      "clock": "1:28",
+      "minutes": 9,
+      "outcome": "Heard with no vote.",
+      "summary": "The committee reviewed its yearly agenda cycle as about a third of the board turns over and six new members are expected. Members discussed setting their own advocacy topics, and named a square redesign and a street project that will take substantial time. June covers district meetings, budget priorities, and questions for the district manager. In September, Manhattan district managers and chairs meet each agency for about an hour to an hour and a half over three days.",
+      "facts": [
+        ["New members", "About a third of the board is transitioning, and six new members are expected."],
+        ["Agenda source", "Members discussed choosing advocacy topics themselves versus waiting for outside requests."],
+        ["Large items", "A square redesign and a street project were named as items that will take a lot of committee time."],
+        ["June", "June includes district meetings, budget-priority updates, and questions for the district manager."],
+        ["September", "Manhattan district managers and committee chairs meet agencies over three days and prepare questions in advance."]
+      ],
+      "followups": [
+        ["Committee", "Prepare agency questions before the September district-manager meetings."]
+      ],
+      "clips": [
+        {"label": "Yearly cycle", "at": "1:28", "seconds": 5298},
+        {"label": "Agency meetings", "at": "1:34", "seconds": 5644}
+      ]
+    },
+    {
+      "id": "safety-redesign",
+      "label": "Safety redesign",
+      "clock": "1:37",
+      "minutes": 10,
+      "outcome": "Heard with no vote.",
+      "summary": "A member said construction was hurting families and local stores. The committee said this item is a safety redesign the community asked for, separate from borough-based jail construction and parking complaints. The question is what the work will be and how it will be safer. Members also asked how prior resolutions are tracked; the board is looking at Airtable, expected help did not come through, and time has been the barrier.",
+      "facts": [
+        ["Safety redesign", "The construction item was described as a redesign the community requested for safety."],
+        ["Jail construction", "Borough-based jail construction and parking complaints were described as a different issue."],
+        ["Resolution tracking", "The board is looking at putting prior resolutions in Airtable and has not had the help or time to finish it."]
+      ],
+      "followups": [
+        ["Board staff", "Keep looking at an Airtable tracker for prior resolutions."]
+      ],
+      "clips": [
+        {"label": "Which construction", "at": "1:37", "seconds": 5830}
+      ]
+    },
+    {
+      "id": "cleanup-coordination",
+      "label": "Cleanup coordination",
+      "clock": "1:46",
+      "minutes": 3,
+      "outcome": "Heard with no vote.",
+      "summary": "A speaker said a group called LB had joined cleanups, but the work stayed stuck on the same cleanup and the same emails, and that nobody from the mayor's office was assigned yet. That office was identified as mass engagement. After repeated requests, three mayor's office staff attended with health, transportation, police, fire, and sanitation; fire was there because people are complaining that batteries are unsafe. The speaker said the agencies described the problems without a solution, and that DOT followed up after the meeting.",
+      "facts": [
+        ["LB", "A group called LB had come to cleanups and still left the same cleanup and email loop."],
+        ["Mayor's office", "No one from the mayor's office of mass engagement was assigned yet; three staff came after repeated requests."],
+        ["Agencies", "Health, transportation, police, fire, and sanitation were at the meeting."],
+        ["Batteries", "Fire attended because people are complaining that batteries are unsafe."],
+        ["DOT follow-up", "The speaker said DOT followed up after the meeting and called it the first real sign of interest."]
+      ],
+      "followups": [
+        ["Mayor's office", "Assign someone from the office of mass engagement to the cleanup problems."]
+      ],
+      "clips": [
+        {"label": "Agency meeting", "at": "1:46", "seconds": 6416}
+      ]
+    }
+  ]
+}

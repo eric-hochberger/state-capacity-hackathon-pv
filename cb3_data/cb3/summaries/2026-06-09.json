@@ -1,0 +1,132 @@
+{
+  "date": "2026-06-09",
+  "title": "Transportation, Public Safety, Sanitation & Environment Committee",
+  "youtube_id": "EjN4vyPrRvA",
+  "duration_sec": 8787,
+  "one_line": "The transportation committee heard DOT and TLC briefings, reviewed two intercity bus permits, and collected questions for July agency consultations.",
+  "votes": null,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "ebike-charging",
+      "label": "E-bike charging sites",
+      "clock": "0:00",
+      "minutes": 39,
+      "outcome": "Briefing only; members gave site feedback and no vote was taken.",
+      "summary": "Vincent Cirrito opened the hybrid meeting and took DOT's public e-bike charging presentation first. The presenter, Patrick, said five sites were in front of the board, aimed at high-density delivery zones where workers swap batteries and, where possible, near safe bike facilities. Clearance rules shaped where cabinets can go. A public feedback portal opened in April. The city wants to cut a list of about 50 sites to 25 for design by late summer or early fall, start rolling construction early next year, and have sites operating sometime in 2028. One location described was off Cooper Square, with the cabinet lined up with tree pits and opened from the side. Members raised sidewalk width, storefront staging, safety, and whether delivery apps should pay for battery subscriptions. Siting below Houston Street was described as harder because sidewalks are narrower and already crowded.",
+      "facts": [
+        ["Five sites", "Selected for delivery density, nearby bike facilities, and minimum clearances from existing street furniture."],
+        ["Cooper Square", "The cabinet would line up with tree pits and be opened from the side. Feedback already flagged goods staged along the storefront, so the sidewalk should not be narrowed too much. There is some flexibility along the curb."],
+        ["Timeline", "Feedback runs over the summer. About 50 candidate sites would be narrowed to 25 for design by late summer or early fall, with construction rolling early next year and operation hoped for sometime in 2028."],
+        ["Portal", "A public feedback portal with a QR code launched in April. DOT asked the community board to help spread it through a newsletter or other mailings."],
+        ["Who pays", "Members suggested battery subscriptions might be paid by the companies. DOT said it wants the apps to help fund the program and that City Council action is part of that."],
+        ["Below Houston Street", "Density of existing street elements, narrower sidewalks, and minimum clearance make sites harder to place in lower Manhattan."]
+      ],
+      "followups": [
+        ["DOT", "Use summer feedback to narrow about 50 sites to 25 and carry those into design."],
+        ["Community board", "Help publicize the e-bike charging feedback portal."],
+        ["DOT and City Council", "DOT said it wants delivery apps to contribute funding and needs Council help to pursue that."]
+      ],
+      "clips": [
+        {"label": "Site selection", "at": "13:51", "seconds": 831},
+        {"label": "Cooper Square", "at": "19:29", "seconds": 1169},
+        {"label": "App funding", "at": "34:02", "seconds": 2042}
+      ]
+    },
+    {
+      "id": "tlc-briefing",
+      "label": "TLC briefing",
+      "clock": "39:15",
+      "minutes": 10,
+      "outcome": "Briefing only; the committee heard the TLC report and did not vote.",
+      "summary": "A TLC representative, David, described the agency's role over yellow cabs, green cabs, local car services, and high-volume services including Uber and Lyft. TLC licenses drivers and vehicles and requires regular inspections. He highlighted a green rides initiative. On curb space, he said trip records can show where more loading and unloading zones may be needed. On idling and empty cruising, he described utilization rules that limit how long Uber and Lyft vehicles may drive without a passenger. He also said yellow cabs will carry new World Cup decals.",
+      "facts": [
+        ["Who TLC licenses", "Yellow cabs, green cabs, local livery, and high-volume services including Uber and Lyft, covering both drivers and vehicles, with regular inspections."],
+        ["Green rides", "One of the two initiatives he came to share was the TLC green rides initiative. The digest does not spell out the program details."],
+        ["Curbs and idling", "Trip records are kept for licensed vehicles and can show where loading zones are needed. Utilization rules limit Uber and Lyft driving without a passenger."],
+        ["World Cup decals", "Yellow cabs will have new World Cup decals while passengers are in them."]
+      ],
+      "followups": [],
+      "clips": [
+        {"label": "TLC overview", "at": "40:41", "seconds": 2441},
+        {"label": "Idling rules", "at": "47:14", "seconds": 2834}
+      ]
+    },
+    {
+      "id": "allen-street-bus",
+      "label": "Allen Street bus",
+      "clock": "48:56",
+      "minutes": 43,
+      "outcome": "Heard with no recorded committee tally; amended stipulations for a six-month provisional stop were sent to the applicant before the full board.",
+      "summary": "Spring Tour International LLC seeks a DOT provisional six-month permit to use 32 Allen Street, which the applicant said was the only option offered. The application is one daily drop-off around 7:30 a.m. and one daily pickup around 8:30 p.m., and tickets could be sold on the street. Neighbors and businesses submitted a stack of letters against adding a bus at a stop that already has intercity buses and no station amenities. DOT staff said Allen Street was chosen over Canal Street because a Canal Street project could force a later move. Board stipulations would require the bus to leave immediately after drop-off. The permit would be provisional so complaints can be judged before any extension. The committee amended the stipulations and told the applicant to sign and return them within a few days, before the full board vote at the end of the month. Susan Stetzer told neighbors not to wait six months to report problems.",
+      "facts": [
+        ["32 Allen Street", "Provisional six-month permit for one drop-off around 7:30 a.m. and one pickup around 8:30 p.m. Ticket sales on the street were confirmed by the applicant."],
+        ["Why Allen Street", "DOT chose Allen Street over Canal Street because a possible Canal Street project could require a later relocation."],
+        ["Opposition letters", "Residents and businesses submitted multiple different letters. Members noted an existing bus operation nearby and said the location is a bus stop, not a station with bathrooms."],
+        ["Standing stipulations", "The bus may not lay over; it must drop off and go. The board's older bus stipulations, including a nearby bathroom and ultra-low-sulfur fuel, were explained as the reason these operators come to the committee."],
+        ["Six-month test", "DOT's provisional approval is meant to show whether the operator draws complaints. The committee can look again at complaints, crowding, and whether the company is still running before any extension."],
+        ["Full board", "The item goes to the full board at the end of the month. The applicant must sign the amended stipulations and email them back within a few days."]
+      ],
+      "followups": [
+        ["Applicant", "Sign the amended stipulations and return them within a few days, before the full board vote."],
+        ["Neighbors", "Send photos and complaints to DOT and the board during the six months, without waiting for the end of the trial."],
+        ["Committee", "Review how the six-month stop operated before considering an extension."]
+      ],
+      "clips": [
+        {"label": "32 Allen Street", "at": "53:58", "seconds": 3238},
+        {"label": "One trip each way", "at": "1:00:37", "seconds": 3637},
+        {"label": "Six-month review", "at": "1:25:58", "seconds": 5158}
+      ]
+    },
+    {
+      "id": "fortune-coach",
+      "label": "Fortune Coach bus",
+      "clock": "1:31:59",
+      "minutes": 34,
+      "outcome": "Heard with no recorded vote; a restroom stipulation was still being set, with a possible return next month if it cannot be signed.",
+      "summary": "Fortune Coach was presented as a new company name for service already running under a prior company name. The stop is an existing designated intercity bus stop formerly operated by Victoria's, where DOT found enough space to continue. The draft resolution cited heavy bus activity, pedestrian congestion, Chinatown corridor traffic, and concerns about sidewalk crowding, noise, idling, sanitation, and safety, plus an upcoming reconstruction of a nearby square whose name is garbled in the caption. Members asked why this operator was not being required to provide customer restrooms, a condition they said has been standard for over ten years, including by arranging access at a nearby business rather than only a bathroom on the bus. The applicant was told to sign that stipulation or come back next month. DOT said it has extended deadlines in similar cases.",
+      "facts": [
+        ["New company name", "The operator said the buses are already running under the original company name and this filing is for a new company name."],
+        ["Existing stop", "The location is the designated intercity stop formerly operated by Victoria's. DOT found sufficient space to continue operations there."],
+        ["Local impacts", "The draft resolution described heavy intercity bus activity, pedestrian congestion, traffic tied to Chinatown transportation corridors, and concerns about sidewalks, noise, idling, sanitation, and pedestrian safety."],
+        ["Nearby project", "The committee added language about an upcoming reconstruction or redesign of a square at the location. The caption does not clearly give the square's name. Construction was described as hoped for within the next year."],
+        ["Restrooms", "Members said riders on longer trips need a restroom, not only a bathroom on the bus, and not a facility blocks away. The practice has been to arrange access with a nearby business. They asked that the stipulation require restrooms without dictating the exact method."],
+        ["If they cannot sign", "The committee said the operator can sign the stipulation or the item can be reheard next month. DOT said it can extend the turnaround when needed."]
+      ],
+      "followups": [
+        ["Fortune Coach", "Sign the restroom stipulation or return to the committee next month."],
+        ["DOT", "The committee was told DOT can extend the application deadline if the stipulation is not signed in time."]
+      ],
+      "clips": [
+        {"label": "New company name", "at": "1:35:59", "seconds": 5759},
+        {"label": "Draft resolution", "at": "1:42:53", "seconds": 6173},
+        {"label": "Restroom stipulation", "at": "1:59:15", "seconds": 7155}
+      ]
+    },
+    {
+      "id": "agency-consultations",
+      "label": "Agency consultation questions",
+      "clock": "2:05:37",
+      "minutes": 21,
+      "outcome": "Briefing only; members were asked to send program questions and did not vote.",
+      "summary": "Susan Stetzer briefed the committee on the annual consultations, in which district managers and committee chairs from 12 boards meet 12 agencies. The point is to learn which programs matter locally and to seek more funding. A program that is already well funded would not be a priority. She used real-time bus information at shelters, requested by a senior group, as an example: ask whether it is funded and how many more real-time locations are planned in Community Board 3 next year and the year after. Program questions should go to Vincent Cirrito within two weeks so he can collate them for her. The boards are writing those agendas now and must submit them in July. A member also raised supportive and affordable housing on a former manufacturing brownfield described as on 11th and 12th Street.",
+      "facts": [
+        ["Consultations", "Twelve community boards meet with 12 agencies. District managers and, generally, committee chairs prepare the agendas."],
+        ["Funding test", "The goal is to bring more money into the district. A liked program that is already well funded would not be made a priority."],
+        ["Bus countdown clocks", "A senior group asked the board to advocate for real-time bus information at shelters, including how many more locations are planned in the district."],
+        ["Deadline", "Questions go to Vincent Cirrito within two weeks. He will collate them for Susan Stetzer. Everything is submitted in July."],
+        ["Housing site", "A member mentioned supportive and affordable housing on a brownfield manufacturing site described as on 11th and 12th Street. The caption name of the site is not clear."]
+      ],
+      "followups": [
+        ["Committee members", "Send program questions to Vincent Cirrito within two weeks."],
+        ["Vincent Cirrito", "Collate those questions and send them to Susan Stetzer."],
+        ["Susan Stetzer", "Include the questions in the agency consultation agendas due in July."]
+      ],
+      "clips": [
+        {"label": "Consultation agendas", "at": "2:05:37", "seconds": 7537},
+        {"label": "Questions due", "at": "2:23:30", "seconds": 8610}
+      ]
+    }
+  ]
+}

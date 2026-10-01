@@ -1,0 +1,40 @@
+{
+  "endpoint": "https://data.cityofnewyork.us/api/v3/views/erm2-nwe9/query.json",
+  "updated_at": "2026-09-29T14:23:04Z",
+  "shards": {
+    "0": {
+      "rows": 5656007,
+      "bytes": 6850887710,
+      "start": null,
+      "end": "52396442",
+      "done": true,
+      "last_key": "52396441"
+    },
+    "1": {
+      "rows": 5656007,
+      "bytes": 7094932062,
+      "start": "52396442",
+      "end": "58562518",
+      "done": true,
+      "last_key": "58562517"
+    },
+    "2": {
+      "rows": 5656008,
+      "bytes": 7185404687,
+      "start": "58562518",
+      "end": "64592730",
+      "done": true,
+      "last_key": "64592729"
+    },
+    "3": {
+      "rows": 5656007,
+      "bytes": 7874326683,
+      "start": "64592730",
+      "end": null,
+      "done": true,
+      "last_key": "70565782"
+    }
+  },
+  "rows": 22624029,
+  "bytes": 29005551142
+}

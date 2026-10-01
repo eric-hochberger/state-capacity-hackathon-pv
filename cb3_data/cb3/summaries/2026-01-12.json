@@ -1,0 +1,71 @@
+{
+  "date": "2026-01-12",
+  "title": "SLA Licensing & Outdoor Dining Committee",
+  "youtube_id": "nxZbOhfQhwo",
+  "duration_sec": 6977,
+  "one_line": "Clint Smeltzer's SLA committee heard liquor applications, voted several through with stipulations, and did not hear Coast Cafe.",
+  "votes": 4,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "how-the-meeting-runs",
+      "label": "Hearing rules",
+      "clock": "0:00",
+      "minutes": 4,
+      "outcome": "Briefing only.",
+      "summary": "Clint Smeltzer opened the January 12 SLA Licensing and Outdoor Dining Committee meeting and said the agenda had five items. Applicants would hear a short summary, add or correct it, take public comment, respond, and then the committee would vote. He asked speakers to be respectful and took a roll call.",
+      "facts": [
+        ["Agenda", "The chair said there were five items and hoped to get through them in a reasonable time."],
+        ["Order", "Each application gets a chair summary, applicant comments, public speakers, a response, and then a vote."]
+      ],
+      "followups": [],
+      "clips": [
+        {"label": "Opening and roll call", "at": "0:00", "seconds": 0}
+      ]
+    },
+    {
+      "id": "license-applications",
+      "label": "License applications",
+      "clock": "3:59",
+      "minutes": 108,
+      "outcome": "Four applications moved to a vote. Coast Cafe was not heard. The Wimbar vote is not in the digest.",
+      "summary": "The committee took a subterranean museum restaurant at Essex Crossing, an upgrade to full liquor at 144 Second Avenue, later hours at 44 Bowery, a new tavern at the former Poco, and a roughly 400-square-foot restaurant. Coast Cafe did not appear. Recorded votes were yes on the museum item, the Second Avenue upgrade, and the small restaurant, and a pass with one no at 44 Bowery. Stipulation sheets were to be sent out for signature.",
+      "facts": [
+        ["Essex Crossing museum", "A subterranean museum with a restaurant liquor license, described as a museum first rather than a cabaret. The project engineer said underground construction should keep interior noise from being heard outside. The applicant is not planning outside wait lines or happy hours. The committee moved to a vote; Stephen Ballinger, Megan Joy, and Michael voted yes, and Susan then asked about the auditorium."],
+        ["144 Second Avenue", "Silka Enterprises, read in the stipulations as Zelica Enterprise LTD, sought an upgrade from beer and wine to full liquor for a Ukrainian restaurant, with operations otherwise unchanged. A Williamsburg location already has full liquor. Ballinger, Megan Joy, and Michael voted yes. The office will send stipulations for signature."],
+        ["Coast Cafe", "Item three was not heard. The chair said it came in late that day and the applicant would not be present."],
+        ["44 Bowery", "Tony Chan of Goyokai LLC, a Japanese sushi restaurant, sought hours opening at 4 p.m. and closing at 2 a.m. Sunday through Wednesday, with Tuesday closed. A speaker opposed later hours, citing noise complaints, police responses, and residents near Confucius. Ballinger, Megan Joy, and Clint Smeltzer voted yes; Michael voted no. The motion passed."],
+        ["Wimbar, formerly Poco", "Basement Lands LLC sought a full on-premises license for a 75-person tavern at a location the captions place between 2nd and 3rd Street. The chair said the prior operator, Poco, had troubled neighbors, including outdoor dining past a 10 p.m. close. The applicant said outdoor space is not part of this application and that the small kitchen is why it is filed as a tavern. No vote is shown."],
+        ["About 400-square-foot restaurant", "A later item, with owner contact Andrew, was described as about 400 square feet. The committee discussed DJs and a sandwich shop the applicant said has no liquor license. Stipulations included no party buses, no unlimited drink specials, happy hour ending by 7 p.m., and no outside wait lines. The motion passed, and stipulations were to go to Frank."]
+      ],
+      "followups": [
+        ["CB3 office", "Send stipulation sheets for signature on the applications the committee voted."],
+        ["44 Bowery applicant", "The office said stipulation instructions would go out the next day or so."],
+        ["Wimbar applicant", "Outdoor space is not in this application; the chair said a later request would be separate."]
+      ],
+      "clips": [
+        {"label": "Museum application", "at": "3:59", "seconds": 239}
+      ]
+    },
+    {
+      "id": "closing-process",
+      "label": "Closing process",
+      "clock": "1:53:14",
+      "minutes": 4,
+      "outcome": "Heard with no vote, then the committee voted to adjourn.",
+      "summary": "Before adjournment the chair said that until the full board votes, the committee's approval or denial stays in place and the item then moves to the full board. Members agreed that process did not need its own vote. Susan said restaurant noncompliance still wastes time for the board, the police, and DOT, and asked that operators be told so. The committee voted to adjourn and noted a public member, Ian, and a new full board member had stayed.",
+      "facts": [
+        ["Full board", "Until the full board votes, the committee's deny or approve position remains, and the item then goes to the board. The chair said that handling did not need a vote."],
+        ["Noncompliance", "Susan said noncompliance wastes government time, including police and DOT time, even when the local impact feels small."],
+        ["Adjournment", "The committee voted to adjourn. The chair noted public member Ian and a new full board member had been present."]
+      ],
+      "followups": [
+        ["Chair", "Asked members to tell operators that noncompliance takes time from police, DOT, and the board."]
+      ],
+      "clips": [
+        {"label": "Full-board handling", "at": "1:53:14", "seconds": 6794}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "date": "2026-03-16",
+  "title": "Land Use, Zoning, Public & Private Housing Committee",
+  "youtube_id": "lp7dUhFgBO4",
+  "duration_sec": 4590,
+  "one_line": "The land use committee heard a City of Yes housing briefing, opened a roll-call vote on an Essex Market resolution, and reviewed how land-use applications reach the board.",
+  "votes": 1,
+  "letters": 1,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "city-of-yes-housing",
+      "label": "City of Yes housing",
+      "clock": "0:01",
+      "minutes": 25,
+      "outcome": "Briefing only; no vote was taken.",
+      "summary": "John Falck chaired in place of Damaris Reyes and introduced a board fellow's draft analysis of affordable-housing opportunities under City of Yes in Community Board 3. The fellow said the main sources were interviews with nonprofit developers, case studies, cohort feedback, and public reports. The closing recommendation was standardized affordability tiers across financing programs so nonprofit developers get a faster application and an easier path to funding. The presentation ended without a vote.",
+      "facts": [
+        ["Chair", "John Falck sat in because Damaris Reyes was not feeling well."],
+        ["Scope", "The fellow's draft covered affordable-housing opportunities for nonprofit developers under City of Yes in Community Board 3."],
+        ["Sources", "Findings drew on nonprofit-developer interviews, case studies, cohort feedback, and public documents."],
+        ["Recommendation", "The fellow recommended standardized affordability tiers across financing programs to speed applications and ease funding."]
+      ],
+      "followups": [],
+      "clips": [
+        {"label": "Fellow presentation", "at": "0:01", "seconds": 110},
+        {"label": "Affordability tiers", "at": "0:17", "seconds": 1024}
+      ]
+    },
+    {
+      "id": "essex-market-resolution",
+      "label": "Essex Market resolution",
+      "clock": "0:26",
+      "minutes": 35,
+      "outcome": "The committee voted on a resolution to adopt Essex Market language; the digest records the motion and the start of the roll call, not a final count.",
+      "summary": "Tim and Megan asked for community input on Essex Market, described as a community asset set aside in the Essex Crossing ULURP, while the former Market Line is going to a big-box use and upstairs space is used for private events. The committee shortened a resolution that recalls its objection to NYCEDC allowing Delancey Street Associates to lease that space, including the move toward Burlington Coat Factory, and that asks for a strategic plan, community input, and a safe welcoming operation. Vendor Gary Gano of Kalustyan's spoke. The committee moved and seconded adoption and started a roll call; several yes votes are recorded before the digest cuts off.",
+      "facts": [
+        ["Market Line", "Speakers said the former Market Line space is being lost to a big-box use and that upstairs community space is being used for private events."],
+        ["Last month", "The committee had passed a resolution last month seeking more information, including from vendors."],
+        ["EDC objection", "The draft says Community Board 3 objected to NYCEDC letting Delancey Street Associates lease the Market Line for a big-box use against the Seward Park approval framework."],
+        ["Prior letter", "A prior resolution proposing alternatives to the Market Line closure, including the lease moving toward Burlington Coat Factory, got no response."],
+        ["Strategic plan", "Members edited the text to seek a modified physical layout, community input, and a strategic plan."],
+        ["Operations", "The draft asks that the market, its public spaces, and its offices be clean, safe, and free of fear, intimidation, or abusive behavior."],
+        ["Public speaker", "Gary Gano, a Kalustyan's vendor who also sits on the LESP board, addressed the committee."],
+        ["Vote", "Adoption was moved and seconded and a roll call began; the digest does not include a final tally."]
+      ],
+      "followups": [
+        ["NYCEDC", "The resolution seeks a strategic plan and community input before the market layout is changed."],
+        ["Tim and Megan", "They asked to keep gathering vendor and community input on Essex Market."]
+      ],
+      "clips": [
+        {"label": "Market input", "at": "0:26", "seconds": 1616},
+        {"label": "Resolution text", "at": "0:50", "seconds": 3023}
+      ]
+    },
+    {
+      "id": "ulurp-process-briefing",
+      "label": "ULURP process briefing",
+      "clock": "1:02",
+      "minutes": 9,
+      "outcome": "Briefing only; no vote was taken.",
+      "summary": "Before certification the board usually requests a briefing. Once an application is certified, the committee has 60 days to vote starting 9 days later, must hold a hearing noticed in the City Record, and needs 20 percent of the full board present, one of the few times non-committee members vote with the committee. Zoning text amendments follow a similar path, usually 45 to 60 days. Universal affordability preference allows extra floor area when the added units are permanently affordable; developers must notify the board but need not present.",
+      "facts": [
+        ["Pre-certification", "The board typically requests a briefing before an application is certified so it can flag concerns early."],
+        ["60 days", "After certification the committee has 60 days to vote, with the clock starting 9 days after certification."],
+        ["Hearing", "A public hearing noticed in the City Record is required, and 20 percent of the full board must be present."],
+        ["Who votes", "The ULURP hearing is one of the few times non-committee members can vote with the committee."],
+        ["Text amendments", "Zoning text amendments are scheduled before and after certification, with a resolution, usually within 45 to 60 days."],
+        ["UAP", "Universal affordability preference allows more floor area if the extra units are permanently affordable; notice is required and a presentation is not."],
+        ["Other actions", "Authorizations and modifications are handled by the City Planning Commission, and the board can still ask for an informal presentation."]
+      ],
+      "followups": [
+        ["Committee", "Members were invited to suggest additions to the land-use process document over the next few months."]
+      ],
+      "clips": [
+        {"label": "ULURP clock", "at": "1:02", "seconds": 3740},
+        {"label": "Non-ULURP items", "at": "1:05", "seconds": 3928}
+      ]
+    },
+    {
+      "id": "meeting-schedule",
+      "label": "Meeting schedule",
+      "clock": "1:11",
+      "minutes": 5,
+      "outcome": "Heard with no vote.",
+      "summary": "The process document will return only if someone asks for it. A member asked why the last two meetings were on irregular nights after years of a firm schedule, and was told timing is discussed with the chair. The transportation committee was said to meet Wednesday because that is when a large room is available. A motion to adjourn was invited and then overtaken by the scheduling question.",
+      "facts": [
+        ["Return visit", "The process document will come back only if someone requests it."],
+        ["Irregular nights", "A member said the last two meetings were on random nights after about seven years of a steady schedule."],
+        ["Chair", "Scheduling was said to be something to discuss with the chair."],
+        ["Transportation", "The transportation committee was said to meet Wednesday because that is when a very large space is available."]
+      ],
+      "followups": [
+        ["Chair", "Discuss why this committee's meeting nights have been irregular."]
+      ],
+      "clips": [
+        {"label": "Random nights", "at": "1:11", "seconds": 4304}
+      ]
+    }
+  ]
+}

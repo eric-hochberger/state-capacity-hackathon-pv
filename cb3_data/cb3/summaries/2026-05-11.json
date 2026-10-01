@@ -1,0 +1,89 @@
+{
+  "date": "2026-05-11",
+  "title": "SLA Licensing & Outdoor Dining Committee",
+  "youtube_id": "oJCOWsTadCo",
+  "duration_sec": 11710,
+  "one_line": "The SLA committee noted three withdrawals, heard license alterations and class changes, recorded three yes votes, and discussed a process that left too little time to comment.",
+  "votes": 3,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "withdrawals",
+      "label": "Three withdrawals",
+      "clock": "0:00",
+      "minutes": 6,
+      "outcome": "Three items were withdrawn and not heard.",
+      "summary": "Clint Smeltzer opened the May 11 SLA committee by pulling three items that would not be heard. One was Vivo Music. The other two names and street addresses are garbled in the captions. He told anyone present for those items to watch the calendar because they may be heard later. The committee then took attendance and started the agenda out of order.",
+      "facts": [
+        ["Withdrawals", "Three items were withdrawn, including Vivo Music. The chair said they may be heard in the future and to watch the calendar."],
+        ["Attendance", "Ballinger, Daniel, Clint Smeltzer, and Megan Joy were recorded present. Michael Lavario was called, and the digest does not record a response."],
+        ["First item", "The committee started with an upgrade to an on-premises license, taken out of order."]
+      ],
+      "followups": [],
+      "clips": [
+        {"label": "Withdrawals", "at": "0:00", "seconds": 0}
+      ]
+    },
+    {
+      "id": "admin-approvals",
+      "label": "Admin approvals",
+      "clock": "0:05",
+      "minutes": 5,
+      "outcome": "Briefing only.",
+      "summary": "A member asked whether future upgrades from beer and wine to a full on-premises license would be heard administratively. The chair described a resolution the full board passed last September. It covers locations that already had beer and wine or a full license, not never-licensed locations, when the business closes by midnight, has no live music, meets city outdoor-space rules, and serves food.",
+      "facts": [
+        ["September resolution", "The full board set an administrative-approval path for some full liquor licenses last September."],
+        ["Who qualifies", "The location must have had beer and wine or a previous full license. An unlicensed location does not qualify."],
+        ["Conditions", "The chair listed a midnight close, no live music, outdoor space that meets city rules, and a food-based business."]
+      ],
+      "followups": [],
+      "clips": [
+        {"label": "Admin rules", "at": "0:05", "seconds": 346}
+      ]
+    },
+    {
+      "id": "license-applications",
+      "label": "License applications",
+      "clock": "0:10",
+      "minutes": 182,
+      "outcome": "Voted yes on three items; other hearings have no tally in the digest.",
+      "summary": "The applications the digest describes include a 2 a.m. and DJ request, a new full license opposed by a block association, a DJ restoration at 339 East 10th Street, an hour extension the chair said passed, and a class change for The Wild Project. The committee voted yes on the 10th Street stipulations and on The Wild Project, and the chair said the hour extension passed. A resident opposed the later hours and DJs. The night included additional applications; the digest does not show a vote on the upgrade that opened the meeting.",
+      "facts": [
+        ["On-premises upgrade", "The first item called was an upgrade to an on-premises license. The digest does not show that vote."],
+        ["Noodle shop alteration", "The applicant, already upgraded from beer and wine to full liquor, sought a 2 a.m. close and DJs. A resident opposed both. The committee discussed DJs on a limited schedule, 2 a.m. only Thursday through Saturday, and happy hour ending by 7 p.m. No tally is shown."],
+        ["New full license", "An applicant sought a full license for a previously unlicensed restaurant. A block association opposed it with a letter and 64 petition signatures, citing saturation and outdoor seating. Live music and karaoke on the application drew concern. The chair said stipulations would follow the administrative set once that was cleared. No tally is shown."],
+        ["339 East 10th Street", "Charlie Group LLC sought a method-of-operation change to restore DJs from 2010 stipulations that were never filed with the liquor authority. The committee kept prior stipulations, added no lines and happy hour until 9 p.m., and required doors or windows closed at 10 p.m. or when amplified sound plays. The vote was yes."],
+        ["Hour extension", "An operator who already had a full license, with the backyard already on it, asked to move the close from midnight to 1 a.m. Standing room would not change. The chair said the item passed."],
+        ["The Wild Project", "Class change from wine and beer, held since 2017, to full liquor for a theater with live music and ticketed performances. Stipulations included noon to midnight, no DJs, no happy hour, and no licensed security. The vote was yes."]
+      ],
+      "followups": [
+        ["District office", "Send the 339 East 10th Street stipulations."],
+        ["District office", "Send stipulations for the hour extension the chair said passed."],
+        ["District office", "Send The Wild Project stipulations the next day."]
+      ],
+      "clips": [
+        {"label": "Applications", "at": "0:10", "seconds": 608}
+      ]
+    },
+    {
+      "id": "comment-window",
+      "label": "Comment window",
+      "clock": "3:12",
+      "minutes": 3,
+      "outcome": "Heard with no vote.",
+      "summary": "At the end of the digest, members compared the night to an earlier set of justice-involved applications that were pre-approved but still left time for comments and for asking operators to close at set hours. They said the wording can differ, but the board should say this matter is impactful and that they want to comment and do not have time. The chair had also received comments from elected officials' representatives. The digest cuts off on a question about whether the SLA had clarified that it would not issue something.",
+      "facts": [
+        ["Earlier round", "Justice-involved applications were pre-approved, but the committee still had time to comment and still asked for closing hours."],
+        ["This round", "Members said they cannot ignore the item, that it is impactful, and that they would like to comment but do not have time."],
+        ["Elected reps", "The chair said representatives of elected officials had also sent comments."]
+      ],
+      "followups": [
+        ["Committee", "State that the matter is impactful and that the board wants to comment but does not have time."]
+      ],
+      "clips": [
+        {"label": "No time to comment", "at": "3:12", "seconds": 11525}
+      ]
+    }
+  ]
+}

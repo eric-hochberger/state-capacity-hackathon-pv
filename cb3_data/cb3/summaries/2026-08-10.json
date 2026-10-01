@@ -1,0 +1,142 @@
+{
+  "date": "2026-08-10",
+  "title": "SLA Licensing & Outdoor Dining Committee",
+  "youtube_id": "zpuZghjs-bE",
+  "duration_sec": 13209,
+  "one_line": "Clint Smeltzer's committee heard liquor and outdoor-dining applications, including a long fight over a barbecue-grill license, and the digest shows finished yes roll calls on only some of them.",
+  "votes": null,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "hearing-process",
+      "label": "How hearings run",
+      "clock": "0:00",
+      "minutes": 5,
+      "outcome": "Briefing only.",
+      "summary": "Clint Smeltzer opened the SLA committee and described the order for each item: a short summary, the applicant, public comment of two minutes, a response, then committee discussion and a vote. He asked speakers to stay respectful.",
+      "facts": [
+        [
+          "Order",
+          "Each item runs from the chair's summary to the applicant, the public, a response, discussion, and a vote."
+        ],
+        [
+          "Public comment",
+          "Speakers on an item get two minutes."
+        ]
+      ],
+      "followups": [],
+      "clips": [
+        {
+          "label": "Opening the hearing",
+          "at": "0:00",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "id": "license-applications",
+      "label": "License applications",
+      "clock": "0:04",
+      "minutes": 200,
+      "outcome": "Mixed: some yes roll calls are in the digest, one vote is cut off, and several items have no recorded recommendation.",
+      "summary": "The committee took liquor and outdoor-dining applications with public comment and stipulation sheets. Soft Hours on Hester Street and a full on-premises item heard as Miami Scale have yes roll calls in the digest. A barbecue-grill proposal for an unlicensed location drew the longest debate, over late hours, DJs, and a Buddhist temple, and its roll call is cut off. Cozy Cafe's outdoor seats, a Lily full-license request, and a Christy Street application are described without a finished vote in the sample.",
+      "facts": [
+        [
+          "40 Avenue B",
+          "The applicant said an April hearing approved wine and beer after a full-liquor request, and that nothing was changing. Clint Smeltzer said the lawyer needed to send a revised 30-day notice and go to the state, not come back."
+        ],
+        [
+          "Cozy Cafe",
+          "Alteration of a beer-and-wine license to add two tables and four outdoor seats inside the property line, after an expansion approved earlier this year. The chair placed it at 43 First Avenue; the stipulation sheet read Ani Cafe Corporation at 43 East First Street, with outdoor seating closed at 10 p.m. Susan Stetzer warned that the city is being sued and that outdoor-dining paperwork is thin. No roll call is in the digest."
+        ],
+        [
+          "Barbecue grill",
+          "Full on-premises request for a barbecue-grill restaurant in a location unlicensed since 2019, from the operator of Time Cafe, who had civil penalties in August and September 2024. Twelve residents signed in favor. Members objected to 2 a.m. hours, DJs, and a Buddhist temple next door, and a neighbor described vibration through the walls. The working resolution was midnight on weekdays, 2 a.m. Friday and Saturday, soundproofing, and no DJs. The roll call includes a no and is cut off."
+        ],
+        [
+          "Soft Hours",
+          "Beer-and-wine application at 1189 Hester Street for a tea house the applicants already operate, previously a pizza shop. They have never held a license. The chair cited eight commercial complaints since 2020 and no support or opposition before the meeting. The recorded roll call was yes."
+        ],
+        [
+          "Miami Scale",
+          "Full on-premises application the chair returned to later, heard as IMSC 74 doing business as Miami Scale, for 48 people with a five-seat standup bar. The chair said the location already has a 4 a.m. license. A neighbor asked for earlier hours because of sidewalk crowds at Delancey and the Bowery. The recorded roll call was yes."
+        ],
+        [
+          "Lily",
+          "Millie NYC LLC, doing business as Lily, sought a full license for up to 74 people at a currently unlicensed location. A previous Thai restaurant's beer-and-wine license expired in February 2005. The digest does not record a recommendation."
+        ],
+        [
+          "215 Christy Street",
+          "New full-liquor application for a restaurant with a coffee-shop component, hours read as 6 a.m. to 4 a.m., outdoor dining closed at 10 p.m., and no more than 24 private parties a year. Stipulations were being read; no vote is in the digest."
+        ]
+      ],
+      "followups": [
+        [
+          "40 Avenue B",
+          "Send a revised 30-day notice instead of another committee appearance."
+        ],
+        [
+          "Barbecue grill applicant",
+          "The resolution on the table was a midnight weekday close, 2 a.m. Friday and Saturday, soundproofing, and no DJs."
+        ],
+        [
+          "Office",
+          "Send stipulation sheets out for signature after the items that were voted."
+        ]
+      ],
+      "clips": [
+        {
+          "label": "Cozy Cafe outdoor seats",
+          "at": "0:07",
+          "seconds": 467
+        },
+        {
+          "label": "Grill resolution",
+          "at": "1:13",
+          "seconds": 4390
+        },
+        {
+          "label": "Soft Hours vote",
+          "at": "1:34",
+          "seconds": 5650
+        }
+      ]
+    },
+    {
+      "id": "dj-enforcement",
+      "label": "DJ enforcement",
+      "clock": "0:56",
+      "minutes": 12,
+      "outcome": "Heard with no separate vote.",
+      "summary": "During the grill application, members and a regular representative argued about what the State Liquor Authority counts as a DJ and who enforces caps on DJ events. The chair said the committee cannot require a named sound engineer, only that sound not be audible in nearby apartments. A member said limits written into stipulations are hard to prove after the fact.",
+      "facts": [
+        [
+          "DJ definition",
+          "The chair said this comes up with many applicants and that the committee has asked the SLA what counts as a DJ."
+        ],
+        [
+          "Sound rule",
+          "The committee can require that sound not be audible in nearby apartments. It cannot require a particular sound engineer."
+        ],
+        [
+          "Tracking",
+          "Members said neither the community nor the SLA reliably catches operators who exceed a DJ cap."
+        ]
+      ],
+      "followups": [
+        [
+          "SLA committee",
+          "DJ caps stay in stipulations even though members say they are difficult to enforce."
+        ]
+      ],
+      "clips": [
+        {
+          "label": "Who enforces DJ caps",
+          "at": "0:56",
+          "seconds": 3411
+        }
+      ]
+    }
+  ]
+}

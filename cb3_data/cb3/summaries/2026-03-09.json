@@ -1,0 +1,25 @@
+{
+  "date": "2026-03-09",
+  "title": "SLA Licensing",
+  "youtube_id": "pa9GGRbRmOs",
+  "duration_sec": 14744,
+  "one_line": "YouTube has no captions for this SLA licensing meeting, so the discussion could not be summarized.",
+  "votes": null,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "no-captions",
+      "label": "No captions",
+      "clock": "0:00",
+      "minutes": 246,
+      "outcome": "YouTube has no captions, so nothing from the meeting could be summarized.",
+      "summary": "The video is on YouTube, but YouTube returned no caption track. The digest contains no discussion, applications, or votes to summarize. No letters or deferrals can be taken from the recording.",
+      "facts": [
+        ["Captions", "YouTube returned no caption track for this video."]
+      ],
+      "followups": [],
+      "clips": []
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "date": "2026-04-15",
+  "title": "Transportation and SLA Joint Committee on Open Streets",
+  "youtube_id": "m6a7Ynm8FIo",
+  "duration_sec": 8749,
+  "one_line": "The joint transportation and SLA committee reviewed open-street proposals, debated Canal Street's schedule, drafted a resolution, and heard a St. Mark's bike-lane briefing.",
+  "votes": null,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "open-streets-scope",
+      "label": "Program overview",
+      "clock": "0:00",
+      "minutes": 8,
+      "outcome": "Briefing only.",
+      "summary": "Vincent Cirrito chaired a joint Transportation and SLA meeting on open streets. He said final authority rests with the city Department of Transportation and the community board's role is advisory. DOT runs three programs: year-round sidewalk cafes, roadbed dining from April through November, and open streets, which were the night's topic. Canal Street was held until the end so other applicants could be heard first.",
+      "facts": [
+        ["Authority", "DOT decides open streets. The board advises through testimony and a resolution."],
+        ["Three programs", "Sidewalk cafes run year-round, roadbed dining runs April through November, and open streets are separate."],
+        ["Order", "Canal Street was held until the other open streets were heard."],
+        ["Support letters", "A DOT representative said returning sites do not have to provide new letters of support and may use documents from prior years."]
+      ],
+      "followups": [],
+      "clips": [
+        {"label": "Joint opening", "at": "0:00", "seconds": 0}
+      ]
+    },
+    {
+      "id": "open-street-sites",
+      "label": "Open street sites",
+      "clock": "0:08",
+      "minutes": 41,
+      "outcome": "Heard with no vote.",
+      "summary": "Before Canal Street, the committees heard returning open streets. A senior salsa program partnered with Clemente had no one signed up to speak, and DOT said it did not need new support letters. St. Marks Place, Pell Street, a Hester Street garden partnership, and Jefferson Street described their hours and asked to continue. Avenue B was caught between an application for 7th to 10th Street and speakers who said a July 2025 approval and a letter covered 4th to 13th until the street improvement plan is built.",
+      "facts": [
+        ["Senior salsa site", "A returning open street with salsa and music for seniors, partnered with Clemente. No public speakers. New support letters were not required."],
+        ["St. Marks Place", "From 1st Avenue to Avenue A, Friday 4:30 p.m. to 10:30 p.m. and Saturday and Sunday 11:30 a.m. to 10:30 p.m. Operators described QR-code outreach and responses within 24 hours. No speakers were waiting."],
+        ["Pell Street", "From Mott Street to the Bowery, Saturday and Sunday 8 a.m. to 8 p.m. The representative said there had been no complaints and they want to continue."],
+        ["Avenue B", "The application described 7th to 10th Street, 8 a.m. to 8 p.m. daily, with barriers. Speakers said the July 2025 approval and a letter run from 4th to 13th and asked to keep the open street until the street improvement plan."],
+        ["Open-street conditions", "A representative who named Harvey Epstein asked the board to consider no single-use plastic, a 10 p.m. hard stop, and a neighborhood contact for rule violations."],
+        ["Hester Street", "Children's Magical Garden partners with More Gardens. The speaker was the garden director, not the applicant. The site has operated for several years and was described as keeping children away from cars."],
+        ["Jefferson Street", "From East Broadway to Henry Street, Thursday noon to 8 p.m. The person present confirmed they are the applicant and described community swap activity."]
+      ],
+      "followups": [
+        ["DOT", "Keep the Avenue B barriers up for the next couple of weeks while the street improvement plan is scheduled."]
+      ],
+      "clips": [
+        {"label": "Early sites", "at": "0:08", "seconds": 509}
+      ]
+    },
+    {
+      "id": "canal-street",
+      "label": "Canal Street hours",
+      "clock": "0:49",
+      "minutes": 32,
+      "outcome": "Heard with no vote.",
+      "summary": "The application held for last was not treated like the others. Susan Stetzer said it had not been provisionally approved, despite conflicting language in the DOT letter, and DOT confirmed it was waiting for community board feedback before final hours. The hours read were Wednesday through Friday 3 p.m. to 10:30 p.m. and Saturday and Sunday 11 a.m. to 10:30 p.m., with restaurant service stopping at 10 p.m., after a request for seven days. Canal Street testimony split between a four-day Thursday-through-Sunday schedule and adding days.",
+      "facts": [
+        ["Approval status", "Susan Stetzer said this application was not provisionally approved. DOT said it is waiting for the community board before setting final hours."],
+        ["Hours read", "Wednesday through Friday 3 p.m. to 10:30 p.m. and Saturday and Sunday 11 a.m. to 10:30 p.m., with restaurants stopping service at 10 p.m. The applicant had first asked for seven days."],
+        ["Elected comment", "An office speaking with Assembly Member Grace Lee said residents along Canal Street were still complaining and that a letter to DOT last month supported four days, Thursday through Sunday."],
+        ["Support for more days", "Rachel Wilkerson, who lives near Essex and Canal, supported open streets and asked for five days this year."]
+      ],
+      "followups": [
+        ["DOT", "Take the community board's feedback before setting the final days and hours."]
+      ],
+      "clips": [
+        {"label": "Canal debate", "at": "0:49", "seconds": 2963}
+      ]
+    },
+    {
+      "id": "draft-resolution",
+      "label": "Draft resolution",
+      "clock": "1:21",
+      "minutes": 28,
+      "outcome": "Heard with no vote on a letter; open-street votes were not itemized.",
+      "summary": "The committees turned to one resolution for the full board, using the hours and dates in the applications and asking DOT to work with applicants on amendments. Members said four days was the balance that matched last year. A count of six out of 14 did not produce a resolution, and the chair said they would land on last year's option. Some last year's applicants did not appear. A letter was discussed, and DOT said coming to the board is encouraged but not required. The chair then said the open-street votes were done.",
+      "facts": [
+        ["Resolution", "The draft puts the applicants' hours and dates into one resolution and asks DOT to work with applicants on amendments."],
+        ["Four days", "Committee comments favored four days as enough and the same option as last year."],
+        ["Failed count", "The chair said six out of 14 would not produce a resolution."],
+        ["No-shows", "Some existing applicants did not attend. DOT said appearance at the community board is not an application requirement."]
+      ],
+      "followups": [
+        ["Committees", "Send the open-streets resolution to the full board at the end of the month."]
+      ],
+      "clips": [
+        {"label": "Resolution", "at": "1:21", "seconds": 4906}
+      ]
+    },
+    {
+      "id": "bike-lane-briefing",
+      "label": "Bike lane briefing",
+      "clock": "1:49",
+      "minutes": 36,
+      "outcome": "Briefing only.",
+      "summary": "After the open-street votes, DOT presented a St. Mark's bike lane proposal. The slides showed parking regulations on the corridor and were to be posted on the board website the next day. Staff said nothing is confirmed because they want to hear how businesses handle parking and deliveries before setting the rules. Speakers described a busy street with bars, residents, and older regulations.",
+      "facts": [
+        ["Proposal", "DOT presented a St. Mark's bike lane and the parking regulations on that corridor."],
+        ["Not final", "The presenter said the regulations are a proposal and are not confirmed."],
+        ["Business needs", "DOT asked for parking and delivery needs so the rules can be tailored block by block."],
+        ["Website", "The presentation was to be posted on the board website the next day."]
+      ],
+      "followups": [
+        ["DOT", "Post the St. Mark's bike lane presentation on the board website."],
+        ["DOT", "Use business comments on parking and deliveries before confirming regulations."]
+      ],
+      "clips": [
+        {"label": "Bike lane", "at": "1:49", "seconds": 6591}
+      ]
+    }
+  ]
+}

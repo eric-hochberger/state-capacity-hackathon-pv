@@ -1,0 +1,164 @@
+{
+  "date": "2026-09-10",
+  "title": "Health, Seniors, and Human Services",
+  "youtube_id": "me3MzJ94K3Y",
+  "duration_sec": 4584,
+  "one_line": "The committee reviewed a mobile-voting resolution drawn from a CEC draft, skipped unprepared reports, and discussed putting public drug use on the October agenda.",
+  "votes": null,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "mobile-voting",
+      "label": "Mobile voting draft",
+      "clock": "0:00",
+      "minutes": 44,
+      "outcome": "Heard; the digest does not record a vote.",
+      "summary": "The committee heard a mobile-voting presentation and a four-page draft resolution based on one the local CEC had passed, with the wording changed from council to board. The draft says any system should be multilingual, accessible, secret, auditable, and independently reviewed for cybersecurity. Members asked about capacity, who the pilots reach, biometric checks, and whether \"mobile first\" meant phone-friendly design rather than mobile voting. The chair said the draft was there to vote on; the digest never shows the vote.",
+      "facts": [
+        [
+          "CEC basis",
+          "The text follows a CEC resolution from a district described as very low income, rewritten so it comes from the board rather than the council."
+        ],
+        [
+          "Safeguards",
+          "The draft calls for multilingual interfaces, disability access, ballot secrecy, auditable records, and independent cybersecurity and privacy review."
+        ],
+        [
+          "Other options",
+          "The presenter said the goal is higher participation and that mail and in-person voting would remain for people who want them."
+        ],
+        [
+          "Pilots",
+          "The presenter said there had been pilot projects in 11 states and 27 elections."
+        ],
+        [
+          "Wording",
+          "Members questioned whether \"mobile first\" described design for phones rather than a mobile voting system. One member said they would withdraw a recommendation if that was all it meant."
+        ]
+      ],
+      "followups": [
+        [
+          "Committee",
+          "The four-page draft was prepared for a vote; the result is not in the digest."
+        ],
+        [
+          "Presenters",
+          "Members still had questions about biometric verification and the security measures described on the project website."
+        ]
+      ],
+      "clips": [
+        {
+          "label": "CEC draft explained",
+          "at": "0:02",
+          "seconds": 138
+        },
+        {
+          "label": "Mobile-first wording",
+          "at": "0:37",
+          "seconds": 2264
+        }
+      ]
+    },
+    {
+      "id": "skipped-reports",
+      "label": "Reports skipped",
+      "clock": "0:43",
+      "minutes": 6,
+      "outcome": "Heard with no vote.",
+      "summary": "The chair called the next item, reports from the community council and the intake center. No one had prepared a report, so the committee moved on.",
+      "facts": [
+        [
+          "No reports",
+          "There was no CDC report, and no one had prepared an intake-center report."
+        ]
+      ],
+      "followups": [],
+      "clips": [
+        {
+          "label": "No reports prepared",
+          "at": "0:43",
+          "seconds": 2616
+        }
+      ]
+    },
+    {
+      "id": "october-agenda",
+      "label": "October drug use",
+      "clock": "0:49",
+      "minutes": 24,
+      "outcome": "Planning only; no resolution was voted that night.",
+      "summary": "Susan Stetzer asked to put public drug use on the October agenda, with a draft that asks the city for new initiatives rather than only describing the problem. She said people using drugs, or the street as a bathroom, is getting worse across the community. Members said October cannot cover every issue and that block associations should put conditions in writing first; the Chinatown BID and the Union Square BID had already come up. The sample ends before the committee decides to place the item.",
+      "facts": [
+        [
+          "Conditions",
+          "Susan Stetzer said public drug use, and people using the street as a bathroom, is spreading and getting worse."
+        ],
+        [
+          "October ask",
+          "She asked for an October agenda item and a draft calling on the city for new initiatives or pilots."
+        ],
+        [
+          "What a resolution needs",
+          "A member said an effective resolution has to ask for an action, not only describe the problem."
+        ],
+        [
+          "Scope",
+          "Another member said one October meeting cannot cover every issue she listed and suggested a series, plus a statement that the community is seeking solutions."
+        ],
+        [
+          "Written input",
+          "Block associations were asked to write up worsening conditions in time for the resolution. She had spoken with the Chinatown BID and referenced the Union Square BID."
+        ]
+      ],
+      "followups": [
+        [
+          "Susan Stetzer",
+          "Collect written accounts from block associations and BIDs before an October draft."
+        ],
+        [
+          "Committee",
+          "Decide whether the item goes on next month's agenda; the digest cuts off before that decision."
+        ]
+      ],
+      "clips": [
+        {
+          "label": "October agenda request",
+          "at": "0:58",
+          "seconds": 3495
+        }
+      ]
+    },
+    {
+      "id": "other-updates",
+      "label": "Other updates",
+      "clock": "1:13",
+      "minutes": 4,
+      "outcome": "Briefing only.",
+      "summary": "Near the end, a member reported that a local program, described as like a Fountain House and not a parking lot, expects to remain open and then move, with 2027 mentioned. Another member raised deaths on the street near bars. That was directed to the transportation committee, whose chair had been quoted in an article.",
+      "facts": [
+        [
+          "Program site",
+          "A program was described as staying open and then having to move, with 2027 mentioned."
+        ],
+        [
+          "Traffic deaths",
+          "Deaths near bars were raised and treated as a transportation-committee subject."
+        ]
+      ],
+      "followups": [
+        [
+          "Transportation committee",
+          "Street deaths near bars were flagged for that committee rather than this one."
+        ]
+      ],
+      "clips": [
+        {
+          "label": "End-of-meeting updates",
+          "at": "1:13",
+          "seconds": 4399
+        }
+      ]
+    }
+  ]
+}

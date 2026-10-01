@@ -1,0 +1,108 @@
+{
+  "date": "2026-04-16",
+  "title": "Parks, Recreation, Waterfront, & Resiliency Committee",
+  "youtube_id": "ihD5Fsi8rD0",
+  "duration_sec": 4691,
+  "one_line": "The parks committee heard updates on water service, Ecology Center programming, East River Park restrooms, and the preliminary budget, then reached term-limit planning and hybrid-meeting setup.",
+  "votes": null,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "park-operations",
+      "label": "Park operations",
+      "clock": "0:00",
+      "minutes": 21,
+      "outcome": "Briefing only.",
+      "summary": "Trever Holland opened the parks committee and said it was the first meeting with official Zoom support, so people needed to use microphones. The digest picks up at the end of a parks-manager update. Members were told the water is being turned on. A member suggested keeping the needle box outside a bathroom while people retrieve needles from inside. The chair said there would be follow-up conversations. MTA construction was mentioned, at a location the caption does not make clear.",
+      "facts": [
+        ["Zoom", "This was the first parks meeting with official Zoom support, and speakers were asked to use microphones."],
+        ["Water", "The parks manager let the committee know the water is being turned on."],
+        ["Needle box", "A member suggested the box stay outside the bathroom, with access from inside, so needles are harder to remove again."],
+        ["MTA work", "MTA construction was mentioned in front of a site the caption does not name clearly."]
+      ],
+      "followups": [
+        ["Parks manager", "Follow up on the water service and the needle-box suggestion."]
+      ],
+      "clips": [
+        {"label": "Water update", "at": "0:17", "seconds": 1034}
+      ]
+    },
+    {
+      "id": "ecology-center",
+      "label": "Ecology Center",
+      "clock": "0:21",
+      "minutes": 14,
+      "outcome": "Briefing only.",
+      "summary": "Maddie from the Lower East Side Ecology Center gave an informational presentation on spring programming. Getting the slides on screen took time because the new equipment was being used for the first night. In answer to the chair, address requests from that discussion go to New York City Parks. No further questions were pending, and the committee thanked her and moved on.",
+      "facts": [
+        ["Presentation", "The Lower East Side Ecology Center briefed the committee on spring programming."],
+        ["Addresses", "Address requests from that discussion are sent to New York City Parks."],
+        ["Equipment", "It was the first night with the new setup, and the presentation was slow to appear on screen."]
+      ],
+      "followups": [],
+      "clips": [
+        {"label": "Ecology Center", "at": "0:21", "seconds": 1296}
+      ]
+    },
+    {
+      "id": "restroom-construction",
+      "label": "Restroom construction",
+      "clock": "0:35",
+      "minutes": 25,
+      "outcome": "Briefing only.",
+      "summary": "Presenters returned with an update on restroom construction in East River Park. They received a notice to proceed in May 2025, presented to the community board last September, expect construction to start in spring 2026, and expect substantial completion in fall 2026. Work will affect the park, including a field. They do not expect a CCL on site. A project hotline will be posted on the fence, and the deck is to go on the DDC website and, if possible, the ESCR website.",
+      "facts": [
+        ["Schedule", "Notice to proceed in May 2025, a community board presentation in September, construction start in spring 2026, and substantial completion in fall 2026."],
+        ["Impacts", "Construction will affect the park, including a field."],
+        ["Contacts", "No CCL is expected on site. DDC public-buildings outreach and a hotline on the construction fence were offered."],
+        ["Related projects", "The presenter covers Manhattan intergovernmental outreach and said they can relay questions to the ESCR and BMCR teams."],
+        ["Posting", "The presentation will go on the DDC website, which is separate from the ESCR site, and they will try to place it on the ESCR site as well."]
+      ],
+      "followups": [
+        ["DDC", "Post the restroom presentation on the DDC website and ask that it also go on the ESCR site."],
+        ["Project team", "Post the project hotline on the construction fence."]
+      ],
+      "clips": [
+        {"label": "Restrooms", "at": "0:35", "seconds": 2113}
+      ]
+    },
+    {
+      "id": "budget-packets",
+      "label": "Budget packets",
+      "clock": "1:00",
+      "minutes": 11,
+      "outcome": "Briefing only.",
+      "summary": "After the presentations, the committee turned to the city's preliminary budget response, which had been passed around during the briefings. Susan explained that there are two packets, capital and expense, and that budget documents are also on the board website under resources. The chair asked for questions. The digest does not record any.",
+      "facts": [
+        ["Packets", "Members received the city's preliminary budget response as two packets, capital and expense."],
+        ["Website", "Budget documents are posted on the board website under resources."],
+        ["Questions", "The chair asked if anyone had questions, and none are recorded."]
+      ],
+      "followups": [],
+      "clips": [
+        {"label": "Budget", "at": "1:00", "seconds": 3614}
+      ]
+    },
+    {
+      "id": "term-limits-setup",
+      "label": "Term limits and setup",
+      "clock": "1:11",
+      "minutes": 7,
+      "outcome": "Heard with no vote.",
+      "summary": "The last agenda item was transition planning for term limits. The chair said the committee had talked about splitting that planning up, and then the digest turns to the new hybrid setup. Members said only one screen was working, another was black, and the presentations were hard to read. Sound was described as good, with requests for slightly more volume and more microphones. The chair asked why the back screen was not in use and invited more feedback.",
+      "facts": [
+        ["Term limits", "The agenda item was transition planning for term limits, including a prior idea about splitting duties."],
+        ["Screens", "One screen was working and another was black, so shared presentations were smaller than members are used to."],
+        ["Sound", "Sound quality was called good, with a request to raise the volume slightly and to have more microphones."],
+        ["Back screen", "The chair said they want to know why the back screen is not being used."]
+      ],
+      "followups": [
+        ["Chair", "Find out why the back screen is unused and collect feedback on microphones and volume."]
+      ],
+      "clips": [
+        {"label": "Hybrid setup", "at": "1:11", "seconds": 4319}
+      ]
+    }
+  ]
+}

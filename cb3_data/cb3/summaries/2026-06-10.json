@@ -1,0 +1,88 @@
+{
+  "date": "2026-06-10",
+  "title": "Land Use, Zoning, Public & Private Housing Committee",
+  "youtube_id": "Eq5cU6hBwsk",
+  "duration_sec": 4880,
+  "one_line": "The land use committee voted unanimously on Essex Market feedback for EDC, heard a community land trust briefing, and set deadlines for district needs.",
+  "votes": 1,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "essex-market-rfp",
+      "label": "Essex Market partner",
+      "clock": "4:04",
+      "minutes": 35,
+      "outcome": "Voted; the resolution passed unanimously, with two people present and not voting.",
+      "summary": "EDC came for feedback before an RFP for a community partner at Essex Market. Dana Tainter, from EDC government and community affairs, said a six-month extension of the existing contract gives time to hear from the community board before the competitive RFP, and that the RFP itself cannot be highly specific. She asked for comments by July 15 so they are in hand when the RFP is shaped, and said later comments are still welcome. Members said the city-owned market should stay a public market for the community, referring to a Burlington Coat Factory situation they had seen in EDC letters, and asked about a community-needs assessment. The partner role was described as a local presence that leads programming and nonprofit partnerships. The committee read a resolution, made no changes, and passed it unanimously. Two people were present and not voting. Further comments can still go to the full board or back to EDC.",
+      "facts": [
+        ["Community partner RFP", "EDC is preparing a request for proposals for a community partner at Essex Market and wanted board feedback first."],
+        ["Contract extension", "A six-month extension of the existing contract adds time before the RFP. EDC said a competitive process limits how specific the RFP can be."],
+        ["July 15", "Comments EDC should have before drafting begins were requested by July 15. Feedback can continue after that."],
+        ["What the partner does", "EDC described a local presence with community ties that leads programming and partnerships with other nonprofits."],
+        ["Public market", "Members said the city-owned market should remain for the public and referred to a Burlington Coat Factory situation described in letters from EDC. They asked whether a community-needs assessment is planned."],
+        ["Vote", "The resolution was not changed. It passed unanimously. Two people were present and not voting. The chair did not expect new additions at the full board, and said more feedback can still be sent."]
+      ],
+      "followups": [
+        ["Committee", "Get any must-have Essex Market comments to EDC by July 15."],
+        ["Damaris Reyes", "Forward later feedback to EDC or add it at the full board."],
+        ["EDC", "Use the June resolution as input before the community-partner RFP is drafted."]
+      ],
+      "clips": [
+        {"label": "EDC presentation", "at": "4:04", "seconds": 244},
+        {"label": "July 15 deadline", "at": "11:32", "seconds": 692},
+        {"label": "Unanimous vote", "at": "30:16", "seconds": 1816}
+      ]
+    },
+    {
+      "id": "community-land-trusts",
+      "label": "Community land trusts",
+      "clock": "38:57",
+      "minutes": 24,
+      "outcome": "Briefing only; no vote was taken on community land trusts.",
+      "summary": "Presenters described community land trusts as a way to keep housing permanently and deeply affordable and to hold other inclusive space. They traced CLTs to civil rights organizers in Georgia in the late 1960s and said there are more than 200 nationwide. A trust keeps the land and uses a ground lease, plus seats on the HDFC or LLC board, so affordability does not rest only on paper restrictions. They said some nonprofits, including the Salvation Army and the Bowery Mission, have looked to sell property at market prices. Members asked whether HPD should baseline a CLT program or add funding to one already baselined. Susan Stetzer said CLTs are still in the district needs text and that funding questions belong in the July agency consultations. Materials were left for members to take and share. Nobody had signed up to speak.",
+      "facts": [
+        ["Purpose", "CLTs were presented as a tool for permanently and deeply affordable housing and other space that stays inclusive."],
+        ["History", "The presenters said the first CLTs were started by civil rights organizers in Georgia in the late 1960s after people were evicted from farming communities, and that more than 200 CLTs exist."],
+        ["How control works", "The trust owns the land. A ground lease and seats on the HDFC or LLC board give what the speaker called feet on the ground, beyond regulatory agreements and deed restrictions."],
+        ["Nonprofit sales", "The presenter asked why a nonprofit developer would need a CLT and named the Salvation Army and the Bowery Mission as nonprofits that have sought to sell property for what the market will pay."],
+        ["Operating money", "Older buildings were described as using rent to pay for maintenance so the project is not left waiting on future government grants. Programs referred to as 521A and 421A were contrasted as private affordable housing that does not depend on later grants."],
+        ["Funding ask", "A member asked whether HPD should baseline a program or increase funding for a program that is already baselined. CLTs were said to still be in the district needs document."]
+      ],
+      "followups": [
+        ["Susan Stetzer", "Ask agencies in the July consultations whether CLT-related programs are funded or need more money."],
+        ["Committee members", "Review the CLT handouts and share them."]
+      ],
+      "clips": [
+        {"label": "CLT model", "at": "38:57", "seconds": 2337},
+        {"label": "Ground lease", "at": "42:25", "seconds": 2545},
+        {"label": "HPD funding", "at": "1:01:07", "seconds": 3667}
+      ]
+    },
+    {
+      "id": "district-needs",
+      "label": "District needs deadlines",
+      "clock": "1:03:05",
+      "minutes": 18,
+      "outcome": "Briefing only; members were asked for edits and program questions, with no vote.",
+      "summary": "The committee turned from the CLT briefing to its own district needs and budget process. Susan Stetzer asked for official comments within two weeks so a draft can be ready for the next meeting. Comments can be collected by the chair or by John, the vice chair, and sent to her. The goal discussed was to finish comments in July. Budget priorities would be discussed in committee in September. Program votes come in October, and only after members know whether a program is already well funded, because the point is to bring money into the community. Questions now are fact-finding and do not need a vote. She cited earlier work with HPD on the Ella program as the kind of ask that grew out of this process. CLT support was treated as part of that separate budget-priority track.",
+      "facts": [
+        ["Two-week comments", "Official district-needs feedback should reach Susan Stetzer within two weeks. The vice chair, John, was offered as someone who could collect it."],
+        ["July draft", "The committee wants a draft ready for the next meeting and comments finalized in July, ahead of a later board vote."],
+        ["September and October", "Budget priorities will be discussed in committee in September. Program votes are in October."],
+        ["Fact-finding", "Members can send program questions now without voting. Well-funded programs would not be priorities. The aim is more funding for programs the district still needs."],
+        ["Ella program", "Susan Stetzer said that last year or the year before the board worked with HPD on the Ella program and another program that met local needs."]
+      ],
+      "followups": [
+        ["Committee members", "Send district-needs comments and program questions to Susan Stetzer within two weeks."],
+        ["John, land use vice chair", "One option was for the vice chair to collect comments and send them to the district manager."],
+        ["Land use committee", "Discuss budget priorities in September and vote on programs in October."]
+      ],
+      "clips": [
+        {"label": "Needs inform the budget", "at": "1:03:05", "seconds": 3785},
+        {"label": "Two-week feedback", "at": "1:15:46", "seconds": 4546},
+        {"label": "October vote", "at": "1:18:35", "seconds": 4715}
+      ]
+    }
+  ]
+}

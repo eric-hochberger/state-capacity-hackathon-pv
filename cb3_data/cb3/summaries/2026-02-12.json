@@ -1,0 +1,91 @@
+{
+  "date": "2026-02-12",
+  "title": "Parks, Recreation, Waterfront, & Resiliency Committee",
+  "youtube_id": "c4CJ1nAOyRQ",
+  "duration_sec": 5432,
+  "one_line": "Trever Holland's parks committee took a court-event request, discussed park incidents, and voted on support for the East River Park compost yard and education building.",
+  "votes": 1,
+  "letters": 1,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "roosevelt-court-event",
+      "label": "Court event",
+      "clock": "10:34",
+      "minutes": 8,
+      "outcome": "Heard with no vote.",
+      "summary": "An applicant who holds an annual event at the Sarah D. Roosevelt basketball courts said an application and paperwork went to Stacy about a month ago and that follow-up has been hard. Parks staff said the current focus is the Chinese New Year event at those courts, with Steve, including site visits, and that the event is Tuesday. They said they would ask Stacy about the annual event if they see her. No vote was taken.",
+      "facts": [
+        ["Annual event", "The speaker is the applicant for a recurring event at the Sarah D. Roosevelt basketball courts and described it as a longstanding, grandfathered event."],
+        ["Paperwork", "The application was sent to Stacy about a month earlier. The applicant had spoken with her by phone and was still waiting."],
+        ["Chinese New Year", "Staff said their focus has been the Chinese New Year event at Sarah D. Roosevelt with Steve, including site visits at the courts, on Tuesday."]
+      ],
+      "followups": [
+        ["Parks staff", "Said they would ask Stacy about the annual-event paperwork if they are in touch with her."]
+      ],
+      "clips": [
+        {"label": "Basketball court event", "at": "10:34", "seconds": 634}
+      ]
+    },
+    {
+      "id": "park-incidents",
+      "label": "Park incidents",
+      "clock": "18:34",
+      "minutes": 8,
+      "outcome": "Heard with no vote.",
+      "summary": "The committee described a monthly meeting that already includes police, parks, and homeless outreach, where specific incidents are discussed. If an incident is placed on the agenda, PEP can be asked to attend, and entry to the park can be arranged. Speakers asked residents not to wait for the committee meeting. Parks is involved, and the issue was described as broader than parks alone. The office said it would respond if told at the time. No vote was taken.",
+      "facts": [
+        ["Monthly meeting", "Police, parks, and homeless outreach already meet monthly on these incidents."],
+        ["PEP", "If the chair knows an incident will be on the agenda, PEP can be invited and park entry can be arranged."],
+        ["Call sooner", "Residents were asked to contact the office when something happens rather than hold it for the committee. The office said it would be responsive."]
+      ],
+      "followups": [
+        ["District office", "Take incident reports as they happen so police, parks, homeless outreach, and PEP can be lined up."]
+      ],
+      "clips": [
+        {"label": "Incident response", "at": "18:34", "seconds": 1114}
+      ]
+    },
+    {
+      "id": "compost-yard",
+      "label": "Compost yard",
+      "clock": "26:47",
+      "minutes": 50,
+      "outcome": "The committee drafted a resolution and took a roll-call vote. The digest does not give the tally.",
+      "summary": "DDC, NYC Parks, and Marvel Architects presented the East River Park compost yard and education building and asked for consent as part of the PDC process. The committee said it would write a resolution, then read a draft stating that CB3 supports the design and took a roll-call vote. Questions covered compost operations, paved and active areas, mitigation, solar panels, programming, wayfinding, and when the public can enter a site that has equipment. The design includes a demonstration garden described as a food-justice garden. Parks also addressed shade, including a letter on temporary shade and shade elsewhere in East River Park.",
+      "facts": [
+        ["Project", "The presentation covered compost-yard operations, active versus paved areas, mitigation, solar panels, and the education building's capacity and programming. The committee said it would write a resolution after the presentation."],
+        ["Access and garden", "Operators do not want people walking into equipment, and they do want the community in at other times. A demonstration garden at the end of the site is framed as a food-justice garden, with teaching on composting, the estuary, and food systems."],
+        ["Wayfinding", "Parks described standard green signs with white lettering and arrows to fields, the compost yard, and the education building. There is no current plan for a full-park map of the Central Park type."],
+        ["Shade", "Theres Flores, regional manager, was cited on a letter about temporary shade. Parks is looking at that. Separate talks with chief of staff Steve Simon and a deputy chief cover shade in other parts of East River Park. Some shade structures are in the park now and are to go in at the north end."],
+        ["Resolution", "The sentence read aloud was that CB3 supports the design of the East River Park compost yard and educational building by DDC, NYC Parks, and Marvel Architects. The committee took a roll-call vote. The digest does not record the tally."]
+      ],
+      "followups": [
+        ["Parks", "Keep looking at temporary shade, including other areas of East River Park."],
+        ["Committee", "A support resolution was drafted and voted for the PDC design review. The tally is not in the digest."]
+      ],
+      "clips": [
+        {"label": "Compost yard design", "at": "26:47", "seconds": 1607}
+      ]
+    },
+    {
+      "id": "member-resources",
+      "label": "Member resources",
+      "clock": "1:27:29",
+      "minutes": 4,
+      "outcome": "Heard with no vote.",
+      "summary": "The closing item was how the committee keeps records as members hit term limits. Under member resources, a folder has been started for each committee. Human services is the one that has material so far. Trever Holland said the parks priorities are budget documents and a timeline, so institutional knowledge about the parks is not lost. He did not identify other parks procedure documents as urgent. No vote was taken.",
+      "facts": [
+        ["Folders", "A folder for each committee now sits under member resources. Human services is the one beginning to be filled."],
+        ["Parks priorities", "The chair wants budget material and a timeline captured first. Other operating questions can be written down over time."],
+        ["Term limits", "The reason given is loss of institutional knowledge about the parks as members term out."]
+      ],
+      "followups": [
+        ["District office", "Continue filling committee folders, starting from the budget material and a parks timeline."]
+      ],
+      "clips": [
+        {"label": "Committee folders", "at": "1:27:29", "seconds": 5249}
+      ]
+    }
+  ]
+}

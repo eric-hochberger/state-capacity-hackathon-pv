@@ -1,0 +1,95 @@
+{
+  "date": "2026-01-20",
+  "title": "Land Use, Zoning, Public & Private Housing Committee",
+  "youtube_id": "vstvb8dZ9Xk",
+  "duration_sec": 5119,
+  "one_line": "The land use committee heard a work plan on using adopted housing policy for affordability and a city research briefing, and put off the Essex Street Market item.",
+  "votes": null,
+  "letters": 0,
+  "deferred": 1,
+  "segments": [
+    {
+      "id": "housing-policy-work-plan",
+      "label": "Housing work plan",
+      "clock": "6:31",
+      "minutes": 29,
+      "outcome": "Briefing only.",
+      "summary": "Juliana, introduced as from BJ New York, presented a work plan on a city housing law that is already in effect and on the UAP program. She framed the question as how to limit negative impacts and use the law to keep affordable housing in the district. A member said CB3 had supported UAP and that the project should also look for ways to use the policy, not only treat it as harmful. She described site analysis, interviews, case studies, and policy recommendations, on about 12 hours a week, with a cohort presentation on April 9 and materials to the board around April 10. No vote was taken.",
+      "facts": [
+        ["Question", "Because the law is already in effect, the project asks how to limit negative impacts and use city provisions to maintain affordable housing."],
+        ["CB3 position", "A member said the board supported UAP as adopted, and that the work should look for ways to use the policy as well as ways to avoid harm."],
+        ["Deliverables", "Site analysis, expert interviews, case studies from other places, and policy and advocacy recommendations. Feedback on who to interview was requested."],
+        ["Timeline", "About 12 hours a week. Cohort presentation April 9. Submission to the board around April 10, described as mid-April."],
+        ["Public comment", "A speaker suggested talking with affordable-housing developers who have worked in the district. No further public questions were taken."]
+      ],
+      "followups": [
+        ["Juliana", "Asked the committee who she should interview and for feedback on the deliverables."],
+        ["Committee", "Offered to help clarify the deliverables. No vote was requested."]
+      ],
+      "clips": [
+        {"label": "Work plan presentation", "at": "6:31", "seconds": 391}
+      ]
+    },
+    {
+      "id": "housing-programs-briefing",
+      "label": "Housing programs",
+      "clock": "37:09",
+      "minutes": 35,
+      "outcome": "Briefing only.",
+      "summary": "Brian Kane, assistant director for housing and infrastructure at an independent New York City research agency, and Sarah, lead housing policy and budget analyst, briefed the committee on housing programs. They described the agency as created in a 1990s charter revision, funded in the city budget, and not under an elected official. The presentation compared UAP, VIH, MIH, and VIP, including where the programs apply. They had no unit projections for the district and said the budget does not readily show where housing resources land. No vote was taken.",
+      "facts": [
+        ["Agency", "Brian Kane and Sarah described a city-funded research office with a protected budget, created by a 1990s charter revision and not under an elected official."],
+        ["UAP and VIH", "UAP was described as requiring deeper affordability, an average the presenter put at 60% EMI, a bigger tradeoff for developers than VIH."],
+        ["Map", "The presenters mapped VIH, MIH, and newer VIP areas. They said there is not yet data on whether developers are using the newer program because applications only recently began."],
+        ["No projection", "They did not project how many UAP units the district could see under current zoning and MIH. They called that too dependent on moving parts."],
+        ["Budget", "They said it is very hard to see in the city budget where these housing resources land, and that there is still no clear way to track fair share for housing."]
+      ],
+      "followups": [
+        ["Presenters", "Said developer interest in the newer program, and where subsidies land, are questions to watch. No committee action was taken."]
+      ],
+      "clips": [
+        {"label": "Agency briefing", "at": "37:09", "seconds": 2229}
+      ]
+    },
+    {
+      "id": "essex-market-postponed",
+      "label": "Essex Market",
+      "clock": "1:12:06",
+      "minutes": 6,
+      "outcome": "Deferred to next month.",
+      "summary": "The Essex Street Market item was on the agenda and was not heard. The committee said Tim is gathering prior legal resolutions and community-board recommendations about the market so those can support a later letter. He is to return next month with those findings and continue the discussion. The same stretch of the agenda also flagged planning for term limits.",
+      "facts": [
+        ["Not heard", "A presentation and discussion with Tim on the Essex Street Market was supposed to happen this month and did not."],
+        ["Research", "Tim is collecting legal resolutions and prior community-board recommendations so the committee can write with that record."],
+        ["Next month", "He will come back next month to share the findings and continue the discussion."]
+      ],
+      "followups": [
+        ["Tim", "Return next month with the Essex Street Market research and recommendations."],
+        ["Committee", "Plans to use that record when it writes about the market."]
+      ],
+      "clips": [
+        {"label": "Market item postponed", "at": "1:12:06", "seconds": 4326}
+      ]
+    },
+    {
+      "id": "committee-procedures",
+      "label": "Committee procedures",
+      "clock": "1:17:57",
+      "minutes": 8,
+      "outcome": "Heard with no vote.",
+      "summary": "The committee talked about how it handles land-use applications and about a landmarks subcommittee. Members said the board wants a presentation before the month it votes, so it is not learning and voting in the same month. They discussed a written resource for that procedure. Sandra noted there is no landmarks subcommittee yet. The committee said it intends to create one and has not settled a specific proposal after several discussions.",
+      "facts": [
+        ["Before the vote", "Members said they want a pre-certification style presentation so the board is not hearing a land-use item and voting in the same month."],
+        ["Written procedure", "They discussed a document on how the committee handles those applications, with help from the office."],
+        ["Landmarks", "Sandra said she did not see a landmarks subcommittee. The committee said it intends to have one and has not agreed on a specific setup."],
+        ["Term limits", "Planning for term limits was listed with the remaining business and was not finished in this portion of the digest."]
+      ],
+      "followups": [
+        ["Committee", "The office can help on procedures. No specific landmarks proposal was adopted."]
+      ],
+      "clips": [
+        {"label": "Land-use procedures", "at": "1:17:57", "seconds": 4677}
+      ]
+    }
+  ]
+}

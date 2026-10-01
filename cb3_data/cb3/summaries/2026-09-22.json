@@ -1,0 +1,121 @@
+{
+  "date": "2026-09-22",
+  "title": "FY 2028 Budget Priorities",
+  "youtube_id": "oRuS-hctPZw",
+  "duration_sec": 934,
+  "one_line": "The board chair opened an FY2028 budget-priorities hearing, Susan Stetzer explained the process, residents testified, and the hearing adjourned with no vote.",
+  "votes": 0,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "budget-process",
+      "label": "Budget process",
+      "clock": "0:00",
+      "minutes": 7,
+      "outcome": "Briefing only.",
+      "summary": "The chair of the board, whose name is garbled in the caption, opened the public hearing on FY2028 budget priorities. Susan Stetzer, the district manager, explained that each year the board votes capital and expense priorities for the district. She said the board gets 40 capital items and 25 expense items. Members hear the public at this hearing and in committees, weigh what they have heard all year, and meet with agencies this month.",
+      "facts": [
+        [
+          "Counts",
+          "The board gets 40 capital priorities and 25 expense priorities."
+        ],
+        [
+          "Input",
+          "Public comment at this hearing and in committees is considered along with what members have heard all year."
+        ],
+        [
+          "Agencies",
+          "Agency meetings happen this month as part of the same process."
+        ]
+      ],
+      "followups": [
+        [
+          "Board",
+          "Agency meetings and committee hearings still feed the priority list. This hearing itself took no vote."
+        ]
+      ],
+      "clips": [
+        {
+          "label": "Stetzer explains priorities",
+          "at": "0:00",
+          "seconds": 0
+        }
+      ]
+    },
+    {
+      "id": "public-testimony",
+      "label": "Resident testimony",
+      "clock": "0:07",
+      "minutes": 7,
+      "outcome": "Heard with no vote.",
+      "summary": "Residents spoke. One asked for a red-light camera where cars run the light; the board has backed those cameras through transportation, and more followed last year's priorities. Tanya Castro-Negron of Lands End Two Bridges asked to finish PS 126 Jacob Riis School, renovate Coleman Playground, and fund waterfront air monitoring and nearby street needs, and she emailed her remarks. Land-use ideas that are not budget items were redirected to committee, and drug use was pointed to constituent services.",
+      "facts": [
+        [
+          "Red-light camera",
+          "A resident asked for a camera where drivers run the light. The board already supported red-light and speed cameras, and more red-light cameras followed last year's priorities."
+        ],
+        [
+          "PS 126",
+          "Testimony asked to finish work at PS 126 Jacob Riis School so scaffolding can come down."
+        ],
+        [
+          "Coleman Playground",
+          "Testimony asked to prioritize Coleman Playground renovations that affect families and students getting to school."
+        ],
+        [
+          "Waterfront and streets",
+          "Testimony also asked for waterfront air-quality monitoring and attention to Catherine, Cherry, and Pike, including a small island on Catherine between South Street and Cherry Street."
+        ],
+        [
+          "Not budget items",
+          "Land-use ideas that are not budget items were redirected to committee. Drug use and similar problems were directed to constituent services."
+        ]
+      ],
+      "followups": [
+        [
+          "District office",
+          "The Two Bridges testimony was emailed so it can be used in the priority process."
+        ],
+        [
+          "Transportation committee",
+          "Red-light cameras were noted as already handled through that committee."
+        ]
+      ],
+      "clips": [
+        {
+          "label": "Red-light camera ask",
+          "at": "0:07",
+          "seconds": 428
+        },
+        {
+          "label": "Two Bridges testimony",
+          "at": "0:12",
+          "seconds": 753
+        }
+      ]
+    },
+    {
+      "id": "adjournment",
+      "label": "Hearing adjourns",
+      "clock": "0:14",
+      "minutes": 2,
+      "outcome": "Adjourned with no vote.",
+      "summary": "The chair asked whether anyone else wanted to speak, then adjourned. The hearing ended without a vote that night. Speakers were thanked for feedback on priorities.",
+      "facts": [
+        [
+          "No vote",
+          "The chair adjourned after public comment. No budget priorities were voted at the hearing."
+        ]
+      ],
+      "followups": [],
+      "clips": [
+        {
+          "label": "Adjournment",
+          "at": "0:14",
+          "seconds": 851
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "date": "2026-04-09",
+  "title": "Health, Seniors, & Human Services / Youth, Education, & Human Rights Committee",
+  "youtube_id": "FbEeieCvNS8",
+  "duration_sec": 4097,
+  "one_line": "The health committee heard the Independent Budget Office on B-HEARD and household income, opened a term-limits discussion, and heard that a PS 20 life center would be spread across schools.",
+  "votes": null,
+  "letters": 0,
+  "deferred": 0,
+  "segments": [
+    {
+      "id": "be-heard-briefing",
+      "label": "B-HEARD briefing",
+      "clock": "0:00",
+      "minutes": 24,
+      "outcome": "Briefing only; no vote was taken.",
+      "summary": "Mae Lee opened with roll call and turned to the Independent Budget Office, invited to cover federal changes affecting low-income households and the B-HEARD program. Two speakers presented from a slideshow that is also on the board website. On B-HEARD, they said call volume is declining while response time is slowing: the median moved from about 10 minutes at the start of the period to about 16 minutes at the end. The digest does not include a committee vote.",
+      "facts": [
+        ["Topics", "The Independent Budget Office was invited to cover federal changes for low-income households and B-HEARD."],
+        ["Slideshow", "Two speakers presented in the room from a slideshow that is also posted on the board website."],
+        ["Call volume", "B-HEARD call volume was described as declining over time."],
+        ["Response time", "The median response time slowed from about 10 minutes to about 16 minutes."]
+      ],
+      "followups": [],
+      "clips": [
+        {"label": "IBO opening", "at": "0:00", "seconds": 0},
+        {"label": "Response times", "at": "0:15", "seconds": 933}
+      ]
+    },
+    {
+      "id": "income-and-staffing",
+      "label": "Income and staffing",
+      "clock": "0:23",
+      "minutes": 18,
+      "outcome": "Briefing only; questions were heard and no vote was taken.",
+      "summary": "A member questioned an income measure illustrated at about $32,000, saying someone making $33,000 would not be counted, and argued that a New York City family of four around $40,000 can still be left out of a figure given as 23 percent. Another member said social workers are not fully trained for behavioral-health calls and asked why teams use licensed clinical social workers rather than mental-health counselors. The presenters said that is the structure for now, that it might change, and that there is a shortage of licensed clinicians. The briefing then ended.",
+      "facts": [
+        ["Income cutoff", "A member used about $32,000 as the line at which someone making $33,000 would not be counted."],
+        ["23 percent", "The member questioned a 23 percent figure and pointed to families of four around $40,000 in New York City."],
+        ["Staffing", "A member asked why teams are clinical social workers rather than mental-health counselors."],
+        ["Current model", "Presenters said licensed clinical social workers are the structure for now and that it might change."],
+        ["Shortage", "The exchange noted a shortage of licensed clinical social workers."]
+      ],
+      "followups": [],
+      "clips": [
+        {"label": "Income measure", "at": "0:23", "seconds": 1438},
+        {"label": "Who responds", "at": "0:25", "seconds": 1543}
+      ]
+    },
+    {
+      "id": "term-limits-planning",
+      "label": "Term limits planning",
+      "clock": "0:42",
+      "minutes": 23,
+      "outcome": "Heard with no vote; the digest does not include the rest of the discussion.",
+      "summary": "After the budget office left, the chair began to name a cannabis leasing ordinance and then said the next item was planning for term limits. She asked whether people wanted to raise points. The digest does not include the rest of that discussion or any motion.",
+      "facts": [
+        ["Next item", "The chair corrected the next item from a cannabis leasing ordinance to planning for term limits."],
+        ["Discussion", "She asked members whether they wanted to raise points on term limits."],
+        ["Record", "The caption digest skips the remainder of the term-limits discussion."]
+      ],
+      "followups": [],
+      "clips": [
+        {"label": "Term limits", "at": "0:42", "seconds": 2534}
+      ]
+    },
+    {
+      "id": "school-life-centers",
+      "label": "School life centers",
+      "clock": "1:05",
+      "minutes": 3,
+      "outcome": "Heard with no vote.",
+      "summary": "A member reported a small meeting held the day before a school holiday. A woman who had wanted a life center at PS 20 for new immigrant families said she changed her mind and now wants the resources placed in each school, using space the schools already have. She said that would be more convenient for students and would cost less. The report also said the UFT is involved in training teachers.",
+      "facts": [
+        ["PS 20", "A proposed life center at PS 20 for new immigrant families was dropped."],
+        ["Each school", "The plan is now to locate the resources in each school, using space the schools already have."],
+        ["Cost", "Spreading the center was described as more convenient and less costly."],
+        ["UFT", "The UFT was said to be involved in training teachers."]
+      ],
+      "followups": [],
+      "clips": [
+        {"label": "PS 20 change", "at": "1:05", "seconds": 3915}
+      ]
+    }
+  ]
+}

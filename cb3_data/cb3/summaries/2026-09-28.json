@@ -1,0 +1,78 @@
+{
+  "date": "2026-09-28",
+  "title": "Transportation, Public Safety, Sanitation & Environment",
+  "youtube_id": "tA14qBzEGiM",
+  "duration_sec": 11729,
+  "one_line": "The transportation committee heard a rodent briefing, deferred a restroom resolution, and discussed street data, a Manhattan Bridge letter, and an October e-bike confiscation.",
+  "votes": 0,
+  "letters": 1,
+  "deferred": 1,
+  "segments": [
+    {
+      "id": "sidewalks",
+      "label": "Sidewalk hazards",
+      "clock": "0:00",
+      "minutes": 12,
+      "outcome": "Heard. No action taken.",
+      "summary": "Sam, a disabled resident who walks with leg braces, warned that sidewalks around a Lower East Side consolidated housing section are class-A hazards. He said 311 has been recording them as ordinary broken sidewalks, that he has filed on the order of 20 complaints, and that DOT crews are already breaking out cement. Chair Vincent Cirrito cut the comment short so the scheduled presenters could start, and pointed him to the district office.",
+      "facts": [],
+      "followups": [],
+      "clips": [{ "label": "Public comment", "at": "0:00", "seconds": 0 }]
+    },
+    {
+      "id": "rats",
+      "label": "Rat inspections",
+      "clock": "0:12",
+      "minutes": 54,
+      "outcome": "Briefing only. No vote.",
+      "summary": "DOHMH walked through rodent inspections for every tax lot in the district. The headline in the press, a 37% surge in CB3 rodent complaints, is mostly repeat 311 calls on the same properties, not a uniform rise. Failure is concentrated on city-owned sites. Private buildings are containerizing; NYCHA developments and tree pits are not. East 5th Street dominated the questions, including a resident who said precinct garbage in bags is feeding the rats.",
+      "facts": [],
+      "followups": [],
+      "clips": [{ "label": "10% failure rate", "at": "0:16", "seconds": 997 }]
+    },
+    {
+      "id": "restrooms",
+      "label": "Public restrooms",
+      "clock": "1:06",
+      "minutes": 70,
+      "outcome": "Resolution postponed to next month. Units still install in October.",
+      "summary": "DOT and Throne presented the modular public-restroom pilot. CB3 is getting two of 17 citywide units, at Cooper Square and at Delancey and Suffolk. The committee liked the idea and pushed on the 10-minute limit, accessibility cards, Chinese signage, privacy, and how cleanliness will be measured. They will write a supportive resolution with those conditions next month rather than vote on a draft nobody had seen.",
+      "facts": [],
+      "followups": [],
+      "clips": [{ "label": "Throne presentation", "at": "1:06", "seconds": 3966 }]
+    },
+    {
+      "id": "buses",
+      "label": "Crosstown buses",
+      "clock": "2:16",
+      "minutes": 20,
+      "outcome": "No project chosen. Staff will pick one and return.",
+      "summary": "A partner offered nine street-data analyses. Several are already public or stuck with a vendor. Members pushed hardest on crosstown buses: service on the remaining routes is about hourly, Grand Street lost its crosstown bus, and streets from 14th Street up have Select Bus Service. The question is whether the data can show that gap against the rest of Manhattan.",
+      "facts": [],
+      "followups": [],
+      "clips": [{ "label": "Crosstown buses", "at": "2:24", "seconds": 8669 }]
+    },
+    {
+      "id": "bridge",
+      "label": "Manhattan Bridge exit",
+      "clock": "2:36",
+      "minutes": 25,
+      "outcome": "Letter read aloud. Not yet sent.",
+      "summary": "Staff read a letter on the September 10 crash at the Manhattan Bridge exit. As read into the record: at about 10:20 a.m. a truck loaded with wooden pallets came westbound off the bridge, mounted the sidewalk turning right onto the Bowery, and struck three pedestrians. A 77-year-old man died at Bellevue. Two women, 71 and 52, survived. The letter asks for immediate safety work at the bridge exits, separate from the longer Canal Street redesign. The investigation is open, and the letter had not gone out.",
+      "facts": [],
+      "followups": [],
+      "clips": [{ "label": "Letter read aloud", "at": "2:36", "seconds": 9410 }]
+    },
+    {
+      "id": "ebikes",
+      "label": "E-bike parking",
+      "clock": "3:01",
+      "minutes": 14,
+      "outcome": "Letter to the 9th Precinct went out during the meeting. October 7 enforcement still planned.",
+      "summary": "The 9th Precinct plans to confiscate illegally parked e-bikes on October 7 around East 11th Street and First Avenue, where delivery workers gather near a mosque. A letter emailed to the commanding officer during the meeting asks the precinct to do outreach that day instead of a mass confiscation. JOCO is searching for a nearby charging site, with money from Grubhub and Uber.",
+      "facts": [],
+      "followups": [],
+      "clips": [{ "label": "October 7 enforcement", "at": "3:01", "seconds": 10909 }]
+    }
+  ]
+}
