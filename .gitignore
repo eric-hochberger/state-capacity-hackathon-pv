@@ -1,0 +1,9 @@
+.DS_Store
+.env
+__pycache__/
+
+# Local scrape dumps. GitHub rejects files over 100MB.
+cb3_data/erm2-nwe9.jsonl
+cb3_data/parts/
+cb3_data/**/*.jsonl
+cb3_data/*.dat
